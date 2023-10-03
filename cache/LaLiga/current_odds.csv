@@ -1,0 +1,22 @@
+,Date,HomeTeam,AwayTeam,O2.5,U2.5,HomeTeamWinOdds,AwayTeamWinOdds,DrawOdds
+0,2023-10-02,Las Palmas,Celta Vigo,2.25,1.6,2.88,2.5,3.2
+1,2023-10-06,Athletic Bilbao,Almería,1.67,2.1,1.44,6.5,4.6
+2,2023-10-07,Cádiz CF,Girona,1.91,1.8,3.2,2.2,3.4
+3,2023-10-07,Real Madrid,CA Osasuna,1.57,2.3,1.29,9.5,5.5
+4,2023-10-07,Mallorca,Valencia,2.38,1.53,2.45,3.0,3.1
+5,2023-10-07,Sevilla,Rayo Vallecano,2.0,1.73,1.8,4.33,3.6
+6,2023-10-08,Villarreal,Las Palmas,1.73,2.0,1.5,6.0,4.33
+7,2023-10-08,Atlético Madrid,Real Sociedad,2.05,1.7,1.8,4.2,3.7
+8,2023-10-08,Alavés,Real Betis,2.5,1.5,2.8,2.6,3.1
+9,2023-10-08,Celta Vigo,Getafe,2.62,1.44,2.05,3.8,3.25
+10,2023-10-08,Granada CF,Barcelona,1.5,2.5,7.5,1.35,5.0
+11,2023-10-20,CA Osasuna,Granada CF,2.1,1.67,1.83,4.33,3.5
+12,2023-10-21,Real Sociedad,Mallorca,2.5,1.5,1.5,7.5,3.8
+13,2023-10-21,Getafe,Real Betis,2.5,1.5,2.5,3.0,3.1
+14,2023-10-21,Sevilla,Real Madrid,1.7,2.05,3.5,1.95,3.75
+15,2023-10-21,Celta Vigo,Atlético Madrid,2.1,1.67,3.2,2.2,3.4
+16,2023-10-22,Las Palmas,Rayo Vallecano,2.25,1.6,2.6,2.7,3.25
+17,2023-10-22,Girona,Almería,1.62,2.2,1.6,5.0,4.2
+18,2023-10-22,Villarreal,Alavés,1.91,1.8,1.67,5.0,3.8
+19,2023-10-22,Barcelona,Athletic Bilbao,1.67,2.1,1.4,7.5,4.8
+20,2023-10-23,Valencia,Cádiz CF,2.2,1.62,1.83,4.2,3.6

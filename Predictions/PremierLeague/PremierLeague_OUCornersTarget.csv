@@ -1,0 +1,18 @@
+,GameID_x,Date,Team_x,Opponent_x,preds_x,GameID_y,Team_y,Opponent_y,preds_y
+0,0,2023-09-30,Aston Villa,Brighton,1,0,Brighton,Aston Villa,1
+2,1,2023-09-30,Burnley,Newcastle,1,1,Newcastle,Burnley,1
+4,2,2023-09-30,West Ham,Sheffield United,1,2,Sheffield United,West Ham,1
+6,3,2023-09-30,Arsenal,Bournemouth,1,3,Bournemouth,Arsenal,1
+8,4,2023-09-30,Tottenham,Liverpool,1,4,Liverpool,Tottenham,0
+10,6,2023-09-30,Wolves,Man City,0,6,Man City,Wolves,1
+12,7,2023-09-30,Man United,Crystal Palace,1,7,Crystal Palace,Man United,1
+14,8,2023-10-01,Forest,Brentford,1,8,Brentford,Forest,1
+16,9,2023-10-02,Chelsea,Fulham,1,9,Fulham,Chelsea,1
+18,11,2023-10-07,Fulham,Sheffield United,1,11,Sheffield United,Fulham,1
+20,12,2023-10-07,Bournemouth,Everton,1,12,Everton,Bournemouth,0
+22,15,2023-10-07,Brentford,Man United,1,15,Man United,Brentford,1
+24,16,2023-10-07,Forest,Crystal Palace,0,16,Crystal Palace,Forest,1
+26,17,2023-10-08,Brighton,Liverpool,1,17,Liverpool,Brighton,1
+28,18,2023-10-08,Man City,Arsenal,1,18,Arsenal,Man City,1
+30,19,2023-10-08,Wolves,Aston Villa,1,19,Aston Villa,Wolves,1
+32,20,2023-10-08,West Ham,Newcastle,0,20,Newcastle,West Ham,1

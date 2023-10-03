@@ -1,0 +1,1566 @@
+,GameID_x,Date,Team_x,Opponent_x,preds_x,actual_x,GameID_y,Team_y,Opponent_y,preds_y,actual_y
+0,6840,2018-08-10,Leicester,Man United,1,1,6840,Man United,Leicester,0,0
+2,6842,2018-08-11,Tottenham,Newcastle,0,0,6842,Newcastle,Tottenham,0,1
+4,6843,2018-08-11,Huddersfield,Chelsea,1,1,6843,Chelsea,Huddersfield,0,0
+6,6844,2018-08-11,Brighton,Watford,0,1,6844,Watford,Brighton,0,0
+8,6847,2018-08-12,Man City,Arsenal,0,0,6847,Arsenal,Man City,1,1
+10,6848,2018-08-12,Liverpool,West Ham,0,0,6848,West Ham,Liverpool,1,1
+12,6849,2018-08-12,Southampton,Burnley,0,0,6849,Burnley,Southampton,1,0
+14,6852,2018-08-18,Chelsea,Arsenal,0,0,6852,Arsenal,Chelsea,1,1
+16,6853,2018-08-18,Everton,Southampton,0,0,6853,Southampton,Everton,1,1
+18,6855,2018-08-18,West Ham,Bournemouth,0,1,6855,Bournemouth,West Ham,0,0
+20,6856,2018-08-19,Burnley,Watford,0,1,6856,Watford,Burnley,1,0
+22,6857,2018-08-19,Brighton,Man United,1,0,6857,Man United,Brighton,0,1
+24,6858,2018-08-19,Man City,Huddersfield,0,0,6858,Huddersfield,Man City,1,1
+26,6859,2018-08-20,Crystal Palace,Liverpool,1,1,6859,Liverpool,Crystal Palace,0,0
+28,6860,2018-08-25,West Ham,Arsenal,1,1,6860,Arsenal,West Ham,0,0
+30,6861,2018-08-25,Bournemouth,Everton,0,0,6861,Everton,Bournemouth,0,0
+32,6863,2018-08-25,Liverpool,Brighton,0,0,6863,Brighton,Liverpool,1,1
+34,6864,2018-08-25,Leicester,Southampton,0,0,6864,Southampton,Leicester,0,1
+36,6867,2018-08-26,Newcastle,Chelsea,1,1,6867,Chelsea,Newcastle,0,0
+38,6868,2018-08-26,Crystal Palace,Watford,0,1,6868,Watford,Crystal Palace,0,0
+40,6869,2018-08-27,Tottenham,Man United,0,0,6869,Man United,Tottenham,0,1
+42,6871,2018-09-01,Man City,Newcastle,0,0,6871,Newcastle,Man City,1,1
+44,6872,2018-09-01,Liverpool,Leicester,0,0,6872,Leicester,Liverpool,1,1
+46,6873,2018-09-01,Huddersfield,Everton,1,0,6873,Everton,Huddersfield,0,0
+48,6874,2018-09-01,Chelsea,Bournemouth,0,0,6874,Bournemouth,Chelsea,1,1
+50,6876,2018-09-01,Crystal Palace,Southampton,0,1,6876,Southampton,Crystal Palace,0,0
+52,6877,2018-09-02,Tottenham,Watford,0,1,6877,Watford,Tottenham,1,0
+54,6878,2018-09-02,Burnley,Man United,1,1,6878,Man United,Burnley,0,0
+56,6881,2018-09-15,Leicester,Bournemouth,0,1,6881,Bournemouth,Leicester,0,0
+58,6882,2018-09-15,Watford,Man United,0,1,6882,Man United,Watford,0,0
+60,6883,2018-09-15,Crystal Palace,Huddersfield,0,0,6883,Huddersfield,Crystal Palace,0,1
+62,6884,2018-09-15,Newcastle,Arsenal,0,1,6884,Arsenal,Newcastle,0,0
+64,6886,2018-09-15,Liverpool,Tottenham,0,0,6886,Tottenham,Liverpool,0,1
+66,6887,2018-09-16,Everton,West Ham,0,1,6887,West Ham,Everton,1,0
+68,6889,2018-09-17,Southampton,Brighton,0,0,6889,Brighton,Southampton,1,0
+70,6891,2018-09-22,Southampton,Liverpool,1,1,6891,Liverpool,Southampton,0,0
+72,6892,2018-09-22,Huddersfield,Leicester,1,1,6892,Leicester,Huddersfield,0,0
+74,6894,2018-09-22,Crystal Palace,Newcastle,0,0,6894,Newcastle,Crystal Palace,0,0
+76,6895,2018-09-22,Brighton,Tottenham,0,1,6895,Tottenham,Brighton,0,0
+78,6897,2018-09-22,Bournemouth,Burnley,0,1,6897,Burnley,Bournemouth,0,0
+80,6898,2018-09-23,Arsenal,Everton,0,0,6898,Everton,Arsenal,1,1
+82,6899,2018-09-23,West Ham,Chelsea,1,0,6899,Chelsea,West Ham,0,0
+84,6901,2018-09-29,West Ham,Man United,1,0,6901,Man United,West Ham,0,1
+86,6902,2018-09-29,Leicester,Newcastle,0,0,6902,Newcastle,Leicester,0,1
+88,6903,2018-09-29,Tottenham,Huddersfield,0,0,6903,Huddersfield,Tottenham,1,1
+90,6905,2018-09-29,Chelsea,Liverpool,0,0,6905,Liverpool,Chelsea,0,0
+92,6906,2018-09-29,Arsenal,Watford,0,0,6906,Watford,Arsenal,1,1
+94,6907,2018-09-29,Man City,Brighton,0,0,6907,Brighton,Man City,1,1
+96,6909,2018-10-01,Bournemouth,Crystal Palace,0,0,6909,Crystal Palace,Bournemouth,0,1
+98,6910,2018-10-05,West Ham,Brighton,0,1,6910,Brighton,West Ham,0,0
+100,6911,2018-10-06,Huddersfield,Burnley,0,0,6911,Burnley,Huddersfield,0,0
+102,6913,2018-10-06,Leicester,Everton,0,1,6913,Everton,Leicester,0,0
+104,6914,2018-10-06,Newcastle,Man United,1,1,6914,Man United,Newcastle,0,0
+106,6916,2018-10-06,Bournemouth,Watford,0,0,6916,Watford,Bournemouth,0,1
+108,6917,2018-10-07,Chelsea,Southampton,0,0,6917,Southampton,Chelsea,1,1
+110,6918,2018-10-07,Man City,Liverpool,1,0,6918,Liverpool,Man City,0,0
+112,6920,2018-10-20,Cardiff,Fulham,0,0,6920,Fulham,Cardiff,0,1
+114,6921,2018-10-20,Liverpool,Huddersfield,0,0,6921,Huddersfield,Liverpool,0,1
+116,6922,2018-10-20,Man City,Burnley,0,0,6922,Burnley,Man City,1,1
+118,6923,2018-10-20,Newcastle,Brighton,0,1,6923,Brighton,Newcastle,0,0
+120,6924,2018-10-20,West Ham,Tottenham,1,1,6924,Tottenham,West Ham,0,0
+122,6925,2018-10-20,Watford,Wolves,1,0,6925,Wolves,Watford,0,1
+124,6926,2018-10-20,Southampton,Bournemouth,1,0,6926,Bournemouth,Southampton,0,0
+126,6927,2018-10-20,Man United,Chelsea,1,0,6927,Chelsea,Man United,0,0
+128,6928,2018-10-21,Everton,Crystal Palace,0,0,6928,Crystal Palace,Everton,1,1
+130,6929,2018-10-22,Arsenal,Leicester,0,0,6929,Leicester,Arsenal,1,1
+132,6930,2018-10-27,Wolves,Brighton,0,1,6930,Brighton,Wolves,0,0
+134,6931,2018-10-27,Liverpool,Cardiff,0,0,6931,Cardiff,Liverpool,1,1
+136,6932,2018-10-27,Southampton,Newcastle,0,0,6932,Newcastle,Southampton,0,0
+138,6933,2018-10-27,Huddersfield,Watford,0,1,6933,Watford,Huddersfield,0,0
+140,6934,2018-10-27,Leicester,West Ham,0,0,6934,West Ham,Leicester,0,0
+142,6935,2018-10-27,Fulham,Bournemouth,0,1,6935,Bournemouth,Fulham,0,0
+144,6936,2018-10-28,Burnley,Chelsea,1,1,6936,Chelsea,Burnley,0,0
+146,6937,2018-10-28,Arsenal,Crystal Palace,0,0,6937,Crystal Palace,Arsenal,1,0
+148,6938,2018-10-28,Man United,Everton,0,0,6938,Everton,Man United,0,1
+150,6939,2018-10-29,Man City,Tottenham,0,0,6939,Tottenham,Man City,0,1
+152,6940,2018-11-03,Cardiff,Leicester,1,1,6940,Leicester,Cardiff,0,0
+154,6941,2018-11-03,Man United,Bournemouth,0,0,6941,Bournemouth,Man United,0,1
+156,6942,2018-11-03,Tottenham,Wolves,0,0,6942,Wolves,Tottenham,0,1
+158,6943,2018-11-03,Arsenal,Liverpool,0,0,6943,Liverpool,Arsenal,0,0
+160,6944,2018-11-03,Watford,Newcastle,0,1,6944,Newcastle,Watford,0,0
+162,6945,2018-11-03,West Ham,Burnley,0,0,6945,Burnley,West Ham,1,1
+164,6946,2018-11-03,Brighton,Everton,1,1,6946,Everton,Brighton,0,0
+166,6947,2018-11-04,Crystal Palace,Chelsea,1,1,6947,Chelsea,Crystal Palace,0,0
+168,6948,2018-11-04,Man City,Southampton,0,0,6948,Southampton,Man City,1,1
+170,6949,2018-11-05,Huddersfield,Fulham,0,0,6949,Fulham,Huddersfield,0,1
+172,6950,2018-11-10,Southampton,Watford,0,0,6950,Watford,Southampton,0,0
+174,6951,2018-11-10,Newcastle,Bournemouth,0,0,6951,Bournemouth,Newcastle,0,1
+176,6952,2018-11-10,Crystal Palace,Tottenham,0,1,6952,Tottenham,Crystal Palace,0,0
+178,6953,2018-11-10,West Ham,Huddersfield,0,0,6953,Huddersfield,West Ham,0,0
+180,6954,2018-11-10,Leicester,Burnley,0,0,6954,Burnley,Leicester,1,0
+182,6955,2018-11-10,Brighton,Cardiff,0,1,6955,Cardiff,Brighton,0,0
+184,6956,2018-11-11,Arsenal,Wolves,0,0,6956,Wolves,Arsenal,0,0
+186,6957,2018-11-11,Everton,Chelsea,1,0,6957,Chelsea,Everton,0,0
+188,6958,2018-11-11,Liverpool,Fulham,0,0,6958,Fulham,Liverpool,1,1
+190,6959,2018-11-11,Man City,Man United,0,0,6959,Man United,Man City,1,1
+192,6960,2018-11-24,Man City,West Ham,0,0,6960,West Ham,Man City,1,1
+194,6961,2018-11-24,Liverpool,Watford,0,0,6961,Watford,Liverpool,1,1
+196,6962,2018-11-24,Crystal Palace,Man United,1,0,6962,Man United,Crystal Palace,0,0
+198,6963,2018-11-24,Southampton,Fulham,0,1,6963,Fulham,Southampton,0,0
+200,6964,2018-11-24,Cardiff,Everton,1,1,6964,Everton,Cardiff,0,0
+202,6965,2018-11-24,Tottenham,Chelsea,0,0,6965,Chelsea,Tottenham,0,1
+204,6966,2018-11-24,Leicester,Brighton,0,0,6966,Brighton,Leicester,0,0
+206,6967,2018-11-25,Wolves,Huddersfield,0,1,6967,Huddersfield,Wolves,1,0
+208,6968,2018-11-25,Bournemouth,Arsenal,0,1,6968,Arsenal,Bournemouth,0,0
+210,6969,2018-11-26,Newcastle,Burnley,0,0,6969,Burnley,Newcastle,0,1
+212,6970,2018-11-30,Cardiff,Wolves,0,0,6970,Wolves,Cardiff,0,1
+214,6971,2018-12-01,Crystal Palace,Burnley,0,0,6971,Burnley,Crystal Palace,0,1
+216,6972,2018-12-01,Brighton,Huddersfield,0,0,6972,Huddersfield,Brighton,0,1
+218,6973,2018-12-01,Man City,Bournemouth,0,0,6973,Bournemouth,Man City,1,1
+220,6974,2018-12-01,West Ham,Newcastle,0,0,6974,Newcastle,West Ham,0,1
+222,6975,2018-12-01,Southampton,Man United,0,0,6975,Man United,Southampton,0,0
+224,6976,2018-12-01,Watford,Leicester,0,1,6976,Leicester,Watford,0,0
+226,6977,2018-12-02,Tottenham,Arsenal,0,1,6977,Arsenal,Tottenham,0,0
+228,6978,2018-12-02,Fulham,Chelsea,1,1,6978,Chelsea,Fulham,0,0
+230,6979,2018-12-02,Liverpool,Everton,0,0,6979,Everton,Liverpool,1,1
+232,6980,2018-12-04,Watford,Man City,1,1,6980,Man City,Watford,0,0
+234,6981,2018-12-04,Bournemouth,Huddersfield,0,0,6981,Huddersfield,Bournemouth,1,1
+236,6982,2018-12-04,Cardiff,West Ham,1,1,6982,West Ham,Cardiff,0,0
+238,6983,2018-12-04,Brighton,Crystal Palace,0,0,6983,Crystal Palace,Brighton,0,1
+240,6984,2018-12-05,Tottenham,Southampton,0,0,6984,Southampton,Tottenham,1,1
+242,6985,2018-12-05,Liverpool,Burnley,0,0,6985,Burnley,Liverpool,1,1
+244,6986,2018-12-05,Newcastle,Everton,1,0,6986,Everton,Newcastle,0,0
+246,6987,2018-12-05,Leicester,Fulham,0,0,6987,Fulham,Leicester,0,0
+248,6988,2018-12-05,Man United,Arsenal,0,0,6988,Arsenal,Man United,0,0
+250,6989,2018-12-05,Chelsea,Wolves,0,1,6989,Wolves,Chelsea,0,0
+252,6990,2018-12-08,West Ham,Crystal Palace,0,0,6990,Crystal Palace,West Ham,0,1
+254,6991,2018-12-08,Brighton,Burnley,0,1,6991,Burnley,Brighton,0,0
+256,6992,2018-12-08,Cardiff,Southampton,0,0,6992,Southampton,Cardiff,0,1
+258,6993,2018-12-08,Chelsea,Man City,0,0,6993,Man City,Chelsea,0,1
+260,6994,2018-12-08,Leicester,Tottenham,1,1,6994,Tottenham,Leicester,0,0
+262,6995,2018-12-08,Fulham,Man United,1,1,6995,Man United,Fulham,0,0
+264,6996,2018-12-08,Liverpool,Bournemouth,0,0,6996,Bournemouth,Liverpool,1,1
+266,6997,2018-12-08,Huddersfield,Arsenal,1,1,6997,Arsenal,Huddersfield,0,0
+268,6998,2018-12-09,Newcastle,Wolves,0,1,6998,Wolves,Newcastle,0,0
+270,6999,2018-12-10,Watford,Everton,1,0,6999,Everton,Watford,0,0
+272,7000,2019-08-09,Liverpool,Norwich,0,0,7000,Norwich,Liverpool,1,1
+274,7001,2019-08-10,Watford,Brighton,0,1,7001,Brighton,Watford,0,0
+276,7002,2019-08-10,Aston Villa,Tottenham,1,1,7002,Tottenham,Aston Villa,0,0
+278,7003,2019-08-10,Crystal Palace,Everton,0,0,7003,Everton,Crystal Palace,0,0
+280,7005,2019-08-10,West Ham,Man City,1,1,7005,Man City,West Ham,0,0
+282,7006,2019-08-10,Burnley,Southampton,0,0,7006,Southampton,Burnley,0,1
+284,7007,2019-08-11,Wolves,Leicester,0,0,7007,Leicester,Wolves,0,0
+286,7008,2019-08-11,Arsenal,Newcastle,0,0,7008,Newcastle,Arsenal,0,1
+288,7009,2019-08-11,Man United,Chelsea,0,0,7009,Chelsea,Man United,0,1
+290,7010,2019-08-17,Tottenham,Man City,1,0,7010,Man City,Tottenham,0,0
+292,7011,2019-08-17,Norwich,Newcastle,0,0,7011,Newcastle,Norwich,0,1
+294,7012,2019-08-17,Liverpool,Southampton,0,0,7012,Southampton,Liverpool,1,1
+296,7013,2019-08-17,Brighton,West Ham,0,0,7013,West Ham,Brighton,0,0
+298,7014,2019-08-17,Bournemouth,Aston Villa,0,0,7014,Aston Villa,Bournemouth,0,1
+300,7015,2019-08-17,Arsenal,Burnley,0,0,7015,Burnley,Arsenal,1,1
+302,7016,2019-08-17,Watford,Everton,1,1,7016,Everton,Watford,0,0
+304,7018,2019-08-18,Chelsea,Leicester,0,0,7018,Leicester,Chelsea,1,0
+306,7019,2019-08-19,Man United,Wolves,0,0,7019,Wolves,Man United,0,0
+308,7020,2019-08-23,Aston Villa,Everton,0,0,7020,Everton,Aston Villa,0,1
+310,7021,2019-08-24,Norwich,Chelsea,1,1,7021,Chelsea,Norwich,0,0
+312,7022,2019-08-24,Brighton,Southampton,0,1,7022,Southampton,Brighton,0,0
+314,7023,2019-08-24,Man United,Crystal Palace,0,1,7023,Crystal Palace,Man United,1,0
+316,7025,2019-08-24,Arsenal,Liverpool,1,1,7025,Liverpool,Arsenal,0,0
+318,7026,2019-08-24,West Ham,Watford,0,0,7026,Watford,West Ham,0,1
+320,7027,2019-08-25,Bournemouth,Man City,1,1,7027,Man City,Bournemouth,0,0
+322,7028,2019-08-25,Tottenham,Newcastle,0,1,7028,Newcastle,Tottenham,1,0
+324,7029,2019-08-25,Burnley,Wolves,1,0,7029,Wolves,Burnley,0,0
+326,7031,2019-08-31,Man United,Southampton,0,0,7031,Southampton,Man United,0,0
+328,7032,2019-08-31,Bournemouth,Leicester,1,1,7032,Leicester,Bournemouth,0,0
+330,7033,2019-08-31,Brighton,Man City,1,1,7033,Man City,Brighton,0,0
+332,7034,2019-08-31,Newcastle,Watford,0,0,7034,Watford,Newcastle,1,0
+334,7035,2019-08-31,West Ham,Norwich,0,0,7035,Norwich,West Ham,0,1
+336,7036,2019-08-31,Liverpool,Burnley,0,0,7036,Burnley,Liverpool,1,1
+338,7037,2019-08-31,Crystal Palace,Aston Villa,0,0,7037,Aston Villa,Crystal Palace,0,1
+340,7038,2019-09-01,Everton,Wolves,0,0,7038,Wolves,Everton,0,1
+342,7039,2019-09-01,Arsenal,Tottenham,0,0,7039,Tottenham,Arsenal,0,0
+344,7040,2019-09-14,Man City,Norwich,0,1,7040,Norwich,Man City,1,0
+346,7041,2019-09-14,Wolves,Chelsea,0,1,7041,Chelsea,Wolves,0,0
+348,7042,2019-09-14,Tottenham,Crystal Palace,0,0,7042,Crystal Palace,Tottenham,1,1
+350,7043,2019-09-14,Newcastle,Liverpool,1,1,7043,Liverpool,Newcastle,0,0
+352,7044,2019-09-14,Leicester,Man United,0,1,7044,Man United,Leicester,0,0
+354,7045,2019-09-14,Burnley,Brighton,0,0,7045,Brighton,Burnley,0,0
+356,7047,2019-09-15,Bournemouth,Everton,0,0,7047,Everton,Bournemouth,0,1
+358,7048,2019-09-15,Arsenal,Watford,0,0,7048,Watford,Arsenal,0,0
+360,7049,2019-09-16,Aston Villa,West Ham,0,0,7049,West Ham,Aston Villa,0,0
+362,7050,2019-09-20,Bournemouth,Southampton,0,0,7050,Southampton,Bournemouth,0,1
+364,7051,2019-09-21,Brighton,Newcastle,0,0,7051,Newcastle,Brighton,0,0
+366,7052,2019-09-21,Man City,Watford,0,0,7052,Watford,Man City,1,1
+368,7053,2019-09-21,Norwich,Burnley,0,1,7053,Burnley,Norwich,0,0
+370,7054,2019-09-21,Leicester,Tottenham,0,0,7054,Tottenham,Leicester,0,1
+372,7056,2019-09-22,Crystal Palace,Wolves,0,0,7056,Wolves,Crystal Palace,0,0
+374,7057,2019-09-22,Man United,West Ham,0,1,7057,West Ham,Man United,0,0
+376,7058,2019-09-22,Aston Villa,Arsenal,1,1,7058,Arsenal,Aston Villa,0,0
+378,7059,2019-09-22,Liverpool,Chelsea,0,0,7059,Chelsea,Liverpool,0,1
+380,7060,2019-09-28,Everton,Man City,1,1,7060,Man City,Everton,0,0
+382,7061,2019-09-28,Tottenham,Southampton,0,0,7061,Southampton,Tottenham,1,1
+384,7062,2019-09-28,Crystal Palace,Norwich,0,0,7062,Norwich,Crystal Palace,0,1
+386,7063,2019-09-28,Watford,Wolves,0,1,7063,Wolves,Watford,0,0
+388,7064,2019-09-28,Bournemouth,West Ham,0,0,7064,West Ham,Bournemouth,0,0
+390,7065,2019-09-28,Aston Villa,Burnley,0,0,7065,Burnley,Aston Villa,0,0
+392,7067,2019-09-28,Chelsea,Brighton,0,0,7067,Brighton,Chelsea,1,1
+394,7068,2019-09-29,Newcastle,Leicester,1,1,7068,Leicester,Newcastle,0,0
+396,7069,2019-09-30,Arsenal,Man United,1,0,7069,Man United,Arsenal,0,0
+398,7070,2019-10-05,Brighton,Tottenham,0,0,7070,Tottenham,Brighton,0,1
+400,7071,2019-10-05,Everton,Burnley,0,1,7071,Burnley,Everton,0,0
+402,7072,2019-10-05,Leicester,Liverpool,1,1,7072,Liverpool,Leicester,0,0
+404,7073,2019-10-05,Norwich,Aston Villa,0,1,7073,Aston Villa,Norwich,0,0
+406,7075,2019-10-05,West Ham,Crystal Palace,0,1,7075,Crystal Palace,West Ham,1,0
+408,7076,2019-10-06,Chelsea,Southampton,0,0,7076,Southampton,Chelsea,0,1
+410,7077,2019-10-06,Newcastle,Man United,1,0,7077,Man United,Newcastle,0,1
+412,7078,2019-10-06,Arsenal,Bournemouth,0,0,7078,Bournemouth,Arsenal,1,1
+414,7079,2019-10-06,Wolves,Man City,1,0,7079,Man City,Wolves,0,1
+416,7080,2019-10-19,Aston Villa,Brighton,0,0,7080,Brighton,Aston Villa,0,1
+418,7081,2019-10-19,Bournemouth,Norwich,0,0,7081,Norwich,Bournemouth,1,0
+420,7082,2019-10-19,Chelsea,Newcastle,0,0,7082,Newcastle,Chelsea,1,1
+422,7083,2019-10-19,Leicester,Burnley,0,0,7083,Burnley,Leicester,1,1
+424,7084,2019-10-19,Tottenham,Watford,0,0,7084,Watford,Tottenham,1,0
+426,7085,2019-10-19,Wolves,Southampton,0,0,7085,Southampton,Wolves,0,0
+428,7086,2019-10-19,Crystal Palace,Man City,1,1,7086,Man City,Crystal Palace,0,0
+430,7087,2019-10-19,West Ham,Everton,1,1,7087,Everton,West Ham,0,0
+432,7088,2019-10-20,Liverpool,Man United,0,0,7088,Man United,Liverpool,1,0
+434,7089,2019-10-21,Sheffield United,Arsenal,1,0,7089,Arsenal,Sheffield United,0,1
+436,7090,2019-10-25,Southampton,Leicester,0,1,7090,Leicester,Southampton,0,0
+438,7091,2019-10-26,Chelsea,Burnley,0,0,7091,Burnley,Chelsea,1,1
+440,7092,2019-10-26,West Ham,Sheffield United,0,0,7092,Sheffield United,West Ham,0,0
+442,7093,2019-10-26,Everton,Brighton,0,1,7093,Brighton,Everton,0,0
+444,7094,2019-10-26,Bournemouth,Watford,0,0,7094,Watford,Bournemouth,0,0
+446,7095,2019-10-26,Man City,Aston Villa,0,0,7095,Aston Villa,Man City,1,1
+448,7096,2019-10-27,Newcastle,Wolves,0,0,7096,Wolves,Newcastle,0,0
+450,7097,2019-10-27,Arsenal,Crystal Palace,0,0,7097,Crystal Palace,Arsenal,1,0
+452,7098,2019-10-27,Liverpool,Tottenham,0,0,7098,Tottenham,Liverpool,1,1
+454,7099,2019-10-27,Man United,Norwich,0,0,7099,Norwich,Man United,1,1
+456,7100,2019-11-02,Burnley,Sheffield United,0,1,7100,Sheffield United,Burnley,0,0
+458,7101,2019-11-02,Chelsea,Watford,0,0,7101,Watford,Chelsea,1,1
+460,7102,2019-11-02,Newcastle,West Ham,0,0,7102,West Ham,Newcastle,0,1
+462,7103,2019-11-02,Man City,Southampton,0,0,7103,Southampton,Man City,1,1
+464,7104,2019-11-02,Aston Villa,Liverpool,1,1,7104,Liverpool,Aston Villa,0,0
+466,7105,2019-11-02,Arsenal,Wolves,0,0,7105,Wolves,Arsenal,1,0
+468,7106,2019-11-02,Man United,Bournemouth,0,1,7106,Bournemouth,Man United,1,0
+470,7107,2019-11-02,Norwich,Brighton,1,1,7107,Brighton,Norwich,0,0
+472,7108,2019-11-03,Crystal Palace,Leicester,1,1,7108,Leicester,Crystal Palace,0,0
+474,7109,2019-11-03,Tottenham,Everton,0,0,7109,Everton,Tottenham,0,0
+476,7110,2019-11-08,Norwich,Watford,0,1,7110,Watford,Norwich,0,0
+478,7111,2019-11-09,Chelsea,Crystal Palace,0,0,7111,Crystal Palace,Chelsea,1,1
+480,7112,2019-11-09,Burnley,West Ham,0,0,7112,West Ham,Burnley,0,1
+482,7113,2019-11-09,Newcastle,Bournemouth,0,0,7113,Bournemouth,Newcastle,1,1
+484,7114,2019-11-09,Southampton,Everton,0,1,7114,Everton,Southampton,0,0
+486,7115,2019-11-09,Sheffield United,Tottenham,1,0,7115,Tottenham,Sheffield United,0,0
+488,7116,2019-11-09,Arsenal,Leicester,0,1,7116,Leicester,Arsenal,0,0
+490,7117,2019-11-10,Liverpool,Man City,0,0,7117,Man City,Liverpool,0,1
+492,7118,2019-11-10,Brighton,Man United,1,1,7118,Man United,Brighton,0,0
+494,7119,2019-11-10,Aston Villa,Wolves,0,1,7119,Wolves,Aston Villa,0,0
+496,7120,2019-11-23,Tottenham,West Ham,0,0,7120,West Ham,Tottenham,1,1
+498,7121,2019-11-23,Arsenal,Southampton,0,0,7121,Southampton,Arsenal,1,0
+500,7122,2019-11-23,Wolves,Bournemouth,0,0,7122,Bournemouth,Wolves,0,1
+502,7123,2019-11-23,Brighton,Leicester,0,1,7123,Leicester,Brighton,0,0
+504,7124,2019-11-23,Crystal Palace,Liverpool,1,1,7124,Liverpool,Crystal Palace,0,0
+506,7125,2019-11-23,Everton,Norwich,0,1,7125,Norwich,Everton,1,0
+508,7126,2019-11-23,Burnley,Watford,0,0,7126,Watford,Burnley,0,1
+510,7127,2019-11-23,Chelsea,Man City,1,1,7127,Man City,Chelsea,0,0
+512,7128,2019-11-24,Man United,Sheffield United,0,0,7128,Sheffield United,Man United,0,0
+514,7129,2019-11-25,Aston Villa,Newcastle,0,0,7129,Newcastle,Aston Villa,0,1
+516,7130,2019-11-30,Chelsea,West Ham,0,1,7130,West Ham,Chelsea,1,0
+518,7131,2019-11-30,Crystal Palace,Burnley,0,0,7131,Burnley,Crystal Palace,0,1
+520,7132,2019-11-30,Brighton,Liverpool,1,1,7132,Liverpool,Brighton,0,0
+522,7133,2019-11-30,Tottenham,Bournemouth,0,0,7133,Bournemouth,Tottenham,1,1
+524,7134,2019-11-30,Watford,Southampton,0,1,7134,Southampton,Watford,0,0
+526,7135,2019-11-30,Man City,Newcastle,0,0,7135,Newcastle,Man City,1,0
+528,7136,2019-12-01,Arsenal,Norwich,0,0,7136,Norwich,Arsenal,1,0
+530,7137,2019-12-01,Sheffield United,Wolves,1,0,7137,Wolves,Sheffield United,0,0
+532,7138,2019-12-01,Everton,Leicester,1,1,7138,Leicester,Everton,0,0
+534,7139,2019-12-01,Aston Villa,Man United,1,0,7139,Man United,Aston Villa,0,0
+536,7140,2019-12-03,Bournemouth,Crystal Palace,0,1,7140,Crystal Palace,Bournemouth,0,0
+538,7141,2019-12-03,Burnley,Man City,1,1,7141,Man City,Burnley,0,0
+540,7142,2019-12-04,Everton,Liverpool,1,1,7142,Liverpool,Everton,0,0
+542,7143,2019-12-04,Wolves,West Ham,0,0,7143,West Ham,Wolves,0,1
+544,7144,2019-12-04,Man United,Tottenham,0,0,7144,Tottenham,Man United,0,1
+546,7145,2019-12-04,Watford,Leicester,1,1,7145,Leicester,Watford,0,0
+548,7146,2019-12-04,Aston Villa,Chelsea,1,1,7146,Chelsea,Aston Villa,0,0
+550,7147,2019-12-04,Southampton,Norwich,0,0,7147,Norwich,Southampton,1,1
+552,7148,2019-12-05,Sheffield United,Newcastle,0,1,7148,Newcastle,Sheffield United,1,0
+554,7149,2019-12-05,Arsenal,Brighton,0,1,7149,Brighton,Arsenal,1,0
+556,7150,2019-12-07,Chelsea,Everton,0,1,7150,Everton,Chelsea,0,0
+558,7151,2019-12-07,Bournemouth,Liverpool,1,1,7151,Liverpool,Bournemouth,0,0
+560,7152,2019-12-07,Burnley,Tottenham,1,1,7152,Tottenham,Burnley,0,0
+562,7153,2019-12-07,Watford,Crystal Palace,0,0,7153,Crystal Palace,Watford,0,0
+564,7154,2019-12-07,Man United,Man City,1,0,7154,Man City,Man United,0,1
+566,7155,2019-12-08,Wolves,Brighton,0,0,7155,Brighton,Wolves,0,0
+568,7156,2019-12-08,Sheffield United,Norwich,0,0,7156,Norwich,Sheffield United,0,1
+570,7157,2019-12-08,Southampton,Newcastle,0,1,7157,Newcastle,Southampton,0,0
+572,7158,2019-12-08,Aston Villa,Leicester,1,1,7158,Leicester,Aston Villa,0,0
+574,7159,2019-12-09,West Ham,Arsenal,1,1,7159,Arsenal,West Ham,0,0
+576,7160,2019-12-14,Watford,Liverpool,1,1,7160,Liverpool,Watford,0,0
+578,7161,2019-12-14,Burnley,Newcastle,0,0,7161,Newcastle,Burnley,0,1
+580,7162,2019-12-14,Chelsea,Bournemouth,0,1,7162,Bournemouth,Chelsea,1,0
+582,7163,2019-12-14,Leicester,Norwich,0,0,7163,Norwich,Leicester,1,0
+584,7164,2019-12-14,Sheffield United,Aston Villa,0,0,7164,Aston Villa,Sheffield United,1,1
+586,7165,2019-12-14,Southampton,West Ham,0,1,7165,West Ham,Southampton,1,0
+588,7166,2019-12-15,Man United,Everton,0,0,7166,Everton,Man United,0,0
+590,7167,2019-12-15,Tottenham,Wolves,0,0,7167,Wolves,Tottenham,0,1
+592,7168,2019-12-15,Arsenal,Man City,1,1,7168,Man City,Arsenal,0,0
+594,7169,2019-12-16,Crystal Palace,Brighton,0,0,7169,Brighton,Crystal Palace,0,0
+596,7170,2019-12-21,Leicester,Man City,1,1,7170,Man City,Leicester,0,0
+598,7171,2019-12-21,Norwich,Wolves,1,1,7171,Wolves,Norwich,0,0
+600,7172,2019-12-21,Crystal Palace,Newcastle,0,1,7172,Newcastle,Crystal Palace,0,0
+602,7173,2019-12-21,Everton,Arsenal,0,0,7173,Arsenal,Everton,0,0
+604,7174,2019-12-21,Bournemouth,Burnley,0,1,7174,Burnley,Bournemouth,0,0
+606,7175,2019-12-21,Aston Villa,Southampton,0,1,7175,Southampton,Aston Villa,0,0
+608,7176,2019-12-21,Brighton,Sheffield United,0,1,7176,Sheffield United,Brighton,0,0
+610,7177,2019-12-22,Watford,Man United,1,0,7177,Man United,Watford,0,1
+612,7178,2019-12-22,Chelsea,Tottenham,0,0,7178,Tottenham,Chelsea,0,1
+614,7179,2019-12-26,Leicester,Liverpool,0,1,7179,Liverpool,Leicester,0,0
+616,7180,2019-12-26,Man United,Newcastle,0,0,7180,Newcastle,Man United,1,1
+618,7181,2019-12-26,Sheffield United,Watford,0,0,7181,Watford,Sheffield United,0,0
+620,7182,2019-12-26,Everton,Burnley,0,0,7182,Burnley,Everton,1,1
+622,7183,2019-12-26,Arsenal,Bournemouth,0,0,7183,Bournemouth,Arsenal,1,0
+624,7184,2019-12-26,Chelsea,Southampton,0,1,7184,Southampton,Chelsea,1,0
+626,7185,2019-12-26,Norwich,Aston Villa,0,1,7185,Aston Villa,Norwich,0,0
+628,7186,2019-12-26,Brighton,Tottenham,1,1,7186,Tottenham,Brighton,0,0
+630,7187,2019-12-26,West Ham,Crystal Palace,0,1,7187,Crystal Palace,West Ham,0,0
+632,7188,2019-12-27,Man City,Wolves,0,1,7188,Wolves,Man City,1,0
+634,7189,2019-12-28,Burnley,Man United,1,1,7189,Man United,Burnley,0,0
+636,7190,2019-12-28,Leicester,West Ham,0,0,7190,West Ham,Leicester,1,1
+638,7191,2019-12-28,Norwich,Tottenham,1,0,7191,Tottenham,Norwich,0,0
+640,7192,2019-12-28,Southampton,Crystal Palace,0,0,7192,Crystal Palace,Southampton,0,0
+642,7193,2019-12-28,Newcastle,Everton,1,1,7193,Everton,Newcastle,0,0
+644,7194,2019-12-28,Brighton,Bournemouth,0,0,7194,Bournemouth,Brighton,1,1
+646,7195,2019-12-28,Watford,Aston Villa,0,0,7195,Aston Villa,Watford,1,1
+648,7196,2019-12-29,Chelsea,Arsenal,0,0,7196,Arsenal,Chelsea,0,1
+650,7197,2019-12-29,Wolves,Liverpool,1,1,7197,Liverpool,Wolves,0,0
+652,7198,2019-12-29,Sheffield United,Man City,1,1,7198,Man City,Sheffield United,0,0
+654,7199,2020-01-01,Crystal Palace,Norwich,0,0,7199,Norwich,Crystal Palace,0,0
+656,7200,2020-01-01,Bournemouth,West Ham,1,1,7200,West Ham,Bournemouth,0,0
+658,7201,2020-01-01,Man City,Everton,0,0,7201,Everton,Man City,1,1
+660,7202,2020-01-01,Arsenal,Man United,0,0,7202,Man United,Arsenal,0,1
+662,7203,2020-01-01,Tottenham,Southampton,0,1,7203,Southampton,Tottenham,0,0
+664,7204,2020-01-01,Newcastle,Leicester,1,1,7204,Leicester,Newcastle,0,0
+666,7205,2020-01-01,Burnley,Aston Villa,0,1,7205,Aston Villa,Burnley,1,0
+668,7206,2020-01-01,Chelsea,Brighton,0,0,7206,Brighton,Chelsea,0,0
+670,7207,2020-01-01,Wolves,Watford,0,1,7207,Watford,Wolves,0,0
+672,7208,2020-01-02,Sheffield United,Liverpool,1,1,7208,Liverpool,Sheffield United,0,0
+674,7209,2020-01-10,Sheffield United,West Ham,0,0,7209,West Ham,Sheffield United,0,1
+676,7210,2020-01-11,Crystal Palace,Arsenal,0,0,7210,Arsenal,Crystal Palace,0,0
+678,7211,2020-01-11,Chelsea,Burnley,0,0,7211,Burnley,Chelsea,1,1
+680,7212,2020-01-11,Everton,Brighton,0,0,7212,Brighton,Everton,0,1
+682,7213,2020-01-11,Leicester,Southampton,0,1,7213,Southampton,Leicester,1,0
+684,7214,2020-01-11,Man United,Norwich,0,0,7214,Norwich,Man United,1,1
+686,7215,2020-01-11,Newcastle,Wolves,1,0,7215,Wolves,Newcastle,0,0
+688,7216,2020-01-11,Liverpool,Tottenham,0,0,7216,Tottenham,Liverpool,1,1
+690,7217,2020-01-12,Watford,Bournemouth,0,0,7217,Bournemouth,Watford,0,1
+692,7218,2020-01-12,Man City,Aston Villa,0,0,7218,Aston Villa,Man City,1,1
+694,7219,2020-01-18,Tottenham,Watford,0,0,7219,Watford,Tottenham,0,0
+696,7220,2020-01-18,Sheffield United,Arsenal,1,0,7220,Arsenal,Sheffield United,0,0
+698,7221,2020-01-18,Aston Villa,Brighton,1,0,7221,Brighton,Aston Villa,0,0
+700,7222,2020-01-18,Crystal Palace,Man City,1,0,7222,Man City,Crystal Palace,0,0
+702,7223,2020-01-18,Norwich,Bournemouth,0,0,7223,Bournemouth,Norwich,0,1
+704,7224,2020-01-18,Wolves,Southampton,1,0,7224,Southampton,Wolves,0,1
+706,7225,2020-01-18,West Ham,Everton,0,0,7225,Everton,West Ham,0,0
+708,7226,2020-01-18,Newcastle,Chelsea,1,0,7226,Chelsea,Newcastle,0,1
+710,7227,2020-01-19,Burnley,Leicester,0,0,7227,Leicester,Burnley,0,1
+712,7228,2020-01-19,Man United,Liverpool,1,1,7228,Liverpool,Man United,0,0
+714,7229,2020-01-21,Man City,Sheffield United,0,0,7229,Sheffield United,Man City,1,1
+716,7230,2020-01-21,Arsenal,Chelsea,1,0,7230,Chelsea,Arsenal,0,0
+718,7231,2020-01-21,Brighton,Bournemouth,0,1,7231,Bournemouth,Brighton,1,0
+720,7232,2020-01-21,Newcastle,Everton,1,0,7232,Everton,Newcastle,0,0
+722,7233,2020-01-21,Watford,Aston Villa,0,1,7233,Aston Villa,Watford,0,0
+724,7234,2020-01-21,Southampton,Crystal Palace,0,0,7234,Crystal Palace,Southampton,0,1
+726,7235,2020-01-22,West Ham,Leicester,1,1,7235,Leicester,West Ham,0,0
+728,7236,2020-01-22,Tottenham,Norwich,0,0,7236,Norwich,Tottenham,1,1
+730,7237,2020-01-22,Burnley,Man United,1,0,7237,Man United,Burnley,0,1
+732,7238,2020-01-23,Wolves,Liverpool,1,1,7238,Liverpool,Wolves,0,0
+734,7239,2020-01-29,West Ham,Liverpool,1,1,7239,Liverpool,West Ham,0,0
+736,7240,2020-02-01,Chelsea,Leicester,0,0,7240,Leicester,Chelsea,0,0
+738,7241,2020-02-01,Aston Villa,Bournemouth,0,1,7241,Bournemouth,Aston Villa,0,0
+740,7242,2020-02-01,Crystal Palace,Sheffield United,0,1,7242,Sheffield United,Crystal Palace,0,0
+742,7243,2020-02-01,Southampton,Liverpool,1,1,7243,Liverpool,Southampton,0,0
+744,7244,2020-02-01,Newcastle,Norwich,0,0,7244,Norwich,Newcastle,0,0
+746,7245,2020-02-01,Watford,Everton,0,1,7245,Everton,Watford,0,0
+748,7246,2020-02-01,West Ham,Brighton,0,0,7246,Brighton,West Ham,0,0
+750,7247,2020-02-01,Wolves,Man United,1,0,7247,Man United,Wolves,0,0
+752,7248,2020-02-02,Tottenham,Man City,1,0,7248,Man City,Tottenham,0,1
+754,7249,2020-02-02,Burnley,Arsenal,0,0,7249,Arsenal,Burnley,0,0
+756,7250,2020-02-08,Everton,Crystal Palace,0,0,7250,Crystal Palace,Everton,1,1
+758,7251,2020-02-08,Brighton,Watford,0,0,7251,Watford,Brighton,0,0
+760,7252,2020-02-09,Sheffield United,Bournemouth,0,0,7252,Bournemouth,Sheffield United,1,1
+762,7253,2020-02-14,Wolves,Leicester,0,0,7253,Leicester,Wolves,0,0
+764,7254,2020-02-15,Southampton,Burnley,0,1,7254,Burnley,Southampton,1,0
+766,7255,2020-02-15,Liverpool,Norwich,0,0,7255,Norwich,Liverpool,1,1
+768,7256,2020-02-16,Tottenham,Aston Villa,0,0,7256,Aston Villa,Tottenham,0,1
+770,7257,2020-02-16,Arsenal,Newcastle,0,0,7257,Newcastle,Arsenal,1,1
+772,7258,2020-02-17,Man United,Chelsea,0,0,7258,Chelsea,Man United,0,1
+774,7259,2020-02-19,West Ham,Man City,1,1,7259,Man City,West Ham,0,0
+776,7260,2020-09-12,Fulham,Arsenal,1,1,7260,Arsenal,Fulham,0,0
+778,7261,2020-09-12,Crystal Palace,Southampton,0,0,7261,Southampton,Crystal Palace,0,1
+780,7263,2020-09-12,Newcastle,West Ham,0,0,7263,West Ham,Newcastle,0,1
+782,7264,2020-09-13,Everton,Tottenham,0,0,7264,Tottenham,Everton,0,1
+784,7265,2020-09-13,Leicester,West Brom,0,0,7265,West Brom,Leicester,0,1
+786,7266,2020-09-14,Chelsea,Brighton,0,0,7266,Brighton,Chelsea,0,1
+788,7267,2020-09-14,Sheffield United,Wolves,0,1,7267,Wolves,Sheffield United,0,0
+790,7268,2020-09-19,Everton,West Brom,0,0,7268,West Brom,Everton,1,1
+792,7270,2020-09-19,Crystal Palace,Man United,1,0,7270,Man United,Crystal Palace,0,1
+794,7271,2020-09-19,Arsenal,West Ham,0,0,7271,West Ham,Arsenal,1,1
+796,7272,2020-09-20,Burnley,Leicester,1,1,7272,Leicester,Burnley,0,0
+798,7273,2020-09-20,Chelsea,Liverpool,1,1,7273,Liverpool,Chelsea,0,0
+800,7274,2020-09-20,Southampton,Tottenham,0,1,7274,Tottenham,Southampton,0,0
+802,7275,2020-09-20,Newcastle,Brighton,0,1,7275,Brighton,Newcastle,0,0
+804,7276,2020-09-21,Aston Villa,Sheffield United,0,0,7276,Sheffield United,Aston Villa,0,1
+806,7277,2020-09-21,Man City,Wolves,0,0,7277,Wolves,Man City,1,1
+808,7278,2020-09-26,Man United,Brighton,0,0,7278,Brighton,Man United,1,1
+810,7279,2020-09-26,Everton,Crystal Palace,0,0,7279,Crystal Palace,Everton,0,1
+812,7280,2020-09-26,West Brom,Chelsea,1,0,7280,Chelsea,West Brom,0,0
+814,7281,2020-09-26,Burnley,Southampton,0,1,7281,Southampton,Burnley,0,0
+816,7282,2020-09-27,West Ham,Wolves,0,0,7282,Wolves,West Ham,0,1
+818,7284,2020-09-27,Tottenham,Newcastle,0,0,7284,Newcastle,Tottenham,0,0
+820,7285,2020-09-27,Leicester,Man City,1,0,7285,Man City,Leicester,0,1
+822,7286,2020-09-28,Aston Villa,Fulham,0,0,7286,Fulham,Aston Villa,0,1
+824,7287,2020-09-28,Arsenal,Liverpool,1,1,7287,Liverpool,Arsenal,0,0
+826,7288,2020-10-03,Crystal Palace,Chelsea,1,1,7288,Chelsea,Crystal Palace,0,0
+828,7289,2020-10-03,Brighton,Everton,1,1,7289,Everton,Brighton,0,0
+830,7291,2020-10-03,Burnley,Newcastle,0,1,7291,Newcastle,Burnley,0,0
+832,7292,2020-10-04,West Ham,Leicester,1,0,7292,Leicester,West Ham,0,1
+834,7293,2020-10-04,Southampton,West Brom,0,0,7293,West Brom,Southampton,1,1
+836,7294,2020-10-04,Sheffield United,Arsenal,1,1,7294,Arsenal,Sheffield United,0,0
+838,7295,2020-10-04,Fulham,Wolves,1,1,7295,Wolves,Fulham,0,0
+840,7296,2020-10-04,Man United,Tottenham,0,1,7296,Tottenham,Man United,0,0
+842,7297,2020-10-04,Aston Villa,Liverpool,1,0,7297,Liverpool,Aston Villa,0,1
+844,7298,2020-10-17,Man United,Newcastle,0,0,7298,Newcastle,Man United,1,1
+846,7299,2020-10-17,Arsenal,Man City,1,1,7299,Man City,Arsenal,0,0
+848,7300,2020-10-17,Chelsea,Southampton,0,0,7300,Southampton,Chelsea,1,0
+850,7301,2020-10-17,Liverpool,Everton,0,0,7301,Everton,Liverpool,1,0
+852,7302,2020-10-18,Fulham,Sheffield United,0,0,7302,Sheffield United,Fulham,0,0
+854,7303,2020-10-18,Crystal Palace,Brighton,0,0,7303,Brighton,Crystal Palace,0,0
+856,7304,2020-10-18,Tottenham,West Ham,0,0,7304,West Ham,Tottenham,1,0
+858,7305,2020-10-18,Aston Villa,Leicester,1,0,7305,Leicester,Aston Villa,0,1
+860,7306,2020-10-19,Burnley,West Brom,0,0,7306,West Brom,Burnley,0,0
+862,7309,2020-10-24,Man United,Chelsea,0,0,7309,Chelsea,Man United,0,0
+864,7310,2020-10-24,Sheffield United,Liverpool,1,1,7310,Liverpool,Sheffield United,0,0
+866,7311,2020-10-24,West Ham,Man City,1,0,7311,Man City,West Ham,0,0
+868,7312,2020-10-24,Fulham,Crystal Palace,0,1,7312,Crystal Palace,Fulham,0,0
+870,7313,2020-10-25,Southampton,Everton,0,0,7313,Everton,Southampton,0,1
+872,7314,2020-10-25,Newcastle,Wolves,0,0,7314,Wolves,Newcastle,0,0
+874,7315,2020-10-25,Leicester,Arsenal,1,0,7315,Arsenal,Leicester,0,1
+876,7316,2020-10-26,Brighton,West Brom,0,0,7316,West Brom,Brighton,1,0
+878,7317,2020-10-26,Tottenham,Burnley,0,0,7317,Burnley,Tottenham,1,1
+880,7318,2020-10-30,Crystal Palace,Wolves,1,1,7318,Wolves,Crystal Palace,0,0
+882,7319,2020-10-31,Man City,Sheffield United,0,0,7319,Sheffield United,Man City,1,1
+884,7320,2020-10-31,Chelsea,Burnley,0,0,7320,Burnley,Chelsea,1,1
+886,7321,2020-10-31,West Ham,Liverpool,1,1,7321,Liverpool,West Ham,0,0
+888,7322,2020-11-01,Arsenal,Man United,0,0,7322,Man United,Arsenal,0,1
+890,7323,2020-11-01,Brighton,Tottenham,1,1,7323,Tottenham,Brighton,0,0
+892,7324,2020-11-01,Southampton,Aston Villa,0,0,7324,Aston Villa,Southampton,0,1
+894,7325,2020-11-01,Newcastle,Everton,1,0,7325,Everton,Newcastle,0,1
+896,7326,2020-11-02,Fulham,West Brom,0,0,7326,West Brom,Fulham,0,1
+898,7328,2020-11-06,Brighton,Burnley,0,0,7328,Burnley,Brighton,1,0
+900,7329,2020-11-06,Newcastle,Southampton,1,1,7329,Southampton,Newcastle,0,0
+902,7330,2020-11-07,Everton,Man United,0,1,7330,Man United,Everton,0,0
+904,7332,2020-11-07,Sheffield United,Chelsea,1,1,7332,Chelsea,Sheffield United,0,0
+906,7333,2020-11-07,Fulham,West Ham,0,1,7333,West Ham,Fulham,0,0
+908,7334,2020-11-08,Man City,Liverpool,0,0,7334,Liverpool,Man City,1,0
+910,7335,2020-11-08,Aston Villa,Arsenal,1,0,7335,Arsenal,Aston Villa,0,1
+912,7336,2020-11-08,Tottenham,West Brom,0,0,7336,West Brom,Tottenham,1,1
+914,7337,2020-11-08,Wolves,Leicester,0,1,7337,Leicester,Wolves,0,0
+916,7338,2020-11-21,Newcastle,Chelsea,1,1,7338,Chelsea,Newcastle,0,0
+918,7339,2020-11-21,Brighton,Aston Villa,1,0,7339,Aston Villa,Brighton,0,1
+920,7340,2020-11-21,Tottenham,Man City,1,0,7340,Man City,Tottenham,0,1
+922,7341,2020-11-21,West Brom,Man United,1,1,7341,Man United,West Brom,0,0
+924,7342,2020-11-22,Fulham,Everton,1,1,7342,Everton,Fulham,0,0
+926,7343,2020-11-22,West Ham,Sheffield United,0,0,7343,Sheffield United,West Ham,0,1
+928,7344,2020-11-22,Leeds,Arsenal,0,0,7344,Arsenal,Leeds,0,0
+930,7345,2020-11-22,Leicester,Liverpool,1,1,7345,Liverpool,Leicester,0,0
+932,7346,2020-11-23,Burnley,Crystal Palace,0,0,7346,Crystal Palace,Burnley,0,1
+934,7347,2020-11-23,Southampton,Wolves,0,0,7347,Wolves,Southampton,0,0
+936,7348,2020-11-27,Newcastle,Crystal Palace,1,0,7348,Crystal Palace,Newcastle,0,1
+938,7349,2020-11-28,Sheffield United,West Brom,0,1,7349,West Brom,Sheffield United,0,0
+940,7350,2020-11-28,Burnley,Man City,1,1,7350,Man City,Burnley,0,0
+942,7351,2020-11-28,Liverpool,Brighton,0,0,7351,Brighton,Liverpool,1,0
+944,7352,2020-11-28,Everton,Leeds,0,1,7352,Leeds,Everton,1,0
+946,7353,2020-11-29,Chelsea,Tottenham,0,0,7353,Tottenham,Chelsea,1,0
+948,7354,2020-11-29,Wolves,Arsenal,0,0,7354,Arsenal,Wolves,0,1
+950,7355,2020-11-29,Man United,Southampton,0,0,7355,Southampton,Man United,1,1
+952,7356,2020-11-30,Fulham,Leicester,1,0,7356,Leicester,Fulham,0,1
+954,7357,2020-11-30,Aston Villa,West Ham,0,1,7357,West Ham,Aston Villa,0,0
+956,7358,2020-12-05,Burnley,Everton,0,0,7358,Everton,Burnley,0,0
+958,7359,2020-12-05,Fulham,Man City,1,1,7359,Man City,Fulham,0,0
+960,7360,2020-12-05,Man United,West Ham,0,0,7360,West Ham,Man United,0,1
+962,7361,2020-12-05,Chelsea,Leeds,0,0,7361,Leeds,Chelsea,1,1
+964,7362,2020-12-06,Liverpool,Wolves,0,0,7362,Wolves,Liverpool,1,1
+966,7363,2020-12-06,Leicester,Sheffield United,0,0,7363,Sheffield United,Leicester,1,1
+968,7364,2020-12-06,Arsenal,Tottenham,0,1,7364,Tottenham,Arsenal,0,0
+970,7365,2020-12-06,West Brom,Crystal Palace,0,1,7365,Crystal Palace,West Brom,0,0
+972,7366,2020-12-07,Brighton,Southampton,0,1,7366,Southampton,Brighton,0,0
+974,7367,2020-12-11,West Ham,Leeds,0,0,7367,Leeds,West Ham,0,1
+976,7368,2020-12-12,Wolves,Aston Villa,0,1,7368,Aston Villa,Wolves,0,0
+978,7369,2020-12-12,West Brom,Newcastle,0,1,7369,Newcastle,West Brom,0,0
+980,7370,2020-12-12,Man City,Man United,0,0,7370,Man United,Man City,1,0
+982,7371,2020-12-12,Chelsea,Everton,0,1,7371,Everton,Chelsea,1,0
+984,7372,2020-12-13,Brighton,Leicester,0,1,7372,Leicester,Brighton,0,0
+986,7373,2020-12-13,Burnley,Arsenal,1,0,7373,Arsenal,Burnley,0,1
+988,7374,2020-12-13,Crystal Palace,Tottenham,1,0,7374,Tottenham,Crystal Palace,0,0
+990,7375,2020-12-13,Fulham,Liverpool,1,0,7375,Liverpool,Fulham,0,0
+992,7376,2020-12-13,Sheffield United,Southampton,1,1,7376,Southampton,Sheffield United,0,0
+994,7377,2020-12-15,Wolves,Chelsea,1,0,7377,Chelsea,Wolves,0,1
+996,7378,2020-12-15,West Brom,Man City,1,0,7378,Man City,West Brom,0,0
+998,7379,2020-12-16,Southampton,Arsenal,0,0,7379,Arsenal,Southampton,0,0
+1000,7380,2020-12-16,Leeds,Newcastle,0,0,7380,Newcastle,Leeds,1,1
+1002,7381,2020-12-16,Everton,Leicester,0,0,7381,Leicester,Everton,0,1
+1004,7382,2020-12-16,Fulham,Brighton,0,0,7382,Brighton,Fulham,0,0
+1006,7383,2020-12-16,Tottenham,Liverpool,1,1,7383,Liverpool,Tottenham,0,0
+1008,7384,2020-12-16,Crystal Palace,West Ham,0,0,7384,West Ham,Crystal Palace,0,0
+1010,7385,2020-12-17,Man United,Sheffield United,0,0,7385,Sheffield United,Man United,1,1
+1012,7386,2020-12-17,Aston Villa,Burnley,0,0,7386,Burnley,Aston Villa,0,0
+1014,7387,2020-12-19,Southampton,Man City,1,1,7387,Man City,Southampton,0,0
+1016,7388,2020-12-19,Everton,Arsenal,0,0,7388,Arsenal,Everton,0,1
+1018,7389,2020-12-19,Newcastle,Fulham,0,0,7389,Fulham,Newcastle,0,0
+1020,7390,2020-12-19,Liverpool,Crystal Palace,0,0,7390,Crystal Palace,Liverpool,1,1
+1022,7391,2020-12-20,Sheffield United,Brighton,1,0,7391,Brighton,Sheffield United,0,0
+1024,7392,2020-12-20,Tottenham,Leicester,0,1,7392,Leicester,Tottenham,1,0
+1026,7393,2020-12-20,Leeds,Man United,1,1,7393,Man United,Leeds,0,0
+1028,7394,2020-12-20,Aston Villa,West Brom,0,0,7394,West Brom,Aston Villa,1,1
+1030,7395,2020-12-21,Wolves,Burnley,0,1,7395,Burnley,Wolves,0,0
+1032,7396,2020-12-21,Chelsea,West Ham,0,0,7396,West Ham,Chelsea,1,1
+1034,7397,2020-12-26,Man City,Newcastle,0,0,7397,Newcastle,Man City,1,1
+1036,7398,2020-12-26,Chelsea,Arsenal,0,1,7398,Arsenal,Chelsea,1,0
+1038,7399,2020-12-26,Sheffield United,Everton,1,1,7399,Everton,Sheffield United,0,0
+1040,7400,2020-12-26,Crystal Palace,Aston Villa,1,1,7400,Aston Villa,Crystal Palace,0,0
+1042,7401,2020-12-26,Southampton,Fulham,0,0,7401,Fulham,Southampton,0,0
+1044,7402,2020-12-26,Man United,Leicester,0,0,7402,Leicester,Man United,0,0
+1046,7403,2020-12-27,Burnley,Leeds,1,1,7403,Leeds,Burnley,0,0
+1048,7404,2020-12-27,West Ham,Brighton,0,0,7404,Brighton,West Ham,0,0
+1050,7405,2020-12-27,West Brom,Liverpool,1,0,7405,Liverpool,West Brom,0,0
+1052,7406,2020-12-27,Wolves,Tottenham,0,0,7406,Tottenham,Wolves,0,0
+1054,7407,2020-12-28,Crystal Palace,Leicester,1,0,7407,Leicester,Crystal Palace,0,0
+1056,7408,2020-12-28,Aston Villa,Chelsea,0,0,7408,Chelsea,Aston Villa,0,0
+1058,7409,2020-12-29,Burnley,Sheffield United,0,0,7409,Sheffield United,Burnley,0,1
+1060,7410,2020-12-29,Southampton,West Ham,0,0,7410,West Ham,Southampton,0,0
+1062,7411,2020-12-29,West Brom,Leeds,1,1,7411,Leeds,West Brom,1,0
+1064,7412,2020-12-29,Man United,Wolves,0,0,7412,Wolves,Man United,1,1
+1066,7413,2020-12-29,Brighton,Arsenal,0,1,7413,Arsenal,Brighton,0,0
+1068,7414,2020-12-30,Liverpool,Newcastle,0,0,7414,Newcastle,Liverpool,1,0
+1070,7415,2021-01-01,West Ham,Everton,1,0,7415,Everton,West Ham,0,1
+1072,7416,2021-01-01,Aston Villa,Man United,1,1,7416,Man United,Aston Villa,0,0
+1074,7417,2021-01-02,West Brom,Arsenal,1,1,7417,Arsenal,West Brom,0,0
+1076,7418,2021-01-02,Sheffield United,Crystal Palace,0,1,7418,Crystal Palace,Sheffield United,0,0
+1078,7419,2021-01-02,Leeds,Tottenham,1,1,7419,Tottenham,Leeds,0,0
+1080,7420,2021-01-02,Wolves,Brighton,0,0,7420,Brighton,Wolves,0,0
+1082,7421,2021-01-03,Newcastle,Leicester,1,1,7421,Leicester,Newcastle,0,0
+1084,7422,2021-01-03,Chelsea,Man City,0,1,7422,Man City,Chelsea,0,0
+1086,7423,2021-01-04,Liverpool,Southampton,0,1,7423,Southampton,Liverpool,1,0
+1088,7424,2021-01-12,Sheffield United,Newcastle,0,0,7424,Newcastle,Sheffield United,1,1
+1090,7425,2021-01-12,Man United,Burnley,0,0,7425,Burnley,Man United,1,1
+1092,7426,2021-01-12,Wolves,Everton,0,1,7426,Everton,Wolves,0,0
+1094,7427,2021-01-13,Fulham,Tottenham,1,0,7427,Tottenham,Fulham,0,0
+1096,7428,2021-01-13,Brighton,Man City,1,1,7428,Man City,Brighton,0,0
+1098,7429,2021-01-14,Crystal Palace,Arsenal,1,0,7429,Arsenal,Crystal Palace,0,0
+1100,7430,2021-01-16,Wolves,West Brom,0,1,7430,West Brom,Wolves,1,0
+1102,7431,2021-01-16,Brighton,Leeds,0,0,7431,Leeds,Brighton,0,1
+1104,7432,2021-01-16,Burnley,West Ham,1,1,7432,West Ham,Burnley,0,0
+1106,7433,2021-01-16,Chelsea,Fulham,0,0,7433,Fulham,Chelsea,1,1
+1108,7434,2021-01-16,Southampton,Leicester,1,1,7434,Leicester,Southampton,0,0
+1110,7435,2021-01-17,Man City,Crystal Palace,0,0,7435,Crystal Palace,Man City,1,1
+1112,7436,2021-01-17,Man United,Liverpool,0,0,7436,Liverpool,Man United,0,0
+1114,7437,2021-01-17,Sheffield United,Tottenham,1,1,7437,Tottenham,Sheffield United,0,0
+1116,7438,2021-01-18,Newcastle,Arsenal,1,1,7438,Arsenal,Newcastle,0,0
+1118,7439,2021-01-19,Chelsea,Leicester,0,1,7439,Leicester,Chelsea,0,0
+1120,7440,2021-01-19,West Brom,West Ham,0,1,7440,West Ham,West Brom,0,0
+1122,7441,2021-01-20,Man United,Fulham,0,0,7441,Fulham,Man United,1,1
+1124,7442,2021-01-20,Man City,Aston Villa,0,0,7442,Aston Villa,Man City,1,1
+1126,7443,2021-01-21,Liverpool,Burnley,0,1,7443,Burnley,Liverpool,1,0
+1128,7444,2021-01-23,Newcastle,Aston Villa,1,1,7444,Aston Villa,Newcastle,0,0
+1130,7445,2021-01-26,West Ham,Crystal Palace,0,0,7445,Crystal Palace,West Ham,0,1
+1132,7446,2021-01-26,Leeds,Newcastle,0,0,7446,Newcastle,Leeds,1,1
+1134,7447,2021-01-26,Southampton,Arsenal,1,1,7447,Arsenal,Southampton,0,0
+1136,7448,2021-01-26,West Brom,Man City,1,1,7448,Man City,West Brom,0,0
+1138,7449,2021-01-27,Man United,Sheffield United,0,1,7449,Sheffield United,Man United,1,0
+1140,7450,2021-01-27,Leicester,Everton,0,0,7450,Everton,Leicester,0,0
+1142,7451,2021-01-27,Wolves,Chelsea,1,0,7451,Chelsea,Wolves,0,0
+1144,7452,2021-01-27,Burnley,Aston Villa,0,0,7452,Aston Villa,Burnley,0,1
+1146,7453,2021-01-27,Brighton,Fulham,0,0,7453,Fulham,Brighton,0,0
+1148,7454,2021-01-28,Liverpool,Tottenham,0,0,7454,Tottenham,Liverpool,0,1
+1150,7455,2021-01-30,Everton,Newcastle,0,1,7455,Newcastle,Everton,1,0
+1152,7456,2021-01-30,Crystal Palace,Wolves,0,0,7456,Wolves,Crystal Palace,0,1
+1154,7457,2021-01-30,Sheffield United,Man City,1,1,7457,Man City,Sheffield United,0,0
+1156,7458,2021-01-30,West Brom,Fulham,0,0,7458,Fulham,West Brom,0,0
+1158,7459,2021-01-30,Man United,Arsenal,0,0,7459,Arsenal,Man United,0,0
+1160,7460,2021-01-30,Southampton,Aston Villa,0,1,7460,Aston Villa,Southampton,0,0
+1162,7461,2021-01-31,Brighton,Tottenham,1,0,7461,Tottenham,Brighton,0,1
+1164,7462,2021-01-31,Liverpool,West Ham,0,0,7462,West Ham,Liverpool,0,1
+1166,7463,2021-01-31,Chelsea,Burnley,0,0,7463,Burnley,Chelsea,1,1
+1168,7464,2021-01-31,Leeds,Leicester,1,0,7464,Leicester,Leeds,0,1
+1170,7465,2021-02-02,Wolves,Arsenal,0,0,7465,Arsenal,Wolves,0,1
+1172,7466,2021-02-02,Man United,Southampton,0,0,7466,Southampton,Man United,1,1
+1174,7467,2021-02-02,Newcastle,Crystal Palace,0,1,7467,Crystal Palace,Newcastle,0,0
+1176,7468,2021-02-02,West Brom,Sheffield United,0,1,7468,Sheffield United,West Brom,0,0
+1178,7469,2021-02-03,Burnley,Man City,1,1,7469,Man City,Burnley,0,0
+1180,7470,2021-02-03,Leicester,Fulham,0,0,7470,Fulham,Leicester,0,1
+1182,7471,2021-02-03,Everton,Leeds,0,0,7471,Leeds,Everton,0,1
+1184,7472,2021-02-03,Aston Villa,West Ham,0,1,7472,West Ham,Aston Villa,0,0
+1186,7473,2021-02-03,Liverpool,Brighton,0,1,7473,Brighton,Liverpool,1,0
+1188,7474,2021-02-04,Tottenham,Chelsea,0,1,7474,Chelsea,Tottenham,0,0
+1190,7475,2021-02-06,Man United,Everton,0,0,7475,Everton,Man United,1,0
+1192,7476,2021-02-06,West Ham,Fulham,0,0,7476,Fulham,West Ham,0,0
+1194,7477,2021-02-06,Burnley,Brighton,0,0,7477,Brighton,Burnley,0,0
+1196,7478,2021-02-06,Southampton,Newcastle,0,1,7478,Newcastle,Southampton,0,0
+1198,7479,2021-02-06,Aston Villa,Arsenal,0,0,7479,Arsenal,Aston Villa,0,1
+1200,7480,2021-02-07,West Brom,Tottenham,1,1,7480,Tottenham,West Brom,0,0
+1202,7481,2021-02-07,Wolves,Leicester,0,0,7481,Leicester,Wolves,0,0
+1204,7482,2021-02-07,Man City,Liverpool,0,0,7482,Liverpool,Man City,0,1
+1206,7483,2021-02-07,Chelsea,Sheffield United,0,0,7483,Sheffield United,Chelsea,1,1
+1208,7484,2021-02-08,Crystal Palace,Leeds,1,1,7484,Leeds,Crystal Palace,0,0
+1210,7485,2021-02-13,Aston Villa,Brighton,0,0,7485,Brighton,Aston Villa,0,0
+1212,7486,2021-02-13,Crystal Palace,Burnley,0,1,7486,Burnley,Crystal Palace,0,0
+1214,7487,2021-02-13,Liverpool,Leicester,0,1,7487,Leicester,Liverpool,0,0
+1216,7488,2021-02-13,Tottenham,Man City,1,1,7488,Man City,Tottenham,0,0
+1218,7489,2021-02-14,Southampton,Wolves,0,1,7489,Wolves,Southampton,0,0
+1220,7490,2021-02-14,West Brom,Man United,1,0,7490,Man United,West Brom,0,0
+1222,7491,2021-02-14,Leeds,Arsenal,0,1,7491,Arsenal,Leeds,0,0
+1224,7492,2021-02-14,Fulham,Everton,0,0,7492,Everton,Fulham,0,1
+1226,7493,2021-02-15,West Ham,Sheffield United,0,0,7493,Sheffield United,West Ham,1,1
+1228,7494,2021-02-15,Newcastle,Chelsea,1,1,7494,Chelsea,Newcastle,0,0
+1230,7495,2021-02-17,Fulham,Burnley,1,0,7495,Burnley,Fulham,0,0
+1232,7496,2021-02-17,Everton,Man City,1,1,7496,Man City,Everton,0,0
+1234,7497,2021-02-19,Leeds,Wolves,0,1,7497,Wolves,Leeds,0,0
+1236,7498,2021-02-20,Chelsea,Southampton,0,0,7498,Southampton,Chelsea,1,0
+1238,7499,2021-02-20,West Brom,Burnley,1,0,7499,Burnley,West Brom,0,0
+1240,7500,2021-02-20,Liverpool,Everton,0,1,7500,Everton,Liverpool,1,0
+1242,7501,2021-02-20,Fulham,Sheffield United,0,0,7501,Sheffield United,Fulham,1,1
+1244,7502,2021-02-21,Arsenal,Man City,1,1,7502,Man City,Arsenal,0,0
+1246,7503,2021-02-21,Man United,Newcastle,0,0,7503,Newcastle,Man United,1,1
+1248,7504,2021-02-21,Leicester,Aston Villa,0,0,7504,Aston Villa,Leicester,0,1
+1250,7505,2021-02-21,Tottenham,West Ham,0,1,7505,West Ham,Tottenham,0,0
+1252,7506,2021-02-22,Brighton,Crystal Palace,0,1,7506,Crystal Palace,Brighton,0,0
+1254,7507,2021-02-23,Leeds,Southampton,0,0,7507,Southampton,Leeds,1,1
+1256,7508,2021-02-27,West Ham,Man City,1,1,7508,Man City,West Ham,0,0
+1258,7509,2021-02-27,West Brom,Brighton,1,0,7509,Brighton,West Brom,0,1
+1260,7510,2021-02-27,Leeds,Aston Villa,0,1,7510,Aston Villa,Leeds,0,0
+1262,7511,2021-02-27,Newcastle,Wolves,0,0,7511,Wolves,Newcastle,0,0
+1264,7512,2021-02-28,Crystal Palace,Fulham,0,0,7512,Fulham,Crystal Palace,0,0
+1266,7513,2021-02-28,Arsenal,Leicester,0,0,7513,Leicester,Arsenal,0,1
+1268,7514,2021-02-28,Tottenham,Burnley,0,0,7514,Burnley,Tottenham,1,1
+1270,7515,2021-02-28,Man United,Chelsea,0,0,7515,Chelsea,Man United,0,0
+1272,7516,2021-02-28,Liverpool,Sheffield United,0,0,7516,Sheffield United,Liverpool,1,1
+1274,7517,2021-03-01,Southampton,Everton,1,1,7517,Everton,Southampton,0,0
+1276,7518,2021-03-02,Wolves,Man City,1,1,7518,Man City,Wolves,0,0
+1278,7519,2021-03-03,Man United,Crystal Palace,0,0,7519,Crystal Palace,Man United,1,0
+1280,7520,2021-03-03,Sheffield United,Aston Villa,1,0,7520,Aston Villa,Sheffield United,0,1
+1282,7521,2021-03-03,Leicester,Burnley,0,0,7521,Burnley,Leicester,1,0
+1284,7522,2021-03-04,Tottenham,Fulham,0,0,7522,Fulham,Tottenham,0,1
+1286,7523,2021-03-04,Everton,West Brom,0,0,7523,West Brom,Everton,1,1
+1288,7524,2021-03-04,Liverpool,Chelsea,0,1,7524,Chelsea,Liverpool,0,0
+1290,7525,2021-03-06,Arsenal,Burnley,0,0,7525,Burnley,Arsenal,1,0
+1292,7526,2021-03-06,Sheffield United,Southampton,1,1,7526,Southampton,Sheffield United,0,0
+1294,7527,2021-03-06,Aston Villa,Wolves,0,0,7527,Wolves,Aston Villa,0,0
+1296,7528,2021-03-06,Leicester,Brighton,0,0,7528,Brighton,Leicester,0,1
+1298,7529,2021-03-07,West Brom,Newcastle,0,0,7529,Newcastle,West Brom,0,0
+1300,7530,2021-03-07,Tottenham,Crystal Palace,0,0,7530,Crystal Palace,Tottenham,1,1
+1302,7531,2021-03-07,Liverpool,Fulham,0,1,7531,Fulham,Liverpool,1,0
+1304,7532,2021-03-07,Man City,Man United,0,1,7532,Man United,Man City,1,0
+1306,7533,2021-03-08,Everton,Chelsea,1,1,7533,Chelsea,Everton,0,0
+1308,7534,2021-03-08,West Ham,Leeds,0,0,7534,Leeds,West Ham,0,1
+1310,7535,2021-03-10,Man City,Southampton,0,0,7535,Southampton,Man City,1,1
+1312,7536,2021-03-12,Aston Villa,Newcastle,0,0,7536,Newcastle,Aston Villa,0,0
+1314,7537,2021-03-13,Man City,Fulham,0,0,7537,Fulham,Man City,1,1
+1316,7538,2021-03-13,Crystal Palace,West Brom,0,0,7538,West Brom,Crystal Palace,1,1
+1318,7539,2021-03-13,Chelsea,Leeds,0,0,7539,Leeds,Chelsea,1,0
+1320,7540,2021-03-13,Everton,Burnley,0,1,7540,Burnley,Everton,0,0
+1322,7541,2021-03-14,Brighton,Southampton,0,0,7541,Southampton,Brighton,0,1
+1324,7542,2021-03-14,Sheffield United,Leicester,0,1,7542,Leicester,Sheffield United,0,0
+1326,7543,2021-03-14,Tottenham,Arsenal,0,1,7543,Arsenal,Tottenham,0,0
+1328,7544,2021-03-14,Man United,West Ham,0,0,7544,West Ham,Man United,0,1
+1330,7545,2021-03-15,Wolves,Liverpool,1,1,7545,Liverpool,Wolves,0,0
+1332,7546,2021-03-19,Fulham,Leeds,0,1,7546,Leeds,Fulham,0,0
+1334,7547,2021-03-20,Newcastle,Brighton,1,1,7547,Brighton,Newcastle,0,0
+1336,7548,2021-03-21,West Ham,Arsenal,0,0,7548,Arsenal,West Ham,0,0
+1338,7549,2021-03-21,Tottenham,Aston Villa,0,0,7549,Aston Villa,Tottenham,0,1
+1340,7550,2021-04-03,West Brom,Chelsea,1,0,7550,Chelsea,West Brom,0,1
+1342,7551,2021-04-03,Sheffield United,Leeds,1,1,7551,Leeds,Sheffield United,0,0
+1344,7552,2021-04-03,Man City,Leicester,0,0,7552,Leicester,Man City,0,1
+1346,7553,2021-04-03,Arsenal,Liverpool,0,1,7553,Liverpool,Arsenal,1,0
+1348,7554,2021-04-04,Brighton,Man United,0,1,7554,Man United,Brighton,0,0
+1350,7555,2021-04-04,Aston Villa,Fulham,0,0,7555,Fulham,Aston Villa,0,1
+1352,7556,2021-04-04,Southampton,Burnley,0,0,7556,Burnley,Southampton,0,1
+1354,7557,2021-04-04,Newcastle,Tottenham,1,0,7557,Tottenham,Newcastle,0,0
+1356,7558,2021-04-05,Everton,Crystal Palace,0,0,7558,Crystal Palace,Everton,1,0
+1358,7559,2021-04-05,Wolves,West Ham,0,1,7559,West Ham,Wolves,0,0
+1360,7560,2021-04-09,Wolves,Fulham,0,0,7560,Fulham,Wolves,0,1
+1362,7561,2021-04-10,Leeds,Man City,1,0,7561,Man City,Leeds,0,1
+1364,7562,2021-04-10,Liverpool,Aston Villa,0,0,7562,Aston Villa,Liverpool,1,1
+1366,7563,2021-04-10,Chelsea,Crystal Palace,0,0,7563,Crystal Palace,Chelsea,1,1
+1368,7564,2021-04-11,Burnley,Newcastle,0,1,7564,Newcastle,Burnley,0,0
+1370,7565,2021-04-11,West Ham,Leicester,0,0,7565,Leicester,West Ham,0,1
+1372,7566,2021-04-11,Man United,Tottenham,0,0,7566,Tottenham,Man United,0,1
+1374,7567,2021-04-11,Arsenal,Sheffield United,0,0,7567,Sheffield United,Arsenal,1,1
+1376,7568,2021-04-12,West Brom,Southampton,1,0,7568,Southampton,West Brom,0,1
+1378,7569,2021-04-12,Brighton,Everton,0,0,7569,Everton,Brighton,0,0
+1380,7570,2021-04-16,Tottenham,Everton,0,0,7570,Everton,Tottenham,0,0
+1382,7571,2021-04-17,Newcastle,West Ham,0,0,7571,West Ham,Newcastle,0,1
+1384,7572,2021-04-17,Sheffield United,Wolves,1,1,7572,Wolves,Sheffield United,0,0
+1386,7573,2021-04-18,Arsenal,Fulham,0,0,7573,Fulham,Arsenal,1,0
+1388,7574,2021-04-18,Man United,Burnley,0,0,7574,Burnley,Man United,1,1
+1390,7575,2021-04-19,Leeds,Liverpool,1,0,7575,Liverpool,Leeds,0,0
+1392,7576,2021-04-20,Chelsea,Brighton,0,0,7576,Brighton,Chelsea,1,0
+1394,7577,2021-04-21,Southampton,Tottenham,0,1,7577,Tottenham,Southampton,0,0
+1396,7578,2021-04-21,Aston Villa,Man City,0,1,7578,Man City,Aston Villa,0,0
+1398,7579,2021-04-22,West Brom,Leicester,1,1,7579,Leicester,West Brom,0,0
+1400,7580,2021-04-23,Everton,Arsenal,1,0,7580,Arsenal,Everton,0,1
+1402,7581,2021-04-24,Liverpool,Newcastle,0,0,7581,Newcastle,Liverpool,1,0
+1404,7582,2021-04-24,Chelsea,West Ham,0,0,7582,West Ham,Chelsea,0,1
+1406,7583,2021-04-24,Sheffield United,Brighton,1,0,7583,Brighton,Sheffield United,0,1
+1408,7584,2021-04-25,Burnley,Wolves,1,0,7584,Wolves,Burnley,0,1
+1410,7585,2021-04-25,Man United,Leeds,0,0,7585,Leeds,Man United,1,0
+1412,7586,2021-04-25,West Brom,Aston Villa,0,0,7586,Aston Villa,West Brom,0,0
+1414,7587,2021-04-26,Leicester,Crystal Palace,0,0,7587,Crystal Palace,Leicester,1,1
+1416,7588,2021-04-30,Leicester,Southampton,0,0,7588,Southampton,Leicester,0,0
+1418,7589,2021-05-01,Everton,Aston Villa,0,1,7589,Aston Villa,Everton,1,0
+1420,7590,2021-05-01,Leeds,Brighton,1,1,7590,Brighton,Leeds,0,0
+1422,7591,2021-05-01,Chelsea,Fulham,0,0,7591,Fulham,Chelsea,1,1
+1424,7592,2021-05-01,Crystal Palace,Man City,1,1,7592,Man City,Crystal Palace,0,0
+1426,7593,2021-05-02,Arsenal,Newcastle,0,0,7593,Newcastle,Arsenal,0,1
+1428,7594,2021-05-02,Sheffield United,Tottenham,1,1,7594,Tottenham,Sheffield United,0,0
+1430,7595,2021-05-03,Wolves,West Brom,0,0,7595,West Brom,Wolves,0,0
+1432,7596,2021-05-03,West Ham,Burnley,0,0,7596,Burnley,West Ham,0,1
+1434,7597,2021-05-07,Leicester,Newcastle,0,1,7597,Newcastle,Leicester,1,0
+1436,7598,2021-05-08,Tottenham,Leeds,0,1,7598,Leeds,Tottenham,1,0
+1438,7599,2021-05-08,Sheffield United,Crystal Palace,0,1,7599,Crystal Palace,Sheffield United,0,0
+1440,7600,2021-05-08,Man City,Chelsea,0,1,7600,Chelsea,Man City,1,0
+1442,7601,2021-05-08,Liverpool,Southampton,0,0,7601,Southampton,Liverpool,1,1
+1444,7602,2021-05-09,Arsenal,West Brom,0,0,7602,West Brom,Arsenal,1,1
+1446,7603,2021-05-09,Wolves,Brighton,0,0,7603,Brighton,Wolves,0,1
+1448,7604,2021-05-09,Man United,Aston Villa,0,0,7604,Aston Villa,Man United,0,1
+1450,7605,2021-05-09,West Ham,Everton,0,1,7605,Everton,West Ham,0,0
+1452,7606,2021-05-10,Burnley,Fulham,0,0,7606,Fulham,Burnley,0,1
+1454,7607,2021-05-11,Man United,Leicester,0,1,7607,Leicester,Man United,0,0
+1456,7608,2021-05-11,Crystal Palace,Southampton,0,1,7608,Southampton,Crystal Palace,0,0
+1458,7609,2021-05-12,Chelsea,Arsenal,0,1,7609,Arsenal,Chelsea,1,0
+1460,7610,2021-05-13,Everton,Aston Villa,0,0,7610,Aston Villa,Everton,0,0
+1462,7611,2021-05-13,Man United,Liverpool,0,1,7611,Liverpool,Man United,0,0
+1464,7612,2021-05-14,Newcastle,Man City,1,1,7612,Man City,Newcastle,0,0
+1466,7613,2021-05-15,Brighton,West Ham,0,0,7613,West Ham,Brighton,0,0
+1468,7614,2021-05-15,Leeds,Burnley,0,0,7614,Burnley,Leeds,0,1
+1470,7615,2021-05-15,Southampton,Fulham,0,0,7615,Fulham,Southampton,0,1
+1472,7616,2021-05-16,Aston Villa,Crystal Palace,0,1,7616,Crystal Palace,Aston Villa,0,0
+1474,7617,2021-05-16,Wolves,Tottenham,1,1,7617,Tottenham,Wolves,0,0
+1476,7618,2021-05-16,West Brom,Liverpool,1,1,7618,Liverpool,West Brom,0,0
+1478,7619,2021-05-16,Everton,Sheffield United,0,1,7619,Sheffield United,Everton,1,0
+1480,7620,2021-05-18,Chelsea,Leicester,0,0,7620,Leicester,Chelsea,0,1
+1482,7621,2021-05-18,Man City,Brighton,0,1,7621,Brighton,Man City,1,0
+1484,7622,2021-05-18,Southampton,Leeds,0,1,7622,Leeds,Southampton,0,0
+1486,7623,2021-05-18,Man United,Fulham,0,0,7623,Fulham,Man United,1,0
+1488,7624,2021-05-19,Burnley,Liverpool,1,1,7624,Liverpool,Burnley,0,0
+1490,7625,2021-05-19,West Brom,West Ham,1,1,7625,West Ham,West Brom,0,0
+1492,7626,2021-05-19,Crystal Palace,Arsenal,0,1,7626,Arsenal,Crystal Palace,0,0
+1494,7627,2021-05-19,Everton,Wolves,0,0,7627,Wolves,Everton,0,1
+1496,7628,2021-05-19,Sheffield United,Newcastle,1,1,7628,Newcastle,Sheffield United,0,0
+1498,7629,2021-05-19,Aston Villa,Tottenham,1,0,7629,Tottenham,Aston Villa,0,1
+1500,7630,2021-05-23,Southampton,West Ham,1,1,7630,West Ham,Southampton,0,0
+1502,7631,2021-05-23,Brighton,Arsenal,1,1,7631,Arsenal,Brighton,0,0
+1504,7632,2021-05-23,Aston Villa,Chelsea,1,0,7632,Chelsea,Aston Villa,0,1
+1506,7633,2021-05-23,Newcastle,Fulham,1,0,7633,Fulham,Newcastle,0,1
+1508,7634,2021-05-23,West Brom,Leeds,1,1,7634,Leeds,West Brom,0,0
+1510,7635,2021-05-23,Leicester,Tottenham,0,1,7635,Tottenham,Leicester,0,0
+1512,7636,2021-05-23,Crystal Palace,Liverpool,1,1,7636,Liverpool,Crystal Palace,0,0
+1514,7637,2021-05-23,Man City,Everton,0,0,7637,Everton,Man City,1,1
+1516,7638,2021-05-23,Sheffield United,Burnley,0,0,7638,Burnley,Sheffield United,0,1
+1518,7639,2021-05-23,Wolves,Man United,0,1,7639,Man United,Wolves,0,0
+1520,7641,2021-08-14,Leeds,Man United,1,1,7641,Man United,Leeds,0,0
+1522,7642,2021-08-14,Burnley,Brighton,0,1,7642,Brighton,Burnley,0,0
+1524,7643,2021-08-14,Chelsea,Crystal Palace,0,0,7643,Crystal Palace,Chelsea,1,1
+1526,7644,2021-08-14,Everton,Southampton,0,0,7644,Southampton,Everton,1,1
+1528,7645,2021-08-14,Wolves,Leicester,0,1,7645,Leicester,Wolves,0,0
+1530,7646,2021-08-14,Aston Villa,Watford,1,1,7646,Watford,Aston Villa,0,0
+1532,7647,2021-08-14,Norwich,Liverpool,1,1,7647,Liverpool,Norwich,0,0
+1534,7648,2021-08-15,Newcastle,West Ham,0,1,7648,West Ham,Newcastle,0,0
+1536,7649,2021-08-15,Tottenham,Man City,1,0,7649,Man City,Tottenham,0,1
+1538,7650,2021-08-21,Man City,Norwich,0,0,7650,Norwich,Man City,1,1
+1540,7651,2021-08-21,Leeds,Everton,0,0,7651,Everton,Leeds,0,0
+1542,7652,2021-08-21,Watford,Brighton,0,1,7652,Brighton,Watford,0,0
+1544,7653,2021-08-21,Aston Villa,Newcastle,0,0,7653,Newcastle,Aston Villa,0,1
+1546,7654,2021-08-21,Liverpool,Burnley,0,0,7654,Burnley,Liverpool,1,1
+1548,7656,2021-08-22,Southampton,Man United,1,0,7656,Man United,Southampton,0,0
+1550,7657,2021-08-22,Tottenham,Wolves,0,0,7657,Wolves,Tottenham,0,1
+1552,7658,2021-08-22,Chelsea,Arsenal,0,0,7658,Arsenal,Chelsea,1,1
+1554,7659,2021-08-23,Leicester,West Ham,0,1,7659,West Ham,Leicester,0,0
+1556,7660,2021-08-28,Chelsea,Liverpool,0,0,7660,Liverpool,Chelsea,0,0
+1558,7661,2021-08-28,West Ham,Crystal Palace,0,0,7661,Crystal Palace,West Ham,1,0
+1560,7662,2021-08-28,Leicester,Norwich,0,0,7662,Norwich,Leicester,1,1
+1562,7663,2021-08-28,Southampton,Newcastle,0,0,7663,Newcastle,Southampton,0,0
+1564,7664,2021-08-28,Arsenal,Man City,1,1,7664,Man City,Arsenal,0,0
+1566,7666,2021-08-28,Brighton,Everton,0,1,7666,Everton,Brighton,0,0
+1568,7667,2021-08-29,Wolves,Man United,0,1,7667,Man United,Wolves,0,0
+1570,7668,2021-08-29,Leeds,Burnley,0,0,7668,Burnley,Leeds,0,0
+1572,7669,2021-08-29,Tottenham,Watford,0,0,7669,Watford,Tottenham,1,1
+1574,7670,2021-09-11,Aston Villa,Chelsea,1,1,7670,Chelsea,Aston Villa,0,0
+1576,7671,2021-09-11,Wolves,Watford,0,0,7671,Watford,Wolves,0,1
+1578,7673,2021-09-11,Leicester,Man City,1,1,7673,Man City,Leicester,0,0
+1580,7674,2021-09-11,Crystal Palace,Tottenham,0,0,7674,Tottenham,Crystal Palace,0,1
+1582,7675,2021-09-11,Arsenal,Norwich,0,0,7675,Norwich,Arsenal,1,1
+1584,7676,2021-09-11,Newcastle,Man United,1,1,7676,Man United,Newcastle,0,0
+1586,7677,2021-09-11,Southampton,West Ham,0,0,7677,West Ham,Southampton,0,0
+1588,7678,2021-09-12,Liverpool,Leeds,0,0,7678,Leeds,Liverpool,1,1
+1590,7679,2021-09-13,Everton,Burnley,0,0,7679,Burnley,Everton,0,1
+1592,7680,2021-09-17,Newcastle,Leeds,0,0,7680,Leeds,Newcastle,0,0
+1594,7682,2021-09-18,Burnley,Arsenal,0,1,7682,Arsenal,Burnley,0,0
+1596,7683,2021-09-18,Liverpool,Crystal Palace,0,0,7683,Crystal Palace,Liverpool,1,1
+1598,7684,2021-09-18,Man City,Southampton,0,0,7684,Southampton,Man City,1,0
+1600,7685,2021-09-18,Watford,Norwich,1,0,7685,Norwich,Watford,0,1
+1602,7686,2021-09-18,Everton,Aston Villa,0,1,7686,Aston Villa,Everton,0,0
+1604,7687,2021-09-19,Leicester,Brighton,0,1,7687,Brighton,Leicester,0,0
+1606,7688,2021-09-19,West Ham,Man United,0,1,7688,Man United,West Ham,0,0
+1608,7689,2021-09-19,Tottenham,Chelsea,0,1,7689,Chelsea,Tottenham,0,0
+1610,7691,2021-09-25,Watford,Newcastle,0,0,7691,Newcastle,Watford,0,0
+1612,7692,2021-09-25,Burnley,Leicester,1,0,7692,Leicester,Burnley,0,0
+1614,7693,2021-09-25,West Ham,Leeds,0,0,7693,Leeds,West Ham,0,1
+1616,7694,2021-09-25,Norwich,Everton,1,1,7694,Everton,Norwich,0,0
+1618,7695,2021-09-25,Chelsea,Man City,0,1,7695,Man City,Chelsea,0,0
+1620,7696,2021-09-25,Man United,Aston Villa,0,1,7696,Aston Villa,Man United,1,0
+1622,7697,2021-09-26,Southampton,Wolves,0,1,7697,Wolves,Southampton,0,0
+1624,7698,2021-09-26,Tottenham,Arsenal,0,1,7698,Arsenal,Tottenham,0,0
+1626,7699,2021-09-27,Crystal Palace,Brighton,0,0,7699,Brighton,Crystal Palace,0,0
+1628,7700,2021-10-02,Man United,Everton,0,0,7700,Everton,Man United,1,0
+1630,7701,2021-10-02,Norwich,Burnley,1,0,7701,Burnley,Norwich,0,0
+1632,7702,2021-10-02,Chelsea,Southampton,0,0,7702,Southampton,Chelsea,1,1
+1634,7703,2021-10-02,Leeds,Watford,0,0,7703,Watford,Leeds,1,1
+1636,7704,2021-10-02,Newcastle,Wolves,1,1,7704,Wolves,Newcastle,0,0
+1638,7705,2021-10-02,Brighton,Arsenal,0,0,7705,Arsenal,Brighton,0,0
+1640,7707,2021-10-03,Man City,Liverpool,0,0,7707,Liverpool,Man City,0,0
+1642,7708,2021-10-03,Tottenham,Aston Villa,0,0,7708,Aston Villa,Tottenham,0,1
+1644,7709,2021-10-03,Crystal Palace,Leicester,0,0,7709,Leicester,Crystal Palace,0,0
+1646,7710,2021-10-16,Liverpool,Watford,0,0,7710,Watford,Liverpool,1,1
+1648,7711,2021-10-16,Wolves,Aston Villa,1,0,7711,Aston Villa,Wolves,0,1
+1650,7712,2021-10-16,Leicester,Man United,0,0,7712,Man United,Leicester,0,1
+1652,7713,2021-10-16,Burnley,Man City,1,1,7713,Man City,Burnley,0,0
+1654,7714,2021-10-16,Brighton,Norwich,0,0,7714,Norwich,Brighton,1,0
+1656,7715,2021-10-16,Southampton,Leeds,0,0,7715,Leeds,Southampton,0,1
+1658,7717,2021-10-17,West Ham,Everton,0,0,7717,Everton,West Ham,0,1
+1660,7718,2021-10-17,Tottenham,Newcastle,0,0,7718,Newcastle,Tottenham,0,1
+1662,7719,2021-10-18,Crystal Palace,Arsenal,1,0,7719,Arsenal,Crystal Palace,0,0
+1664,7720,2021-10-22,Aston Villa,Arsenal,1,1,7720,Arsenal,Aston Villa,0,0
+1666,7721,2021-10-23,Burnley,Southampton,0,0,7721,Southampton,Burnley,0,0
+1668,7722,2021-10-23,Wolves,Leeds,0,0,7722,Leeds,Wolves,0,0
+1670,7723,2021-10-23,Brighton,Man City,1,1,7723,Man City,Brighton,0,0
+1672,7724,2021-10-23,Newcastle,Crystal Palace,1,0,7724,Crystal Palace,Newcastle,0,0
+1674,7725,2021-10-23,Chelsea,Norwich,0,0,7725,Norwich,Chelsea,1,1
+1676,7726,2021-10-23,Watford,Everton,1,0,7726,Everton,Watford,0,1
+1678,7727,2021-10-24,Leicester,Brentford,0,0,7727,Brentford,Leicester,0,1
+1680,7728,2021-10-24,West Ham,Tottenham,0,0,7728,Tottenham,West Ham,0,1
+1682,7729,2021-10-24,Liverpool,Man United,0,0,7729,Man United,Liverpool,0,1
+1684,7730,2021-10-30,Man United,Tottenham,0,0,7730,Tottenham,Man United,0,1
+1686,7731,2021-10-30,Southampton,Watford,0,0,7731,Watford,Southampton,0,1
+1688,7732,2021-10-30,Chelsea,Newcastle,0,0,7732,Newcastle,Chelsea,0,1
+1690,7733,2021-10-30,Man City,Crystal Palace,0,1,7733,Crystal Palace,Man City,1,0
+1692,7734,2021-10-30,Burnley,Brentford,0,0,7734,Brentford,Burnley,0,1
+1694,7735,2021-10-30,Arsenal,Leicester,0,0,7735,Leicester,Arsenal,0,1
+1696,7736,2021-10-30,Brighton,Liverpool,1,0,7736,Liverpool,Brighton,0,0
+1698,7737,2021-10-31,Norwich,Leeds,0,1,7737,Leeds,Norwich,0,0
+1700,7738,2021-10-31,West Ham,Aston Villa,0,0,7738,Aston Villa,West Ham,0,1
+1702,7739,2021-11-01,Everton,Wolves,0,1,7739,Wolves,Everton,0,0
+1704,7740,2021-11-05,Southampton,Aston Villa,0,0,7740,Aston Villa,Southampton,0,1
+1706,7741,2021-11-06,Wolves,Crystal Palace,0,1,7741,Crystal Palace,Wolves,0,0
+1708,7742,2021-11-06,Brighton,Newcastle,0,0,7742,Newcastle,Brighton,1,0
+1710,7743,2021-11-06,Brentford,Norwich,0,1,7743,Norwich,Brentford,1,0
+1712,7744,2021-11-06,Chelsea,Burnley,0,0,7744,Burnley,Chelsea,1,0
+1714,7745,2021-11-06,Man City,Man United,0,0,7745,Man United,Man City,1,1
+1716,7746,2021-11-07,Watford,Arsenal,1,1,7746,Arsenal,Watford,0,0
+1718,7747,2021-11-07,Tottenham,Everton,0,0,7747,Everton,Tottenham,0,0
+1720,7748,2021-11-07,Leicester,Leeds,1,0,7748,Leeds,Leicester,0,0
+1722,7749,2021-11-07,Liverpool,West Ham,0,1,7749,West Ham,Liverpool,0,0
+1724,7750,2021-11-20,Liverpool,Arsenal,0,0,7750,Arsenal,Liverpool,1,1
+1726,7751,2021-11-20,Wolves,West Ham,0,0,7751,West Ham,Wolves,0,1
+1728,7752,2021-11-20,Man United,Watford,0,1,7752,Watford,Man United,1,0
+1730,7753,2021-11-20,Norwich,Southampton,1,0,7753,Southampton,Norwich,0,1
+1732,7754,2021-11-20,Crystal Palace,Burnley,0,0,7754,Burnley,Crystal Palace,0,0
+1734,7755,2021-11-20,Aston Villa,Brighton,0,0,7755,Brighton,Aston Villa,0,1
+1736,7756,2021-11-20,Leicester,Chelsea,0,1,7756,Chelsea,Leicester,0,0
+1738,7757,2021-11-20,Brentford,Newcastle,0,0,7757,Newcastle,Brentford,0,0
+1740,7758,2021-11-21,Man City,Everton,0,0,7758,Everton,Man City,1,1
+1742,7759,2021-11-21,Tottenham,Leeds,0,0,7759,Leeds,Tottenham,0,1
+1744,7760,2021-11-27,Leeds,Brighton,0,0,7760,Brighton,Leeds,0,0
+1746,7761,2021-11-27,Norwich,Wolves,0,0,7761,Wolves,Norwich,0,0
+1748,7762,2021-11-27,Liverpool,Southampton,0,0,7762,Southampton,Liverpool,1,1
+1750,7763,2021-11-27,Arsenal,Newcastle,0,0,7763,Newcastle,Arsenal,1,1
+1752,7764,2021-11-27,Crystal Palace,Aston Villa,0,1,7764,Aston Villa,Crystal Palace,0,0
+1754,7765,2021-11-28,Brentford,Everton,0,0,7765,Everton,Brentford,1,1
+1756,7766,2021-11-28,Watford,Leicester,1,1,7766,Leicester,Watford,0,0
+1758,7767,2021-11-28,West Ham,Man City,1,1,7767,Man City,West Ham,0,0
+1760,7768,2021-11-28,Man United,Chelsea,1,0,7768,Chelsea,Man United,0,0
+1762,7769,2021-11-30,Norwich,Newcastle,1,0,7769,Newcastle,Norwich,0,0
+1764,7770,2021-11-30,Leeds,Crystal Palace,0,0,7770,Crystal Palace,Leeds,0,1
+1766,7771,2021-12-01,Everton,Liverpool,1,1,7771,Liverpool,Everton,0,0
+1768,7772,2021-12-01,Aston Villa,Man City,1,1,7772,Man City,Aston Villa,0,0
+1770,7773,2021-12-01,Chelsea,Watford,0,0,7773,Watford,Chelsea,1,1
+1772,7774,2021-12-01,Brighton,West Ham,0,0,7774,West Ham,Brighton,0,0
+1774,7775,2021-12-01,Southampton,Leicester,0,0,7775,Leicester,Southampton,0,0
+1776,7776,2021-12-01,Wolves,Burnley,0,0,7776,Burnley,Wolves,0,0
+1778,7777,2021-12-02,Brentford,Tottenham,1,1,7777,Tottenham,Brentford,0,0
+1780,7778,2021-12-02,Man United,Arsenal,0,0,7778,Arsenal,Man United,0,1
+1782,7779,2021-12-04,Watford,Man City,1,1,7779,Man City,Watford,0,0
+1784,7780,2021-12-04,Liverpool,Wolves,0,0,7780,Wolves,Liverpool,1,1
+1786,7781,2021-12-04,West Ham,Chelsea,1,0,7781,Chelsea,West Ham,0,1
+1788,7782,2021-12-04,Newcastle,Burnley,0,0,7782,Burnley,Newcastle,0,1
+1790,7783,2021-12-04,Southampton,Brighton,0,0,7783,Brighton,Southampton,0,0
+1792,7784,2021-12-05,Man United,Crystal Palace,0,0,7784,Crystal Palace,Man United,1,1
+1794,7785,2021-12-05,Aston Villa,Leicester,0,0,7785,Leicester,Aston Villa,0,1
+1796,7786,2021-12-05,Brentford,Leeds,1,0,7786,Leeds,Brentford,0,0
+1798,7787,2021-12-05,Tottenham,Norwich,0,0,7787,Norwich,Tottenham,1,1
+1800,7788,2021-12-06,Arsenal,Everton,0,1,7788,Everton,Arsenal,1,0
+1802,7789,2021-12-10,Brentford,Watford,0,0,7789,Watford,Brentford,0,1
+1804,7790,2021-12-11,Man City,Wolves,0,0,7790,Wolves,Man City,1,1
+1806,7791,2021-12-11,Southampton,Arsenal,1,1,7791,Arsenal,Southampton,0,0
+1808,7792,2021-12-11,Leeds,Chelsea,1,1,7792,Chelsea,Leeds,0,0
+1810,7793,2021-12-11,Aston Villa,Liverpool,1,1,7793,Liverpool,Aston Villa,0,0
+1812,7794,2021-12-11,Man United,Norwich,0,0,7794,Norwich,Man United,1,1
+1814,7795,2021-12-12,Crystal Palace,Everton,0,0,7795,Everton,Crystal Palace,0,1
+1816,7796,2021-12-12,Burnley,West Ham,0,0,7796,West Ham,Burnley,0,0
+1818,7797,2021-12-12,Leicester,Newcastle,0,0,7797,Newcastle,Leicester,1,1
+1820,7798,2021-12-14,Man City,Leeds,0,0,7798,Leeds,Man City,1,1
+1822,7799,2021-12-14,Norwich,Aston Villa,0,1,7799,Aston Villa,Norwich,0,0
+1824,7800,2021-12-15,Brighton,Wolves,0,1,7800,Wolves,Brighton,1,0
+1826,7801,2021-12-15,Southampton,Crystal Palace,0,0,7801,Crystal Palace,Southampton,0,0
+1828,7802,2021-12-15,West Ham,Arsenal,0,1,7802,Arsenal,West Ham,0,0
+1830,7803,2021-12-16,Chelsea,Everton,0,0,7803,Everton,Chelsea,1,0
+1832,7804,2021-12-16,Liverpool,Newcastle,0,0,7804,Newcastle,Liverpool,1,1
+1834,7805,2021-12-18,Arsenal,Leeds,0,0,7805,Leeds,Arsenal,0,1
+1836,7806,2021-12-19,Tottenham,Liverpool,1,0,7806,Liverpool,Tottenham,0,0
+1838,7808,2021-12-19,Wolves,Chelsea,1,0,7808,Chelsea,Wolves,0,0
+1840,7809,2021-12-26,Norwich,Arsenal,1,1,7809,Arsenal,Norwich,0,0
+1842,7810,2021-12-26,Leicester,Man City,1,1,7810,Man City,Leicester,0,0
+1844,7811,2021-12-26,Tottenham,Crystal Palace,0,0,7811,Crystal Palace,Tottenham,1,1
+1846,7812,2021-12-26,Southampton,West Ham,1,0,7812,West Ham,Southampton,0,1
+1848,7813,2021-12-26,Chelsea,Aston Villa,0,0,7813,Aston Villa,Chelsea,1,1
+1850,7814,2021-12-26,Brentford,Brighton,1,1,7814,Brighton,Brentford,0,0
+1852,7815,2021-12-27,Man United,Newcastle,0,0,7815,Newcastle,Man United,1,0
+1854,7816,2021-12-28,Norwich,Crystal Palace,1,1,7816,Crystal Palace,Norwich,0,0
+1856,7817,2021-12-28,Tottenham,Southampton,0,0,7817,Southampton,Tottenham,0,0
+1858,7818,2021-12-28,Watford,West Ham,0,1,7818,West Ham,Watford,0,0
+1860,7819,2021-12-28,Leicester,Liverpool,1,0,7819,Liverpool,Leicester,0,1
+1862,7820,2021-12-29,Chelsea,Brighton,0,0,7820,Brighton,Chelsea,1,0
+1864,7821,2021-12-29,Man City,Brentford,0,0,7821,Brentford,Man City,1,1
+1866,7822,2021-12-30,Man United,Burnley,0,0,7822,Burnley,Man United,1,1
+1868,7823,2022-01-01,Arsenal,Man City,1,1,7823,Man City,Arsenal,0,0
+1870,7824,2022-01-01,Tottenham,Watford,0,0,7824,Watford,Tottenham,1,1
+1872,7825,2022-01-01,Crystal Palace,West Ham,0,1,7825,West Ham,Crystal Palace,0,0
+1874,7826,2022-01-02,Brentford,Aston Villa,0,0,7826,Aston Villa,Brentford,0,1
+1876,7827,2022-01-02,Brighton,Everton,0,0,7827,Everton,Brighton,0,1
+1878,7828,2022-01-02,Burnley,Leeds,0,1,7828,Leeds,Burnley,0,0
+1880,7829,2022-01-02,Chelsea,Liverpool,1,0,7829,Liverpool,Chelsea,0,0
+1882,7830,2022-01-03,Man United,Wolves,0,1,7830,Wolves,Man United,0,0
+1884,7831,2022-01-11,Brentford,Southampton,0,1,7831,Southampton,Brentford,0,0
+1886,7832,2022-01-12,West Ham,Norwich,0,0,7832,Norwich,West Ham,1,1
+1888,7833,2022-01-14,Brighton,Crystal Palace,0,0,7833,Crystal Palace,Brighton,0,0
+1890,7834,2022-01-15,Man United,Aston Villa,0,0,7834,Aston Villa,Man United,0,0
+1892,7835,2022-01-15,Wolves,Southampton,0,0,7835,Southampton,Wolves,0,1
+1894,7836,2022-01-15,Chelsea,Man City,1,1,7836,Man City,Chelsea,0,0
+1896,7837,2022-01-15,Watford,Newcastle,0,0,7837,Newcastle,Watford,0,0
+1898,7838,2022-01-15,Everton,Norwich,0,1,7838,Norwich,Everton,1,0
+1900,7839,2022-01-16,Leeds,West Ham,1,0,7839,West Ham,Leeds,0,1
+1902,7840,2022-01-16,Liverpool,Brentford,0,0,7840,Brentford,Liverpool,1,1
+1904,7841,2022-01-18,Brighton,Chelsea,0,0,7841,Chelsea,Brighton,0,0
+1906,7842,2022-01-19,Tottenham,Leicester,0,0,7842,Leicester,Tottenham,0,1
+1908,7843,2022-01-19,Brentford,Man United,1,1,7843,Man United,Brentford,0,0
+1910,7844,2022-01-21,Watford,Norwich,0,1,7844,Norwich,Watford,1,0
+1912,7845,2022-01-22,Newcastle,Leeds,0,0,7845,Leeds,Newcastle,0,1
+1914,7846,2022-01-22,Southampton,Man City,1,0,7846,Man City,Southampton,0,0
+1916,7847,2022-01-22,Aston Villa,Everton,0,0,7847,Everton,Aston Villa,0,1
+1918,7848,2022-01-22,Brentford,Wolves,0,1,7848,Wolves,Brentford,0,0
+1920,7849,2022-01-22,West Ham,Man United,1,1,7849,Man United,West Ham,0,0
+1922,7850,2022-01-23,Burnley,Arsenal,1,0,7850,Arsenal,Burnley,0,0
+1924,7851,2022-01-23,Crystal Palace,Liverpool,1,1,7851,Liverpool,Crystal Palace,0,0
+1926,7852,2022-01-23,Leicester,Brighton,0,0,7852,Brighton,Leicester,0,0
+1928,7853,2022-01-23,Chelsea,Tottenham,0,0,7853,Tottenham,Chelsea,0,1
+1930,7854,2022-02-05,Watford,Burnley,0,0,7854,Burnley,Watford,0,0
+1932,7855,2022-02-08,Everton,Newcastle,0,1,7855,Newcastle,Everton,0,0
+1934,7856,2022-02-08,Watford,West Ham,1,1,7856,West Ham,Watford,0,0
+1936,7857,2022-02-08,Man United,Burnley,0,0,7857,Burnley,Man United,1,0
+1938,7858,2022-02-09,Aston Villa,Leeds,0,0,7858,Leeds,Aston Villa,0,0
+1940,7859,2022-02-09,Southampton,Tottenham,1,0,7859,Tottenham,Southampton,0,1
+1942,7860,2022-02-09,Man City,Brentford,0,0,7860,Brentford,Man City,1,1
+1944,7861,2022-02-09,Norwich,Crystal Palace,0,0,7861,Crystal Palace,Norwich,0,0
+1946,7862,2022-02-10,Liverpool,Leicester,0,0,7862,Leicester,Liverpool,1,1
+1948,7863,2022-02-10,Arsenal,Wolves,0,0,7863,Wolves,Arsenal,0,1
+1950,7864,2022-02-12,Man United,Southampton,0,0,7864,Southampton,Man United,1,0
+1952,7865,2022-02-12,Crystal Palace,Brentford,0,0,7865,Brentford,Crystal Palace,0,0
+1954,7866,2022-02-12,Leeds,Everton,0,1,7866,Everton,Leeds,0,0
+1956,7867,2022-02-12,Watford,Brighton,1,1,7867,Brighton,Watford,0,0
+1958,7868,2022-02-12,Norwich,Man City,1,1,7868,Man City,Norwich,0,0
+1960,7869,2022-02-13,Leicester,West Ham,0,0,7869,West Ham,Leicester,0,0
+1962,7870,2022-02-13,Tottenham,Wolves,0,1,7870,Wolves,Tottenham,1,0
+1964,7871,2022-02-13,Burnley,Liverpool,1,1,7871,Liverpool,Burnley,0,0
+1966,7872,2022-02-13,Aston Villa,Newcastle,0,1,7872,Newcastle,Aston Villa,0,0
+1968,7873,2022-02-15,Man United,Brighton,0,0,7873,Brighton,Man United,0,1
+1970,7874,2022-02-19,West Ham,Newcastle,0,0,7874,Newcastle,West Ham,1,0
+1972,7875,2022-02-19,Arsenal,Brentford,0,0,7875,Brentford,Arsenal,1,1
+1974,7876,2022-02-19,Watford,Aston Villa,1,0,7876,Aston Villa,Watford,0,1
+1976,7877,2022-02-19,Burnley,Brighton,1,0,7877,Brighton,Burnley,0,1
+1978,7878,2022-02-19,Crystal Palace,Chelsea,1,1,7878,Chelsea,Crystal Palace,0,0
+1980,7879,2022-02-19,Liverpool,Norwich,0,0,7879,Norwich,Liverpool,1,1
+1982,7880,2022-02-19,Southampton,Everton,0,0,7880,Everton,Southampton,0,1
+1984,7881,2022-02-19,Man City,Tottenham,0,1,7881,Tottenham,Man City,1,0
+1986,7882,2022-02-20,Wolves,Leicester,0,0,7882,Leicester,Wolves,0,1
+1988,7883,2022-02-20,Leeds,Man United,1,1,7883,Man United,Leeds,0,0
+1990,7884,2022-02-23,Tottenham,Burnley,0,1,7884,Burnley,Tottenham,0,0
+1992,7885,2022-02-23,Crystal Palace,Watford,0,0,7885,Watford,Crystal Palace,1,1
+1994,7886,2022-02-23,Leeds,Liverpool,1,1,7886,Liverpool,Leeds,0,0
+1996,7887,2022-02-24,Arsenal,Wolves,0,0,7887,Wolves,Arsenal,1,1
+1998,7888,2022-02-25,Southampton,Norwich,0,0,7888,Norwich,Southampton,1,1
+2000,7889,2022-02-26,Leeds,Tottenham,0,1,7889,Tottenham,Leeds,0,0
+2002,7890,2022-02-26,Newcastle,Brentford,0,0,7890,Brentford,Newcastle,0,1
+2004,7891,2022-02-26,Burnley,Crystal Palace,0,0,7891,Crystal Palace,Burnley,0,0
+2006,7892,2022-02-26,Man United,Watford,0,0,7892,Watford,Man United,1,0
+2008,7893,2022-02-26,Aston Villa,Brighton,0,0,7893,Brighton,Aston Villa,0,1
+2010,7894,2022-02-26,Man City,Everton,0,0,7894,Everton,Man City,1,1
+2012,7895,2022-02-27,West Ham,Wolves,0,0,7895,Wolves,West Ham,1,1
+2014,7896,2022-03-01,Burnley,Leicester,0,1,7896,Leicester,Burnley,0,0
+2016,7897,2022-03-05,Southampton,Aston Villa,0,1,7897,Aston Villa,Southampton,0,0
+2018,7898,2022-03-05,Chelsea,Burnley,0,0,7898,Burnley,Chelsea,1,1
+2020,7899,2022-03-05,Newcastle,Brighton,0,0,7899,Brighton,Newcastle,1,1
+2022,7900,2022-03-05,Brentford,Norwich,0,0,7900,Norwich,Brentford,0,1
+2024,7901,2022-03-05,Crystal Palace,Wolves,0,0,7901,Wolves,Crystal Palace,0,1
+2026,7902,2022-03-05,West Ham,Liverpool,1,1,7902,Liverpool,West Ham,0,0
+2028,7903,2022-03-05,Leeds,Leicester,1,1,7903,Leicester,Leeds,0,0
+2030,7904,2022-03-06,Watford,Arsenal,1,1,7904,Arsenal,Watford,0,0
+2032,7905,2022-03-06,Man City,Man United,0,0,7905,Man United,Man City,1,1
+2034,7906,2022-03-07,Tottenham,Everton,0,0,7906,Everton,Tottenham,1,1
+2036,7907,2022-03-10,Leeds,Aston Villa,0,1,7907,Aston Villa,Leeds,0,0
+2038,7908,2022-03-10,Chelsea,Norwich,0,0,7908,Norwich,Chelsea,1,1
+2040,7909,2022-03-10,Southampton,Newcastle,0,1,7909,Newcastle,Southampton,0,0
+2042,7910,2022-03-10,Wolves,Watford,0,0,7910,Watford,Wolves,1,1
+2044,7911,2022-03-12,Brighton,Liverpool,1,1,7911,Liverpool,Brighton,0,0
+2046,7912,2022-03-12,Brentford,Burnley,0,0,7912,Burnley,Brentford,0,1
+2048,7913,2022-03-12,Man United,Tottenham,0,0,7913,Tottenham,Man United,0,1
+2050,7914,2022-03-13,Newcastle,Chelsea,1,1,7914,Chelsea,Newcastle,0,0
+2052,7915,2022-03-13,Wolves,Everton,0,0,7915,Everton,Wolves,0,1
+2054,7916,2022-03-13,Norwich,Leeds,1,1,7916,Leeds,Norwich,0,0
+2056,7917,2022-03-13,Watford,Southampton,1,0,7917,Southampton,Watford,0,1
+2058,7918,2022-03-13,West Ham,Aston Villa,0,0,7918,Aston Villa,West Ham,0,1
+2060,7919,2022-03-13,Leicester,Arsenal,1,1,7919,Arsenal,Leicester,0,0
+2062,7920,2022-03-14,Man City,Crystal Palace,0,0,7920,Crystal Palace,Man City,1,0
+2064,7921,2022-03-16,Liverpool,Arsenal,0,0,7921,Arsenal,Liverpool,0,1
+2066,7922,2022-03-16,Tottenham,Brighton,0,0,7922,Brighton,Tottenham,0,1
+2068,7923,2022-03-17,Everton,Newcastle,0,0,7923,Newcastle,Everton,0,1
+2070,7924,2022-03-18,Wolves,Leeds,0,1,7924,Leeds,Wolves,0,0
+2072,7925,2022-03-19,Arsenal,Aston Villa,0,0,7925,Aston Villa,Arsenal,0,1
+2074,7926,2022-03-20,Brentford,Leicester,0,1,7926,Leicester,Brentford,0,0
+2076,7927,2022-03-20,Tottenham,West Ham,0,0,7927,West Ham,Tottenham,1,1
+2078,7928,2022-04-02,Aston Villa,Wolves,0,1,7928,Wolves,Aston Villa,0,0
+2080,7929,2022-04-02,Southampton,Leeds,0,0,7929,Leeds,Southampton,0,0
+2082,7930,2022-04-02,Leicester,Man United,1,0,7930,Man United,Leicester,0,0
+2084,7931,2022-04-02,Burnley,Man City,1,1,7931,Man City,Burnley,0,0
+2086,7932,2022-04-02,Liverpool,Watford,0,0,7932,Watford,Liverpool,1,1
+2088,7933,2022-04-02,Chelsea,Brentford,0,1,7933,Brentford,Chelsea,1,0
+2090,7934,2022-04-02,Brighton,Norwich,0,0,7934,Norwich,Brighton,1,0
+2092,7935,2022-04-03,Everton,West Ham,1,1,7935,West Ham,Everton,0,0
+2094,7936,2022-04-03,Newcastle,Tottenham,1,1,7936,Tottenham,Newcastle,0,0
+2096,7937,2022-04-04,Crystal Palace,Arsenal,0,0,7937,Arsenal,Crystal Palace,0,1
+2098,7938,2022-04-06,Everton,Burnley,0,1,7938,Burnley,Everton,0,0
+2100,7939,2022-04-08,Wolves,Newcastle,0,1,7939,Newcastle,Wolves,0,0
+2102,7940,2022-04-09,Watford,Leeds,0,1,7940,Leeds,Watford,0,0
+2104,7941,2022-04-09,Aston Villa,Tottenham,0,1,7941,Tottenham,Aston Villa,0,0
+2106,7942,2022-04-09,Brighton,Arsenal,1,0,7942,Arsenal,Brighton,0,1
+2108,7943,2022-04-09,Man United,Everton,0,1,7943,Everton,Man United,1,0
+2110,7944,2022-04-09,Chelsea,Southampton,0,0,7944,Southampton,Chelsea,0,1
+2112,7945,2022-04-10,Brentford,West Ham,0,0,7945,West Ham,Brentford,0,1
+2114,7946,2022-04-10,Norwich,Burnley,0,0,7946,Burnley,Norwich,0,1
+2116,7947,2022-04-10,Man City,Liverpool,0,0,7947,Liverpool,Man City,0,0
+2118,7948,2022-04-10,Crystal Palace,Leicester,0,1,7948,Leicester,Crystal Palace,0,0
+2120,7949,2022-04-16,Tottenham,Brighton,0,1,7949,Brighton,Tottenham,1,0
+2122,7950,2022-04-16,Man United,Norwich,0,0,7950,Norwich,Man United,1,1
+2124,7951,2022-04-16,Southampton,Arsenal,0,0,7951,Arsenal,Southampton,0,1
+2126,7952,2022-04-16,Brentford,Watford,0,0,7952,Watford,Brentford,0,1
+2128,7953,2022-04-17,Leicester,Newcastle,0,1,7953,Newcastle,Leicester,0,0
+2130,7954,2022-04-17,West Ham,Burnley,0,0,7954,Burnley,West Ham,1,0
+2132,7955,2022-04-19,Man United,Liverpool,1,1,7955,Liverpool,Man United,0,0
+2134,7956,2022-04-20,Brighton,Man City,1,1,7956,Man City,Brighton,0,0
+2136,7957,2022-04-20,Crystal Palace,Newcastle,0,1,7957,Newcastle,Crystal Palace,0,0
+2138,7958,2022-04-20,Arsenal,Chelsea,0,0,7958,Chelsea,Arsenal,0,1
+2140,7959,2022-04-20,Everton,Leicester,0,0,7959,Leicester,Everton,0,0
+2142,7960,2022-04-21,Burnley,Southampton,0,0,7960,Southampton,Burnley,0,1
+2144,7961,2022-04-23,Man United,Arsenal,1,1,7961,Arsenal,Man United,0,0
+2146,7962,2022-04-23,Aston Villa,Leicester,0,0,7962,Leicester,Aston Villa,0,0
+2148,7963,2022-04-23,Watford,Man City,1,1,7963,Man City,Watford,0,0
+2150,7964,2022-04-23,Newcastle,Norwich,0,0,7964,Norwich,Newcastle,0,1
+2152,7965,2022-04-23,Brentford,Tottenham,0,0,7965,Tottenham,Brentford,0,0
+2154,7966,2022-04-24,Brighton,Southampton,0,0,7966,Southampton,Brighton,1,0
+2156,7967,2022-04-24,Wolves,Burnley,0,1,7967,Burnley,Wolves,0,0
+2158,7968,2022-04-24,West Ham,Chelsea,1,1,7968,Chelsea,West Ham,0,0
+2160,7969,2022-04-24,Liverpool,Everton,0,0,7969,Everton,Liverpool,1,1
+2162,7970,2022-04-25,Leeds,Crystal Palace,0,0,7970,Crystal Palace,Leeds,0,0
+2164,7971,2022-04-28,Man United,Chelsea,0,0,7971,Chelsea,Man United,0,0
+2166,7972,2022-04-30,Aston Villa,Norwich,0,0,7972,Norwich,Aston Villa,1,1
+2168,7973,2022-04-30,Crystal Palace,Southampton,0,0,7973,Southampton,Crystal Palace,0,1
+2170,7974,2022-04-30,Burnley,Watford,0,0,7974,Watford,Burnley,0,1
+2172,7975,2022-04-30,Wolves,Brighton,0,1,7975,Brighton,Wolves,0,0
+2174,7976,2022-04-30,Man City,Leeds,0,0,7976,Leeds,Man City,1,1
+2176,7977,2022-04-30,Liverpool,Newcastle,0,0,7977,Newcastle,Liverpool,0,1
+2178,7978,2022-05-01,Chelsea,Everton,0,1,7978,Everton,Chelsea,0,0
+2180,7979,2022-05-01,Leicester,Tottenham,1,1,7979,Tottenham,Leicester,0,0
+2182,7980,2022-05-01,West Ham,Arsenal,0,1,7980,Arsenal,West Ham,0,0
+2184,7981,2022-05-02,Man United,Brentford,0,0,7981,Brentford,Man United,1,1
+2186,7982,2022-05-07,Liverpool,Tottenham,0,0,7982,Tottenham,Liverpool,1,0
+2188,7983,2022-05-07,Brighton,Man United,0,0,7983,Man United,Brighton,0,1
+2190,7984,2022-05-07,Southampton,Brentford,0,1,7984,Brentford,Southampton,0,0
+2192,7985,2022-05-07,Wolves,Chelsea,1,0,7985,Chelsea,Wolves,0,0
+2194,7986,2022-05-07,Crystal Palace,Watford,0,0,7986,Watford,Crystal Palace,1,1
+2196,7987,2022-05-07,Aston Villa,Burnley,0,0,7987,Burnley,Aston Villa,0,1
+2198,7988,2022-05-08,Leeds,Arsenal,1,1,7988,Arsenal,Leeds,0,0
+2200,7989,2022-05-08,Leicester,Everton,0,1,7989,Everton,Leicester,0,0
+2202,7990,2022-05-08,West Ham,Norwich,0,0,7990,Norwich,West Ham,0,1
+2204,7991,2022-05-08,Man City,Newcastle,0,0,7991,Newcastle,Man City,1,1
+2206,7992,2022-05-10,Liverpool,Aston Villa,0,0,7992,Aston Villa,Liverpool,1,1
+2208,7993,2022-05-11,Watford,Everton,1,0,7993,Everton,Watford,0,0
+2210,7994,2022-05-11,Man City,Wolves,0,0,7994,Wolves,Man City,1,1
+2212,7995,2022-05-11,Leeds,Chelsea,1,1,7995,Chelsea,Leeds,0,0
+2214,7996,2022-05-11,Leicester,Norwich,0,0,7996,Norwich,Leicester,1,1
+2216,7997,2022-05-12,Arsenal,Tottenham,0,1,7997,Tottenham,Arsenal,0,0
+2218,7998,2022-05-15,Tottenham,Burnley,0,0,7998,Burnley,Tottenham,1,1
+2220,7999,2022-05-15,Aston Villa,Crystal Palace,0,0,7999,Crystal Palace,Aston Villa,0,0
+2222,8000,2022-05-15,Brighton,Leeds,0,0,8000,Leeds,Brighton,0,0
+2224,8001,2022-05-15,Leicester,Watford,0,0,8001,Watford,Leicester,1,1
+2226,8002,2022-05-15,Man City,West Ham,0,0,8002,West Ham,Man City,1,0
+2228,8003,2022-05-15,Wolves,Norwich,0,0,8003,Norwich,Wolves,1,0
+2230,8004,2022-05-15,Brentford,Everton,0,0,8004,Everton,Brentford,0,1
+2232,8005,2022-05-16,Newcastle,Arsenal,1,0,8005,Arsenal,Newcastle,0,1
+2234,8006,2022-05-17,Southampton,Liverpool,1,1,8006,Liverpool,Southampton,0,0
+2236,8007,2022-05-19,Aston Villa,Burnley,0,0,8007,Burnley,Aston Villa,0,0
+2238,8008,2022-05-19,Chelsea,Leicester,0,0,8008,Leicester,Chelsea,1,0
+2240,8009,2022-05-19,Crystal Palace,Everton,1,1,8009,Everton,Crystal Palace,0,0
+2242,8010,2022-05-22,Arsenal,Everton,0,0,8010,Everton,Arsenal,1,1
+2244,8011,2022-05-22,Brentford,Leeds,0,1,8011,Leeds,Brentford,0,0
+2246,8012,2022-05-22,West Ham,Brighton,0,1,8012,Brighton,West Ham,0,0
+2248,8013,2022-05-22,Burnley,Newcastle,0,1,8013,Newcastle,Burnley,0,0
+2250,8014,2022-05-22,Chelsea,Watford,0,0,8014,Watford,Chelsea,1,1
+2252,8015,2022-05-22,Crystal Palace,Man United,0,0,8015,Man United,Crystal Palace,0,1
+2254,8016,2022-05-22,Leicester,Southampton,0,0,8016,Southampton,Leicester,1,1
+2256,8017,2022-05-22,Liverpool,Wolves,0,0,8017,Wolves,Liverpool,1,1
+2258,8018,2022-05-22,Man City,Aston Villa,0,0,8018,Aston Villa,Man City,1,1
+2260,8019,2022-05-22,Norwich,Tottenham,1,1,8019,Tottenham,Norwich,0,0
+2262,8020,2022-08-05,Arsenal,Crystal Palace,0,0,8020,Crystal Palace,Arsenal,0,1
+2264,8021,2022-08-06,Everton,Chelsea,0,1,8021,Chelsea,Everton,0,0
+2266,8022,2022-08-06,Southampton,Tottenham,1,1,8022,Tottenham,Southampton,0,0
+2268,8023,2022-08-06,Bournemouth,Aston Villa,0,0,8023,Aston Villa,Bournemouth,0,1
+2270,8024,2022-08-06,Wolves,Leeds,0,1,8024,Leeds,Wolves,0,0
+2272,8025,2022-08-06,Liverpool,Fulham,0,0,8025,Fulham,Liverpool,1,0
+2274,8027,2022-08-07,Man City,West Ham,0,0,8027,West Ham,Man City,1,1
+2276,8028,2022-08-07,Brentford,Leicester,0,0,8028,Leicester,Brentford,0,0
+2278,8029,2022-08-07,Man United,Brighton,0,1,8029,Brighton,Man United,1,0
+2280,8030,2022-08-13,Aston Villa,Everton,0,0,8030,Everton,Aston Villa,1,1
+2282,8031,2022-08-13,Arsenal,Leicester,0,0,8031,Leicester,Arsenal,1,1
+2284,8032,2022-08-13,Brighton,Newcastle,0,0,8032,Newcastle,Brighton,0,0
+2286,8033,2022-08-13,Bournemouth,Man City,1,1,8033,Man City,Bournemouth,0,0
+2288,8034,2022-08-13,Southampton,Leeds,0,0,8034,Leeds,Southampton,0,0
+2290,8035,2022-08-13,Wolves,Fulham,0,0,8035,Fulham,Wolves,0,0
+2292,8036,2022-08-13,Brentford,Man United,0,0,8036,Man United,Brentford,0,1
+2294,8038,2022-08-14,Tottenham,Chelsea,0,0,8038,Chelsea,Tottenham,0,0
+2296,8039,2022-08-15,Liverpool,Crystal Palace,0,0,8039,Crystal Palace,Liverpool,1,0
+2298,8040,2022-08-20,Brentford,Fulham,0,1,8040,Fulham,Brentford,0,0
+2300,8041,2022-08-20,Bournemouth,Arsenal,1,1,8041,Arsenal,Bournemouth,0,0
+2302,8042,2022-08-20,Southampton,Leicester,1,0,8042,Leicester,Southampton,0,1
+2304,8043,2022-08-20,Aston Villa,Crystal Palace,0,1,8043,Crystal Palace,Aston Villa,0,0
+2306,8044,2022-08-20,Wolves,Tottenham,1,1,8044,Tottenham,Wolves,0,0
+2308,8046,2022-08-21,Leeds,Chelsea,1,0,8046,Chelsea,Leeds,0,1
+2310,8047,2022-08-21,Brighton,West Ham,0,0,8047,West Ham,Brighton,0,1
+2312,8048,2022-08-21,Man City,Newcastle,0,0,8048,Newcastle,Man City,1,0
+2314,8049,2022-08-22,Man United,Liverpool,1,0,8049,Liverpool,Man United,0,1
+2316,8050,2022-08-27,Arsenal,Fulham,0,0,8050,Fulham,Arsenal,1,1
+2318,8051,2022-08-27,Crystal Palace,Man City,1,1,8051,Man City,Crystal Palace,0,0
+2320,8052,2022-08-27,Leicester,Chelsea,1,1,8052,Chelsea,Leicester,0,0
+2322,8053,2022-08-27,Brighton,Leeds,0,0,8053,Leeds,Brighton,1,1
+2324,8054,2022-08-27,Brentford,Everton,0,0,8054,Everton,Brentford,0,0
+2326,8055,2022-08-27,Man United,Southampton,0,0,8055,Southampton,Man United,1,1
+2328,8056,2022-08-27,Liverpool,Bournemouth,0,0,8056,Bournemouth,Liverpool,1,1
+2330,8057,2022-08-28,Aston Villa,West Ham,0,1,8057,West Ham,Aston Villa,0,0
+2332,8058,2022-08-28,Wolves,Newcastle,0,0,8058,Newcastle,Wolves,0,0
+2334,8060,2022-08-30,Leeds,Everton,0,0,8060,Everton,Leeds,0,0
+2336,8061,2022-08-30,Chelsea,Southampton,0,1,8061,Southampton,Chelsea,1,0
+2338,8062,2022-08-30,Brighton,Fulham,0,1,8062,Fulham,Brighton,0,0
+2340,8063,2022-08-30,Crystal Palace,Brentford,0,0,8063,Brentford,Crystal Palace,1,0
+2342,8064,2022-08-31,Newcastle,Liverpool,1,1,8064,Liverpool,Newcastle,0,0
+2344,8065,2022-08-31,Arsenal,Aston Villa,0,0,8065,Aston Villa,Arsenal,1,1
+2346,8067,2022-08-31,Bournemouth,Wolves,1,0,8067,Wolves,Bournemouth,0,0
+2348,8068,2022-08-31,Tottenham,West Ham,0,0,8068,West Ham,Tottenham,0,0
+2350,8069,2022-09-01,Man United,Leicester,0,0,8069,Leicester,Man United,0,1
+2352,8070,2022-09-03,Liverpool,Everton,0,0,8070,Everton,Liverpool,1,0
+2354,8071,2022-09-03,Brentford,Leeds,0,0,8071,Leeds,Brentford,0,1
+2356,8072,2022-09-03,Crystal Palace,Newcastle,0,0,8072,Newcastle,Crystal Palace,0,0
+2358,8074,2022-09-03,Fulham,Tottenham,1,1,8074,Tottenham,Fulham,0,0
+2360,8075,2022-09-03,Southampton,Wolves,0,1,8075,Wolves,Southampton,0,0
+2362,8076,2022-09-03,Aston Villa,Man City,1,0,8076,Man City,Aston Villa,0,0
+2364,8077,2022-09-03,West Ham,Chelsea,1,1,8077,Chelsea,West Ham,0,0
+2366,8078,2022-09-04,Leicester,Brighton,0,1,8078,Brighton,Leicester,0,0
+2368,8079,2022-09-04,Arsenal,Man United,0,1,8079,Man United,Arsenal,0,0
+2370,8081,2022-09-16,Southampton,Aston Villa,0,1,8081,Aston Villa,Southampton,0,0
+2372,8082,2022-09-17,Bournemouth,Newcastle,1,0,8082,Newcastle,Bournemouth,0,0
+2374,8083,2022-09-17,Tottenham,Leicester,0,0,8083,Leicester,Tottenham,1,1
+2376,8084,2022-09-17,Man City,Wolves,0,0,8084,Wolves,Man City,1,1
+2378,8085,2022-09-18,Arsenal,Brentford,0,0,8085,Brentford,Arsenal,1,1
+2380,8086,2022-09-18,West Ham,Everton,0,1,8086,Everton,West Ham,0,0
+2382,8087,2022-10-01,Wolves,West Ham,1,1,8087,West Ham,Wolves,0,0
+2384,8088,2022-10-01,Everton,Southampton,0,0,8088,Southampton,Everton,0,1
+2386,8089,2022-10-01,Brighton,Liverpool,1,0,8089,Liverpool,Brighton,0,0
+2388,8090,2022-10-01,Crystal Palace,Chelsea,0,1,8090,Chelsea,Crystal Palace,0,0
+2390,8091,2022-10-01,Bournemouth,Brentford,0,0,8091,Brentford,Bournemouth,0,0
+2392,8092,2022-10-01,Arsenal,Tottenham,0,0,8092,Tottenham,Arsenal,0,1
+2394,8093,2022-10-01,Newcastle,Fulham,0,0,8093,Fulham,Newcastle,0,1
+2396,8094,2022-10-02,Man United,Man City,1,1,8094,Man City,Man United,0,0
+2398,8095,2022-10-02,Leeds,Aston Villa,0,0,8095,Aston Villa,Leeds,0,0
+2400,8097,2022-10-08,Brighton,Tottenham,0,1,8097,Tottenham,Brighton,0,0
+2402,8098,2022-10-08,Man City,Southampton,0,0,8098,Southampton,Man City,1,1
+2404,8099,2022-10-08,Newcastle,Brentford,0,0,8099,Brentford,Newcastle,1,1
+2406,8100,2022-10-08,Chelsea,Wolves,0,0,8100,Wolves,Chelsea,1,1
+2408,8101,2022-10-08,Leicester,Bournemouth,0,1,8101,Bournemouth,Leicester,1,0
+2410,8102,2022-10-09,Crystal Palace,Leeds,0,0,8102,Leeds,Crystal Palace,0,1
+2412,8103,2022-10-09,Fulham,West Ham,1,1,8103,West Ham,Fulham,0,0
+2414,8104,2022-10-09,Arsenal,Liverpool,0,0,8104,Liverpool,Arsenal,0,1
+2416,8105,2022-10-09,Man United,Everton,0,0,8105,Everton,Man United,0,1
+2418,8106,2022-10-10,Forest,Aston Villa,0,0,8106,Aston Villa,Forest,0,0
+2420,8107,2022-10-14,Brentford,Brighton,0,0,8107,Brighton,Brentford,0,1
+2422,8108,2022-10-15,Wolves,Forest,0,0,8108,Forest,Wolves,1,1
+2424,8109,2022-10-15,Tottenham,Everton,0,0,8109,Everton,Tottenham,1,1
+2426,8110,2022-10-15,Bournemouth,Fulham,1,0,8110,Fulham,Bournemouth,0,0
+2428,8111,2022-10-15,Leicester,Crystal Palace,0,0,8111,Crystal Palace,Leicester,0,0
+2430,8112,2022-10-16,Chelsea,Aston Villa,0,0,8112,Aston Villa,Chelsea,1,1
+2432,8113,2022-10-16,Arsenal,Leeds,0,0,8113,Leeds,Arsenal,1,1
+2434,8114,2022-10-16,Man United,Newcastle,0,0,8114,Newcastle,Man United,0,0
+2436,8115,2022-10-16,Southampton,West Ham,0,0,8115,West Ham,Southampton,0,0
+2438,8116,2022-10-16,Man City,Liverpool,0,1,8116,Liverpool,Man City,1,0
+2440,8117,2022-10-18,Brighton,Forest,0,0,8117,Forest,Brighton,1,0
+2442,8118,2022-10-18,Crystal Palace,Wolves,0,0,8118,Wolves,Crystal Palace,0,1
+2444,8119,2022-10-19,Newcastle,Everton,0,0,8119,Everton,Newcastle,1,1
+2446,8120,2022-10-19,Man United,Tottenham,0,0,8120,Tottenham,Man United,0,1
+2448,8121,2022-10-19,Chelsea,Brentford,0,0,8121,Brentford,Chelsea,1,0
+2450,8122,2022-10-19,Liverpool,West Ham,0,0,8122,West Ham,Liverpool,1,1
+2452,8123,2022-10-19,Southampton,Bournemouth,0,0,8123,Bournemouth,Southampton,0,1
+2454,8124,2022-10-20,Fulham,Aston Villa,0,0,8124,Aston Villa,Fulham,0,1
+2456,8125,2022-10-20,Leicester,Leeds,0,0,8125,Leeds,Leicester,0,1
+2458,8126,2022-10-22,Chelsea,Man United,0,0,8126,Man United,Chelsea,0,0
+2460,8127,2022-10-22,Everton,Crystal Palace,0,0,8127,Crystal Palace,Everton,0,1
+2462,8128,2022-10-22,Forest,Liverpool,1,0,8128,Liverpool,Forest,0,1
+2464,8129,2022-10-22,Man City,Brighton,0,0,8129,Brighton,Man City,1,1
+2466,8130,2022-10-23,Aston Villa,Brentford,0,0,8130,Brentford,Aston Villa,0,1
+2468,8131,2022-10-23,Leeds,Fulham,0,1,8131,Fulham,Leeds,0,0
+2470,8132,2022-10-23,Arsenal,Southampton,0,0,8132,Southampton,Arsenal,1,0
+2472,8133,2022-10-23,Wolves,Leicester,0,1,8133,Leicester,Wolves,0,0
+2474,8134,2022-10-23,Newcastle,Tottenham,1,0,8134,Tottenham,Newcastle,0,1
+2476,8135,2022-10-24,West Ham,Bournemouth,0,0,8135,Bournemouth,West Ham,1,1
+2478,8136,2022-10-29,Man City,Leicester,0,0,8136,Leicester,Man City,1,1
+2480,8137,2022-10-29,Tottenham,Bournemouth,0,0,8137,Bournemouth,Tottenham,1,1
+2482,8138,2022-10-29,Wolves,Brentford,0,0,8138,Brentford,Wolves,0,0
+2484,8139,2022-10-29,Brighton,Chelsea,0,0,8139,Chelsea,Brighton,0,1
+2486,8140,2022-10-29,Southampton,Crystal Palace,0,1,8140,Crystal Palace,Southampton,0,0
+2488,8141,2022-10-29,Newcastle,Aston Villa,0,0,8141,Aston Villa,Newcastle,1,1
+2490,8142,2022-10-29,Fulham,Everton,0,0,8142,Everton,Fulham,1,0
+2492,8143,2022-10-29,Leeds,Liverpool,1,0,8143,Liverpool,Leeds,0,1
+2494,8144,2022-10-30,West Ham,Man United,1,1,8144,Man United,West Ham,0,0
+2496,8145,2022-10-30,Forest,Arsenal,1,1,8145,Arsenal,Forest,0,0
+2498,8146,2022-11-05,Fulham,Man City,1,1,8146,Man City,Fulham,0,0
+2500,8147,2022-11-05,Brentford,Forest,0,0,8147,Forest,Brentford,0,0
+2502,8148,2022-11-05,Wolves,Brighton,0,1,8148,Brighton,Wolves,0,0
+2504,8149,2022-11-05,Everton,Leicester,0,1,8149,Leicester,Everton,0,0
+2506,8150,2022-11-05,Leeds,Bournemouth,0,0,8150,Bournemouth,Leeds,1,1
+2508,8151,2022-11-06,Chelsea,Arsenal,0,1,8151,Arsenal,Chelsea,0,0
+2510,8152,2022-11-06,Aston Villa,Man United,0,0,8152,Man United,Aston Villa,0,1
+2512,8153,2022-11-06,Newcastle,Southampton,0,0,8153,Southampton,Newcastle,1,1
+2514,8154,2022-11-06,Crystal Palace,West Ham,0,0,8154,West Ham,Crystal Palace,0,1
+2516,8155,2022-11-06,Tottenham,Liverpool,1,1,8155,Liverpool,Tottenham,0,0
+2518,8156,2022-11-12,Wolves,Arsenal,1,1,8156,Arsenal,Wolves,0,0
+2520,8157,2022-11-12,Chelsea,Newcastle,0,1,8157,Newcastle,Chelsea,0,0
+2522,8158,2022-11-12,Leicester,West Ham,1,0,8158,West Ham,Leicester,0,1
+2524,8159,2022-11-12,Liverpool,Southampton,0,0,8159,Southampton,Liverpool,1,1
+2526,8160,2022-11-12,Forest,Crystal Palace,0,0,8160,Crystal Palace,Forest,0,1
+2528,8161,2022-11-12,Everton,Bournemouth,0,1,8161,Bournemouth,Everton,0,0
+2530,8162,2022-11-12,Man City,Brentford,0,1,8162,Brentford,Man City,1,0
+2532,8163,2022-11-12,Leeds,Tottenham,1,1,8163,Tottenham,Leeds,0,0
+2534,8164,2022-11-13,Aston Villa,Brighton,1,0,8164,Brighton,Aston Villa,0,1
+2536,8165,2022-11-13,Fulham,Man United,1,1,8165,Man United,Fulham,0,0
+2538,8166,2022-12-26,Arsenal,West Ham,0,0,8166,West Ham,Arsenal,1,1
+2540,8167,2022-12-26,Aston Villa,Liverpool,1,1,8167,Liverpool,Aston Villa,0,0
+2542,8168,2022-12-26,Everton,Wolves,0,1,8168,Wolves,Everton,0,0
+2544,8169,2022-12-26,Leicester,Newcastle,0,1,8169,Newcastle,Leicester,0,0
+2546,8170,2022-12-26,Fulham,Crystal Palace,0,0,8170,Crystal Palace,Fulham,0,1
+2548,8171,2022-12-26,Brentford,Tottenham,1,0,8171,Tottenham,Brentford,0,0
+2550,8172,2022-12-26,Southampton,Brighton,1,1,8172,Brighton,Southampton,0,0
+2552,8173,2022-12-27,Chelsea,Bournemouth,0,0,8173,Bournemouth,Chelsea,1,1
+2554,8174,2022-12-27,Forest,Man United,1,1,8174,Man United,Forest,0,0
+2556,8175,2022-12-28,Leeds,Man City,1,1,8175,Man City,Leeds,0,0
+2558,8176,2022-12-30,Brentford,West Ham,1,0,8176,West Ham,Brentford,0,1
+2560,8177,2022-12-30,Liverpool,Leicester,0,0,8177,Leicester,Liverpool,1,1
+2562,8178,2022-12-31,Brighton,Arsenal,0,1,8178,Arsenal,Brighton,0,0
+2564,8179,2022-12-31,Newcastle,Leeds,0,0,8179,Leeds,Newcastle,1,0
+2566,8180,2022-12-31,Southampton,Fulham,1,1,8180,Fulham,Southampton,0,0
+2568,8181,2022-12-31,Bournemouth,Crystal Palace,0,1,8181,Crystal Palace,Bournemouth,0,0
+2570,8182,2022-12-31,Wolves,Man United,0,1,8182,Man United,Wolves,0,0
+2572,8183,2022-12-31,Everton,Man City,1,0,8183,Man City,Everton,0,0
+2574,8184,2023-01-01,Tottenham,Aston Villa,0,1,8184,Aston Villa,Tottenham,1,0
+2576,8185,2023-01-01,Forest,Chelsea,0,0,8185,Chelsea,Forest,0,0
+2578,8186,2023-01-02,Liverpool,Brentford,0,1,8186,Brentford,Liverpool,1,0
+2580,8187,2023-01-03,Bournemouth,Man United,1,1,8187,Man United,Bournemouth,0,0
+2582,8188,2023-01-03,Leicester,Fulham,0,1,8188,Fulham,Leicester,0,0
+2584,8189,2023-01-03,Everton,Brighton,0,1,8189,Brighton,Everton,0,0
+2586,8190,2023-01-03,Arsenal,Newcastle,0,0,8190,Newcastle,Arsenal,0,0
+2588,8191,2023-01-04,Southampton,Forest,0,1,8191,Forest,Southampton,0,0
+2590,8192,2023-01-04,West Ham,Leeds,0,0,8192,Leeds,West Ham,0,0
+2592,8193,2023-01-04,Aston Villa,Wolves,0,0,8193,Wolves,Aston Villa,0,0
+2594,8194,2023-01-04,Crystal Palace,Tottenham,0,1,8194,Tottenham,Crystal Palace,0,0
+2596,8195,2023-01-05,Chelsea,Man City,1,1,8195,Man City,Chelsea,0,0
+2598,8196,2023-01-12,Chelsea,Fulham,0,1,8196,Fulham,Chelsea,0,0
+2600,8197,2023-01-13,Leeds,Aston Villa,1,1,8197,Aston Villa,Leeds,0,0
+2602,8198,2023-01-14,Brentford,Bournemouth,0,0,8198,Bournemouth,Brentford,1,1
+2604,8199,2023-01-14,West Ham,Wolves,0,1,8199,Wolves,West Ham,0,0
+2606,8200,2023-01-14,Everton,Southampton,0,1,8200,Southampton,Everton,1,0
+2608,8201,2023-01-14,Brighton,Liverpool,0,0,8201,Liverpool,Brighton,0,1
+2610,8202,2023-01-14,Man United,Man City,0,0,8202,Man City,Man United,0,1
+2612,8203,2023-01-14,Forest,Leicester,0,0,8203,Leicester,Forest,0,1
+2614,8204,2023-01-15,Chelsea,Crystal Palace,0,0,8204,Crystal Palace,Chelsea,0,1
+2616,8205,2023-01-15,Newcastle,Fulham,0,0,8205,Fulham,Newcastle,1,1
+2618,8206,2023-01-15,Tottenham,Arsenal,0,1,8206,Arsenal,Tottenham,0,0
+2620,8207,2023-01-18,Crystal Palace,Man United,0,0,8207,Man United,Crystal Palace,0,0
+2622,8208,2023-01-19,Tottenham,Man City,1,1,8208,Man City,Tottenham,0,0
+2624,8209,2023-01-21,Newcastle,Crystal Palace,0,0,8209,Crystal Palace,Newcastle,0,0
+2626,8210,2023-01-21,West Ham,Everton,0,0,8210,Everton,West Ham,0,1
+2628,8211,2023-01-21,Brighton,Leicester,0,0,8211,Leicester,Brighton,1,0
+2630,8212,2023-01-21,Forest,Bournemouth,1,0,8212,Bournemouth,Forest,0,0
+2632,8213,2023-01-21,Liverpool,Chelsea,0,0,8213,Chelsea,Liverpool,1,0
+2634,8214,2023-01-21,Aston Villa,Southampton,0,0,8214,Southampton,Aston Villa,0,1
+2636,8215,2023-01-22,Brentford,Leeds,0,0,8215,Leeds,Brentford,0,0
+2638,8216,2023-01-22,Wolves,Man City,1,1,8216,Man City,Wolves,0,0
+2640,8217,2023-01-22,Arsenal,Man United,0,0,8217,Man United,Arsenal,0,1
+2642,8218,2023-01-23,Fulham,Tottenham,1,1,8218,Tottenham,Fulham,0,0
+2644,8219,2023-02-03,Chelsea,Fulham,0,0,8219,Fulham,Chelsea,1,0
+2646,8220,2023-02-04,West Ham,Newcastle,1,0,8220,Newcastle,West Ham,0,0
+2648,8221,2023-02-04,Liverpool,Wolves,0,1,8221,Wolves,Liverpool,0,0
+2650,8222,2023-02-04,Brighton,Bournemouth,0,0,8222,Bournemouth,Brighton,1,1
+2652,8223,2023-02-04,Arsenal,Everton,0,1,8223,Everton,Arsenal,1,0
+2654,8224,2023-02-04,Brentford,Southampton,0,0,8224,Southampton,Brentford,0,1
+2656,8225,2023-02-04,Crystal Palace,Man United,1,1,8225,Man United,Crystal Palace,0,0
+2658,8226,2023-02-04,Leicester,Aston Villa,0,0,8226,Aston Villa,Leicester,0,1
+2660,8227,2023-02-05,Leeds,Forest,0,1,8227,Forest,Leeds,0,0
+2662,8228,2023-02-05,Man City,Tottenham,0,1,8228,Tottenham,Man City,1,0
+2664,8229,2023-02-08,Man United,Leeds,0,0,8229,Leeds,Man United,1,0
+2666,8230,2023-02-11,Bournemouth,Newcastle,1,0,8230,Newcastle,Bournemouth,0,0
+2668,8231,2023-02-11,Wolves,Southampton,0,0,8231,Southampton,Wolves,0,1
+2670,8232,2023-02-11,Leicester,Tottenham,0,0,8232,Tottenham,Leicester,0,1
+2672,8233,2023-02-11,Arsenal,Brentford,0,0,8233,Brentford,Arsenal,0,0
+2674,8234,2023-02-11,Chelsea,West Ham,0,0,8234,West Ham,Chelsea,0,0
+2676,8235,2023-02-11,Crystal Palace,Brighton,0,0,8235,Brighton,Crystal Palace,0,0
+2678,8236,2023-02-11,Fulham,Forest,0,0,8236,Forest,Fulham,1,1
+2680,8237,2023-02-12,Leeds,Man United,1,1,8237,Man United,Leeds,0,0
+2682,8238,2023-02-12,Aston Villa,Man City,1,1,8238,Man City,Aston Villa,0,0
+2684,8239,2023-02-13,Everton,Liverpool,1,1,8239,Liverpool,Everton,0,0
+2686,8240,2023-02-15,Arsenal,Man City,0,1,8240,Man City,Arsenal,0,0
+2688,8241,2023-02-18,Bournemouth,Wolves,1,0,8241,Wolves,Bournemouth,0,1
+2690,8242,2023-02-18,Forest,Man City,1,0,8242,Man City,Forest,0,0
+2692,8243,2023-02-18,Liverpool,Newcastle,0,0,8243,Newcastle,Liverpool,0,1
+2694,8244,2023-02-18,Southampton,Chelsea,1,0,8244,Chelsea,Southampton,0,1
+2696,8245,2023-02-18,Brentford,Crystal Palace,0,0,8245,Crystal Palace,Brentford,0,0
+2698,8246,2023-02-18,Leeds,Everton,0,1,8246,Everton,Leeds,0,0
+2700,8247,2023-02-18,Arsenal,Aston Villa,0,0,8247,Aston Villa,Arsenal,1,1
+2702,8248,2023-02-18,Fulham,Brighton,1,0,8248,Brighton,Fulham,0,1
+2704,8249,2023-02-19,Leicester,Man United,1,1,8249,Man United,Leicester,0,0
+2706,8250,2023-02-19,West Ham,Tottenham,0,1,8250,Tottenham,West Ham,0,0
+2708,8251,2023-02-24,Wolves,Fulham,0,0,8251,Fulham,Wolves,0,0
+2710,8252,2023-02-25,Man City,Bournemouth,0,0,8252,Bournemouth,Man City,1,1
+2712,8253,2023-02-25,Crystal Palace,Liverpool,1,0,8253,Liverpool,Crystal Palace,0,0
+2714,8254,2023-02-25,Leicester,Arsenal,1,1,8254,Arsenal,Leicester,0,0
+2716,8255,2023-02-25,Leeds,Southampton,0,0,8255,Southampton,Leeds,0,1
+2718,8256,2023-02-25,Aston Villa,Everton,0,0,8256,Everton,Aston Villa,0,1
+2720,8257,2023-02-25,Forest,West Ham,0,1,8257,West Ham,Forest,0,0
+2722,8258,2023-02-26,Chelsea,Tottenham,0,1,8258,Tottenham,Chelsea,0,0
+2724,8259,2023-03-01,Wolves,Liverpool,1,1,8259,Liverpool,Wolves,0,0
+2726,8260,2023-03-01,Everton,Arsenal,1,1,8260,Arsenal,Everton,0,0
+2728,8261,2023-03-04,Newcastle,Man City,1,1,8261,Man City,Newcastle,0,0
+2730,8262,2023-03-04,Bournemouth,Arsenal,1,1,8262,Arsenal,Bournemouth,0,0
+2732,8263,2023-03-04,Aston Villa,Crystal Palace,0,0,8263,Crystal Palace,Aston Villa,0,1
+2734,8264,2023-03-04,Brighton,West Ham,0,0,8264,West Ham,Brighton,0,1
+2736,8265,2023-03-04,Chelsea,Leeds,0,0,8265,Leeds,Chelsea,1,1
+2738,8266,2023-03-04,Wolves,Tottenham,0,0,8266,Tottenham,Wolves,0,1
+2740,8267,2023-03-04,Leicester,Southampton,0,1,8267,Southampton,Leicester,0,0
+2742,8268,2023-03-05,Liverpool,Man United,0,0,8268,Man United,Liverpool,1,1
+2744,8269,2023-03-05,Forest,Everton,0,0,8269,Everton,Forest,0,0
+2746,8270,2023-03-06,Fulham,Brentford,1,1,8270,Brentford,Fulham,0,0
+2748,8271,2023-03-11,Liverpool,Bournemouth,0,1,8271,Bournemouth,Liverpool,1,0
+2750,8272,2023-03-11,Everton,Brentford,0,0,8272,Brentford,Everton,0,1
+2752,8273,2023-03-11,Leeds,Brighton,0,0,8273,Brighton,Leeds,0,0
+2754,8274,2023-03-11,Chelsea,Leicester,0,0,8274,Leicester,Chelsea,0,1
+2756,8275,2023-03-11,Tottenham,Forest,0,0,8275,Forest,Tottenham,1,1
+2758,8276,2023-03-11,Man City,Crystal Palace,0,0,8276,Crystal Palace,Man City,0,1
+2760,8277,2023-03-12,Arsenal,Fulham,0,0,8277,Fulham,Arsenal,1,1
+2762,8278,2023-03-12,Man United,Southampton,0,0,8278,Southampton,Man United,1,0
+2764,8279,2023-03-12,West Ham,Aston Villa,0,0,8279,Aston Villa,West Ham,0,0
+2766,8280,2023-03-12,Wolves,Newcastle,1,1,8280,Newcastle,Wolves,0,0
+2768,8281,2023-03-15,Southampton,Brentford,0,1,8281,Brentford,Southampton,0,0
+2770,8282,2023-03-15,Crystal Palace,Brighton,1,1,8282,Brighton,Crystal Palace,0,0
+2772,8283,2023-03-17,Newcastle,Forest,0,0,8283,Forest,Newcastle,1,1
+2774,8284,2023-03-18,Bournemouth,Aston Villa,1,1,8284,Aston Villa,Bournemouth,0,0
+2776,8285,2023-03-18,Brentford,Leicester,0,0,8285,Leicester,Brentford,1,0
+2778,8286,2023-03-18,Tottenham,Southampton,0,0,8286,Southampton,Tottenham,0,0
+2780,8287,2023-03-18,Leeds,Wolves,0,0,8287,Wolves,Leeds,0,1
+2782,8288,2023-03-18,Chelsea,Everton,0,0,8288,Everton,Chelsea,1,0
+2784,8289,2023-03-19,Crystal Palace,Arsenal,1,1,8289,Arsenal,Crystal Palace,0,0
+2786,8290,2023-04-01,Aston Villa,Chelsea,1,0,8290,Chelsea,Aston Villa,0,1
+2788,8291,2023-04-01,Wolves,Forest,0,0,8291,Forest,Wolves,0,0
+2790,8292,2023-04-01,Leeds,Arsenal,1,1,8292,Arsenal,Leeds,0,0
+2792,8293,2023-04-01,Brighton,Brentford,0,0,8293,Brentford,Brighton,1,0
+2794,8294,2023-04-01,Bournemouth,Fulham,0,0,8294,Fulham,Bournemouth,0,1
+2796,8295,2023-04-01,Liverpool,Man City,1,1,8295,Man City,Liverpool,0,0
+2798,8296,2023-04-01,Crystal Palace,Leicester,0,0,8296,Leicester,Crystal Palace,0,1
+2800,8297,2023-04-02,West Ham,Southampton,0,0,8297,Southampton,West Ham,0,1
+2802,8298,2023-04-02,Newcastle,Man United,0,0,8298,Man United,Newcastle,1,1
+2804,8299,2023-04-03,Everton,Tottenham,0,0,8299,Tottenham,Everton,0,0
+2806,8300,2023-04-04,Chelsea,Liverpool,0,0,8300,Liverpool,Chelsea,0,0
+2808,8301,2023-04-04,Bournemouth,Brighton,1,1,8301,Brighton,Bournemouth,0,0
+2810,8302,2023-04-04,Leicester,Aston Villa,0,1,8302,Aston Villa,Leicester,0,0
+2812,8303,2023-04-04,Leeds,Forest,0,0,8303,Forest,Leeds,1,1
+2814,8304,2023-04-05,Brentford,Man United,1,1,8304,Man United,Brentford,0,0
+2816,8305,2023-04-05,West Ham,Newcastle,1,1,8305,Newcastle,West Ham,0,0
+2818,8306,2023-04-08,Everton,Man United,1,1,8306,Man United,Everton,0,0
+2820,8307,2023-04-08,Forest,Aston Villa,1,1,8307,Aston Villa,Forest,0,0
+2822,8308,2023-04-08,Newcastle,Brentford,0,0,8308,Brentford,Newcastle,0,1
+2824,8309,2023-04-08,West Ham,Fulham,0,0,8309,Fulham,West Ham,0,1
+2826,8310,2023-04-08,Leicester,Bournemouth,0,1,8310,Bournemouth,Leicester,1,0
+2828,8311,2023-04-08,Brighton,Tottenham,0,1,8311,Tottenham,Brighton,0,0
+2830,8312,2023-04-08,Chelsea,Wolves,0,1,8312,Wolves,Chelsea,0,0
+2832,8313,2023-04-08,Man City,Southampton,0,0,8313,Southampton,Man City,1,1
+2834,8314,2023-04-09,Crystal Palace,Leeds,0,0,8314,Leeds,Crystal Palace,0,1
+2836,8315,2023-04-09,Liverpool,Arsenal,0,0,8315,Arsenal,Liverpool,0,0
+2838,8316,2023-04-15,Leicester,Man City,1,1,8316,Man City,Leicester,0,0
+2840,8317,2023-04-15,Bournemouth,Tottenham,1,0,8317,Tottenham,Bournemouth,0,1
+2842,8318,2023-04-15,Wolves,Brentford,0,0,8318,Brentford,Wolves,0,1
+2844,8319,2023-04-15,Fulham,Everton,1,0,8319,Everton,Fulham,0,1
+2846,8320,2023-04-15,Chelsea,Brighton,0,1,8320,Brighton,Chelsea,0,0
+2848,8321,2023-04-15,Aston Villa,Newcastle,0,0,8321,Newcastle,Aston Villa,0,1
+2850,8322,2023-04-15,Crystal Palace,Southampton,0,0,8322,Southampton,Crystal Palace,0,1
+2852,8323,2023-04-16,Arsenal,West Ham,0,0,8323,West Ham,Arsenal,1,0
+2854,8324,2023-04-16,Forest,Man United,0,1,8324,Man United,Forest,0,0
+2856,8325,2023-04-17,Leeds,Liverpool,1,1,8325,Liverpool,Leeds,0,0
+2858,8326,2023-04-21,Arsenal,Southampton,0,0,8326,Southampton,Arsenal,1,0
+2860,8327,2023-04-22,Wolves,Leicester,0,1,8327,Leicester,Wolves,0,0
+2862,8328,2023-04-22,Liverpool,Forest,0,0,8328,Forest,Liverpool,1,1
+2864,8329,2023-04-22,Aston Villa,Brentford,0,0,8329,Brentford,Aston Villa,0,0
+2866,8330,2023-04-22,Fulham,Leeds,0,0,8330,Leeds,Fulham,0,1
+2868,8331,2023-04-22,Everton,Crystal Palace,1,0,8331,Crystal Palace,Everton,0,0
+2870,8332,2023-04-23,Bournemouth,West Ham,0,1,8332,West Ham,Bournemouth,0,0
+2872,8333,2023-04-23,Newcastle,Tottenham,0,0,8333,Tottenham,Newcastle,1,1
+2874,8334,2023-04-25,Aston Villa,Fulham,0,0,8334,Fulham,Aston Villa,0,1
+2876,8335,2023-04-25,Leeds,Leicester,0,0,8335,Leicester,Leeds,0,0
+2878,8336,2023-04-25,Wolves,Crystal Palace,0,0,8336,Crystal Palace,Wolves,0,1
+2880,8337,2023-04-26,Forest,Brighton,1,0,8337,Brighton,Forest,0,1
+2882,8338,2023-04-26,Brentford,Chelsea,1,0,8338,Chelsea,Brentford,0,1
+2884,8339,2023-04-26,Liverpool,West Ham,0,0,8339,West Ham,Liverpool,0,1
+2886,8340,2023-04-26,Man City,Arsenal,0,0,8340,Arsenal,Man City,1,1
+2888,8341,2023-04-27,Man United,Tottenham,0,0,8341,Tottenham,Man United,0,0
+2890,8342,2023-04-27,Everton,Newcastle,1,1,8342,Newcastle,Everton,0,0
+2892,8343,2023-04-27,Bournemouth,Southampton,0,0,8343,Southampton,Bournemouth,0,1
+2894,8344,2023-04-29,West Ham,Crystal Palace,0,1,8344,Crystal Palace,West Ham,0,0
+2896,8345,2023-04-29,Forest,Brentford,1,1,8345,Brentford,Forest,0,0
+2898,8346,2023-04-29,Brighton,Wolves,0,0,8346,Wolves,Brighton,1,1
+2900,8347,2023-04-30,Fulham,Man City,1,1,8347,Man City,Fulham,0,0
+2902,8348,2023-04-30,Aston Villa,Man United,0,1,8348,Man United,Aston Villa,0,0
+2904,8349,2023-04-30,Newcastle,Southampton,0,0,8349,Southampton,Newcastle,1,1
+2906,8350,2023-04-30,Tottenham,Liverpool,1,1,8350,Liverpool,Tottenham,0,0
+2908,8351,2023-04-30,Leeds,Bournemouth,0,1,8351,Bournemouth,Leeds,0,0
+2910,8352,2023-05-01,Leicester,Everton,0,0,8352,Everton,Leicester,0,0
+2912,8353,2023-05-02,Arsenal,Chelsea,0,0,8353,Chelsea,Arsenal,1,1
+2914,8354,2023-05-03,Fulham,Liverpool,1,1,8354,Liverpool,Fulham,0,0
+2916,8355,2023-05-03,Man City,West Ham,0,0,8355,West Ham,Man City,1,1
+2918,8356,2023-05-04,Man United,Brighton,0,1,8356,Brighton,Man United,0,0
+2920,8357,2023-05-06,Liverpool,Brentford,0,0,8357,Brentford,Liverpool,1,1
+2922,8358,2023-05-06,Crystal Palace,Tottenham,1,1,8358,Tottenham,Crystal Palace,0,0
+2924,8359,2023-05-06,Leeds,Man City,1,1,8359,Man City,Leeds,0,0
+2926,8360,2023-05-06,Chelsea,Bournemouth,0,0,8360,Bournemouth,Chelsea,0,1
+2928,8361,2023-05-06,Wolves,Aston Villa,0,0,8361,Aston Villa,Wolves,0,1
+2930,8362,2023-05-07,Newcastle,Arsenal,0,1,8362,Arsenal,Newcastle,0,0
+2932,8363,2023-05-07,West Ham,Man United,0,0,8363,Man United,West Ham,0,1
+2934,8364,2023-05-08,Fulham,Leicester,0,0,8364,Leicester,Fulham,0,1
+2936,8365,2023-05-08,Brighton,Everton,0,1,8365,Everton,Brighton,1,0
+2938,8366,2023-05-08,Southampton,Forest,0,1,8366,Forest,Southampton,0,0
+2940,8367,2023-05-13,Southampton,Fulham,0,1,8367,Fulham,Southampton,0,0
+2942,8368,2023-05-13,Man United,Wolves,0,0,8368,Wolves,Man United,1,1
+2944,8369,2023-05-13,Chelsea,Forest,0,0,8369,Forest,Chelsea,1,0
+2946,8370,2023-05-13,Aston Villa,Tottenham,0,0,8370,Tottenham,Aston Villa,0,1
+2948,8371,2023-05-13,Crystal Palace,Bournemouth,0,0,8371,Bournemouth,Crystal Palace,1,1
+2950,8372,2023-05-13,Leeds,Newcastle,1,0,8372,Newcastle,Leeds,0,0
+2952,8373,2023-05-14,Arsenal,Brighton,0,1,8373,Brighton,Arsenal,0,0
+2954,8374,2023-05-14,Man City,Everton,0,0,8374,Everton,Man City,1,1
+2956,8375,2023-05-14,Brentford,West Ham,0,0,8375,West Ham,Brentford,1,1
+2958,8376,2023-05-15,Leicester,Liverpool,1,1,8376,Liverpool,Leicester,0,0
+2960,8377,2023-05-18,Brighton,Newcastle,0,1,8377,Newcastle,Brighton,0,0
+2962,8378,2023-05-20,Wolves,Everton,0,0,8378,Everton,Wolves,0,0
+2964,8379,2023-05-20,Arsenal,Forest,0,1,8379,Forest,Arsenal,0,0
+2966,8380,2023-05-20,Bournemouth,Man United,1,1,8380,Man United,Bournemouth,0,0
+2968,8381,2023-05-20,Brentford,Tottenham,0,0,8381,Tottenham,Brentford,0,1
+2970,8382,2023-05-20,Crystal Palace,Fulham,0,0,8382,Fulham,Crystal Palace,0,0
+2972,8383,2023-05-20,Liverpool,Aston Villa,0,0,8383,Aston Villa,Liverpool,1,0
+2974,8384,2023-05-21,Leeds,West Ham,0,1,8384,West Ham,Leeds,1,0
+2976,8385,2023-05-21,Brighton,Southampton,0,0,8385,Southampton,Brighton,1,1
+2978,8386,2023-05-21,Chelsea,Man City,1,1,8386,Man City,Chelsea,0,0
+2980,8387,2023-05-22,Leicester,Newcastle,1,0,8387,Newcastle,Leicester,0,0
+2982,8388,2023-05-24,Brighton,Man City,0,0,8388,Man City,Brighton,0,0
+2984,8389,2023-05-25,Man United,Chelsea,0,0,8389,Chelsea,Man United,1,1
+2986,8390,2023-05-28,Man United,Fulham,0,0,8390,Fulham,Man United,1,1
+2988,8391,2023-05-28,Liverpool,Southampton,0,0,8391,Southampton,Liverpool,1,0
+2990,8392,2023-05-28,Leeds,Tottenham,0,1,8392,Tottenham,Leeds,0,0
+2992,8393,2023-05-28,Bournemouth,Everton,1,1,8393,Everton,Bournemouth,0,0
+2994,8394,2023-05-28,Crystal Palace,Forest,0,0,8394,Forest,Crystal Palace,1,0
+2996,8395,2023-05-28,West Ham,Leicester,1,1,8395,Leicester,West Ham,0,0
+2998,8396,2023-05-28,Man City,Brentford,0,1,8396,Brentford,Man City,1,0
+3000,8397,2023-05-28,Aston Villa,Brighton,0,0,8397,Brighton,Aston Villa,1,1
+3002,8398,2023-05-28,Wolves,Arsenal,1,1,8398,Arsenal,Wolves,0,0
+3004,8399,2023-05-28,Newcastle,Chelsea,0,0,8399,Chelsea,Newcastle,0,0
+3006,8400,2023-08-11,Man City,Burnley,0,0,8400,Burnley,Man City,1,1
+3008,8401,2023-08-12,Forest,Arsenal,1,1,8401,Arsenal,Forest,0,0
+3010,8402,2023-08-12,West Ham,Bournemouth,0,0,8402,Bournemouth,West Ham,0,0
+3012,8404,2023-08-12,Everton,Fulham,0,1,8404,Fulham,Everton,0,0
+3014,8405,2023-08-12,Newcastle,Aston Villa,0,0,8405,Aston Villa,Newcastle,0,1
+3016,8406,2023-08-12,Crystal Palace,Sheffield United,0,0,8406,Sheffield United,Crystal Palace,0,1
+3018,8407,2023-08-13,Tottenham,Brentford,0,0,8407,Brentford,Tottenham,0,0
+3020,8408,2023-08-13,Liverpool,Chelsea,0,0,8408,Chelsea,Liverpool,0,0
+3022,8409,2023-08-14,Wolves,Man United,1,1,8409,Man United,Wolves,0,0
+3024,8410,2023-08-18,Sheffield United,Forest,0,1,8410,Forest,Sheffield United,0,0
+3026,8411,2023-08-19,Brentford,Fulham,0,0,8411,Fulham,Brentford,0,1
+3028,8412,2023-08-19,Liverpool,Bournemouth,0,0,8412,Bournemouth,Liverpool,1,1
+3030,8413,2023-08-19,Newcastle,Man City,1,1,8413,Man City,Newcastle,0,0
+3032,8414,2023-08-19,Tottenham,Man United,0,0,8414,Man United,Tottenham,0,1
+3034,8415,2023-08-19,Wolves,Brighton,1,1,8415,Brighton,Wolves,0,0
+3036,8416,2023-08-20,Everton,Aston Villa,0,1,8416,Aston Villa,Everton,0,0
+3038,8417,2023-08-20,Chelsea,West Ham,0,1,8417,West Ham,Chelsea,1,0
+3040,8418,2023-08-21,Crystal Palace,Arsenal,0,1,8418,Arsenal,Crystal Palace,0,0
+3042,8420,2023-08-26,Arsenal,Fulham,0,0,8420,Fulham,Arsenal,1,0
+3044,8421,2023-08-26,Bournemouth,Tottenham,1,1,8421,Tottenham,Bournemouth,0,0
+3046,8422,2023-08-26,Crystal Palace,Brentford,0,0,8422,Brentford,Crystal Palace,0,0
+3048,8423,2023-08-26,West Ham,Brighton,1,0,8423,Brighton,West Ham,0,1
+3050,8424,2023-08-26,Everton,Wolves,0,1,8424,Wolves,Everton,0,0
+3052,8425,2023-08-26,Forest,Man United,1,1,8425,Man United,Forest,0,0
+3054,8426,2023-08-27,Aston Villa,Burnley,0,0,8426,Burnley,Aston Villa,0,1
+3056,8427,2023-08-27,Newcastle,Liverpool,0,1,8427,Liverpool,Newcastle,0,0
+3058,8428,2023-08-27,Man City,Sheffield United,0,0,8428,Sheffield United,Man City,1,1
+3060,8430,2023-09-02,Brentford,Bournemouth,0,0,8430,Bournemouth,Brentford,1,0
+3062,8431,2023-09-02,Brighton,Newcastle,0,0,8431,Newcastle,Brighton,0,1
+3064,8432,2023-09-02,Burnley,Tottenham,1,1,8432,Tottenham,Burnley,0,0
+3066,8433,2023-09-02,Forest,Chelsea,1,0,8433,Chelsea,Forest,0,1
+3068,8434,2023-09-02,Man City,Fulham,0,0,8434,Fulham,Man City,1,1
+3070,8435,2023-09-02,Everton,Sheffield United,0,0,8435,Sheffield United,Everton,0,0
+3072,8436,2023-09-03,Crystal Palace,Wolves,0,0,8436,Wolves,Crystal Palace,1,1
+3074,8437,2023-09-03,Liverpool,Aston Villa,0,0,8437,Aston Villa,Liverpool,1,1
+3076,8438,2023-09-03,Man United,Arsenal,1,1,8438,Arsenal,Man United,0,0
+3078,8439,2023-09-16,Aston Villa,Crystal Palace,0,0,8439,Crystal Palace,Aston Villa,0,1
+3080,8441,2023-09-16,Brighton,Man United,1,0,8441,Man United,Brighton,0,1
+3082,8442,2023-09-16,Newcastle,Brentford,0,0,8442,Brentford,Newcastle,1,1
+3084,8443,2023-09-16,Sheffield United,Tottenham,1,1,8443,Tottenham,Sheffield United,0,0
+3086,8444,2023-09-16,Man City,West Ham,0,0,8444,West Ham,Man City,1,1
+3088,8445,2023-09-16,Liverpool,Wolves,0,0,8445,Wolves,Liverpool,1,1
+3090,8446,2023-09-17,Chelsea,Bournemouth,0,0,8446,Bournemouth,Chelsea,1,0
+3092,8447,2023-09-17,Arsenal,Everton,0,0,8447,Everton,Arsenal,1,1
+3094,8448,2023-09-18,Forest,Burnley,0,0,8448,Burnley,Forest,0,0
+3096,8449,2023-09-23,Brentford,Everton,0,1,8449,Everton,Brentford,1,0
+3098,8450,2023-09-23,Man United,Burnley,0,0,8450,Burnley,Man United,1,1
+3100,8451,2023-09-23,Fulham,Crystal Palace,1,0,8451,Crystal Palace,Fulham,0,0
+3102,8453,2023-09-23,Man City,Forest,0,0,8453,Forest,Man City,1,1
+3104,8454,2023-09-24,Newcastle,Sheffield United,0,0,8454,Sheffield United,Newcastle,1,1
+3106,8455,2023-09-24,Chelsea,Aston Villa,0,1,8455,Aston Villa,Chelsea,0,0
+3108,8456,2023-09-24,West Ham,Liverpool,1,1,8456,Liverpool,West Ham,0,0
+3110,8457,2023-09-24,Tottenham,Arsenal,0,0,8457,Arsenal,Tottenham,0,0
+3112,8458,2023-09-24,Bournemouth,Brighton,1,1,8458,Brighton,Bournemouth,0,0
+3114,8459,2023-09-30,Sheffield United,West Ham,1,1,8459,West Ham,Sheffield United,0,0
+3116,8460,2023-09-30,Aston Villa,Brighton,0,0,8460,Brighton,Aston Villa,0,1
+3118,8461,2023-09-30,Bournemouth,Arsenal,1,1,8461,Arsenal,Bournemouth,0,0
+3120,8463,2023-09-30,Man United,Crystal Palace,0,1,8463,Crystal Palace,Man United,1,0
+3122,8464,2023-09-30,Newcastle,Burnley,0,0,8464,Burnley,Newcastle,1,1
+3124,8465,2023-09-30,Tottenham,Liverpool,1,0,8465,Liverpool,Tottenham,0,1
+3126,8466,2023-09-30,Man City,Wolves,0,1,8466,Wolves,Man City,1,0
+3128,8467,2023-10-01,Forest,Brentford,0,0,8467,Brentford,Forest,0,0

@@ -1,0 +1,31 @@
+,GameID_x,Date,Team_x,Opponent_x,preds_x,GameID_y,Team_y,Opponent_y,preds_y
+0,0,2023-09-26,Barcelona,Mallorca,1,0,Mallorca,Barcelona,1
+2,1,2023-09-26,Sevilla,Almeria,1,1,Almeria,Sevilla,0
+4,2,2023-09-27,Bilbao,Getafe,1,2,Getafe,Bilbao,0
+6,3,2023-09-27,Rayo Vallecano,Cadiz,1,3,Cadiz,Rayo Vallecano,0
+8,4,2023-09-27,Las Palmas,Real Madrid,1,4,Real Madrid,Las Palmas,1
+10,5,2023-09-27,Sociedad,Valencia,0,5,Valencia,Sociedad,0
+12,6,2023-09-27,Girona,Villarreal,0,6,Villarreal,Girona,0
+14,7,2023-09-28,Celta,Alaves,0,7,Alaves,Celta,0
+16,8,2023-09-28,Betis,Granada,0,8,Granada,Betis,1
+18,9,2023-09-28,Atletico,Osasuna,0,9,Osasuna,Atletico,0
+20,10,2023-09-29,Barcelona,Sevilla,1,10,Sevilla,Barcelona,1
+22,11,2023-09-30,Villarreal,Getafe,1,11,Getafe,Villarreal,1
+24,12,2023-09-30,Real Madrid,Girona,0,12,Girona,Real Madrid,1
+26,13,2023-09-30,Rayo Vallecano,Mallorca,1,13,Mallorca,Rayo Vallecano,1
+28,14,2023-09-30,Bilbao,Sociedad,1,14,Sociedad,Bilbao,0
+30,15,2023-10-01,Osasuna,Alaves,0,15,Alaves,Osasuna,0
+32,16,2023-10-01,Almeria,Granada,1,16,Granada,Almeria,1
+34,17,2023-10-01,Atletico,Cadiz,0,17,Cadiz,Atletico,1
+36,18,2023-10-01,Valencia,Betis,0,18,Betis,Valencia,1
+38,19,2023-10-02,Celta,Las Palmas,0,19,Las Palmas,Celta,0
+40,20,2023-10-06,Bilbao,Almeria,1,20,Almeria,Bilbao,1
+42,21,2023-10-07,Girona,Cadiz,1,21,Cadiz,Girona,1
+44,22,2023-10-07,Valencia,Mallorca,1,22,Mallorca,Valencia,0
+46,23,2023-10-07,Osasuna,Real Madrid,1,23,Real Madrid,Osasuna,1
+48,24,2023-10-07,Rayo Vallecano,Sevilla,0,24,Sevilla,Rayo Vallecano,0
+50,25,2023-10-08,Betis,Alaves,1,25,Alaves,Betis,1
+52,26,2023-10-08,Sociedad,Atletico,0,26,Atletico,Sociedad,0
+54,27,2023-10-08,Celta,Getafe,1,27,Getafe,Celta,0
+56,28,2023-10-08,Barcelona,Granada,0,28,Granada,Barcelona,0
+58,29,2023-10-08,Las Palmas,Villarreal,0,29,Villarreal,Las Palmas,0

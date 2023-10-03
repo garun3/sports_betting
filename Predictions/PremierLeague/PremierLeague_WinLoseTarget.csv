@@ -1,0 +1,15 @@
+,GameID_x,Date,Team_x,Opponent_x,preds_x,GameID_y,Team_y,Opponent_y,preds_y
+0,2,2023-10-07,Crystal Palace,Forest,3,2,Forest,Crystal Palace,2
+2,3,2023-10-07,Brentford,Man United,2,3,Man United,Brentford,3
+4,4,2023-10-07,Bournemouth,Everton,2,4,Everton,Bournemouth,3
+6,8,2023-10-08,Aston Villa,Wolves,1,8,Wolves,Aston Villa,2
+8,9,2023-10-08,West Ham,Newcastle,1,9,Newcastle,West Ham,2
+10,10,2023-10-08,Arsenal,Man City,3,10,Man City,Arsenal,3
+12,11,2023-10-08,Liverpool,Brighton,2,11,Brighton,Liverpool,2
+14,12,2023-10-21,Sheffield United,Man United,2,12,Man United,Sheffield United,3
+16,13,2023-10-21,Bournemouth,Wolves,3,13,Wolves,Bournemouth,2
+18,14,2023-10-21,Crystal Palace,Newcastle,2,14,Newcastle,Crystal Palace,3
+20,18,2023-10-21,Everton,Liverpool,2,18,Liverpool,Everton,3
+22,19,2023-10-21,Brighton,Man City,2,19,Man City,Brighton,3
+24,20,2023-10-22,Aston Villa,West Ham,3,20,West Ham,Aston Villa,2
+26,8468,2023-10-02,Chelsea,Fulham,2,8468,Fulham,Chelsea,2
