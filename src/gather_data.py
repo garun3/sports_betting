@@ -21,7 +21,7 @@ class MissingDict(dict):
 
 mapping = MissingDict(**config.TEAM_DIC)
 
-@cache_to_csv(config.CACHE_PATH + 'league.csv', refresh_time=config.REFRESH_TIME)
+@cache_to_csv(config.CACHE_PATH + 'league.csv', refresh_time=604800)#config.REFRESH_TIME)
 def get_league_data():
     directory = f'{config.PATH}/../Data/{config.LEAGUE}'
     total_df = pd.DataFrame()
@@ -79,7 +79,7 @@ def get_current_season():
     sched23 = sched23.reset_index(drop=True)
     return sched23
 
-#@cache_to_csv(config.CACHE_PATH + "elo_raw.csv", refresh_time=config.REFRESH_TIME)
+@cache_to_csv(config.CACHE_PATH + "elo_raw.csv", refresh_time=86400)#config.REFRESH_TIME)
 def get_elo_data(full_df):
     clubelo = sd.ClubElo(config.LEAGUE_DIC[config.LEAGUE])
     missing = []
@@ -101,6 +101,7 @@ def get_elo_data(full_df):
 
 @cache_to_csv(config.CACHE_PATH + "elo.csv", refresh_time=config.REFRESH_TIME)
 def add_elo(elo_df, full_df):
+    #elo_df = pd.read_csv(config.CACHE_PATH + "elo_raw.csv")
     out = full_df.merge(elo_df[['team', 'elo', 'from', 'to']], how='left', left_on=['Team'], right_on=['team']) 
     out = out.query('Date.between(`from`, `to`)')
     out = out.merge(elo_df[['team', 'elo', 'from', 'to']], how='left', left_on=['Opponent'], right_on=['team']) 
@@ -111,7 +112,7 @@ def add_elo(elo_df, full_df):
     out = out.drop(columns=['from_x', 'from_y', 'to_x', 'to_y', 'team_x', 'team_y'])
     return out
 
-@cache_to_csv(config.CACHE_PATH + "understat.csv", refresh_time=86400)
+@cache_to_csv(config.CACHE_PATH + "understat.csv", refresh_time=259200)
 def get_understat():
     league_dic = {'PremierLeague': 'EPL',
     'LaLiga': 'La_Liga',
@@ -159,10 +160,10 @@ def get_xg():
     
     return df1
 
-@cache_to_csv(config.CACHE_PATH + "current_odds.csv", refresh_time=config.REFRESH_TIME)
+@cache_to_csv(config.CACHE_PATH + "current_odds.csv", refresh_time=86400)#config.REFRESH_TIME)
 def get_current_odds():
     API_KEY = config.API_KEY
-    print('hello')
+
     SPORT = 'upcoming' 
     REGIONS = 'uk' 
     MARKETS = 'totals,h2h' # h2h | spreads | totals
@@ -185,7 +186,7 @@ def get_current_odds():
     else:
         odds_json = odds_response.json()
         print('Number of events:', len(odds_json))
-        print(odds_json)
+        #print(odds_json)
 
         # Check the usage quota
         print('Remaining requests', odds_response.headers['x-requests-remaining'])
@@ -206,14 +207,21 @@ def get_current_odds():
     df_odds = df[cols]	
     return df_odds
 
-if __name__ == "__main__":
-    #league = 'PremierLeague'
-    #league = 'SerieA'
-    #league = 'LaLiga'
-    train = True
-    xg = False
-    #func.get_league_data()
+@cache_to_csv(config.CACHE_PATH + "fifa.csv", refresh_time=259200)
+def update_fifa():
+    df = pd.read_csv(f'{config.PATH}/{config.CACHE_PATH}/fifa.csv')
+    fifa = sd.SoFIFA(leagues=config.LEAGUE, versions='latest')
 
+    new = fifa.read_team_ratings()
+    new_dates = new['update']
+    if new_dates[0] not in df['update']:
+        df = pd.concat([df, new])
+    return df
+    #print(df.tail(20))
+    #df.to_csv(f'{config.PATH}/{config.CACHE_PATH}/fifa.csv')
+
+
+if __name__ == "__main__":    
     print('getting league')
     prem_df = get_league_data()
     print('getting schedule')
@@ -222,3 +230,5 @@ if __name__ == "__main__":
     if config.XG:
         get_xg()
     get_current_odds()
+    
+    update_fifa()

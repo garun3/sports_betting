@@ -1,4 +1,5 @@
 src/config.py
-venv/
+env/
 src/__pycache__/
 __pycache__/
+Predictions/

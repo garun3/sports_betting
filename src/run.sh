@@ -12,6 +12,8 @@ REPLACEMENT_VALUE=$2
 
 sed -i '' "s/\($TARGET_KEY *= *\).*/\1$REPLACEMENT_VALUE/" $CONFIG_FILE
 
+#pip install -r requirements.txt
+
 python gather_data.py
 python process.py
 python train.py

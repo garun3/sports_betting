@@ -137,6 +137,12 @@ def calculate_difs(df, cols, rolling=True):
             df[new_cols[i]] = df[f'Team{c}'] - df[f'Opponent{c}']
     return df, new_cols
 
+def fifa_difs(df, cols):
+    new_cols = [f'{c[0]}{c[1]}_Dif' for c in cols]
+    for i,c in enumerate(cols):
+        df[new_cols[i]] = df[f'Team{c[0]}'] - df[f'Opponent{c[1]}']
+    return df, new_cols
+
 def add_xg(df):
     path = f'{config.PATH}/{config.CACHE_PATH}/xG.csv'
     print(path)
@@ -162,11 +168,34 @@ def add_ou(df):
     ou = rename_cols(ou)
     li1 = ou['Team'].unique()
     s = set(df['Team'].unique())
-    print('teams with different names:', [x for x in li1 if x not in s])
+    print('ou teams with different names:', [x for x in li1 if x not in s])
     #return ou
     df['Date'] = pd.to_datetime(df['Date'])
     ou['Date'] = pd.to_datetime(ou['Date'])
     df = df.merge(ou.drop(columns='Venue'), on=['Date', 'Team', 'Opponent'], how='left')
+    return df
+
+def add_fifa(df):
+    fifa = pd.read_csv(f'{config.PATH}/{config.CACHE_PATH}/fifa.csv')
+    fifa['update'] = pd.to_datetime(fifa['update'])
+    fifa = fifa.rename(columns={'defence': 'defense'})#, 'update': 'Date'})
+
+    fifa['team'] = fifa['team'].map(mapping)
+    fifa = fifa.drop_duplicates(['team', 'update']).sort_values('update')
+    df['Date'] = pd.to_datetime(df['Date'])
+
+    li1 = fifa['team'].unique()
+    s = set(df['Team'].unique())
+    print(li1, s)
+    print('fifa teams with different names:', [x for x in li1 if x not in s])
+
+    df = pd.merge_asof(df, fifa[['update', 'team', 'overall', 'attack', 'midfield', 'defense']], left_on='Date', right_on='update', left_by=['Team'], right_by='team', direction='backward')
+    df = pd.merge_asof(df, fifa[['update', 'team', 'overall', 'attack', 'midfield', 'defense']], left_on='Date', right_on='update', left_by=['Opponent'], right_by='team', direction='backward')
+    df.columns = [f'Team{x.title()[:-2]}RatingFIFA' if '_x' in x else f'Opponent{x.title()[:-2]}RatingFIFA' if '_y' in x else x for x in df.columns]
+
+    df = df.drop(columns=df.filter(like='UpdateRating'))
+    df = df.drop(columns=df.filter(like='TeamRating'))
+
     return df
 
 def calculate_totals(df, cols):
@@ -185,21 +214,32 @@ def create_stats(df):
         total_cols1 = ['Goals', 'Shots', 'Fouls', 'ShotsonTarget', 'Corners', 'YellowCards', 'RedCards']
         ind_cols = ['TeamGoals', 'OpponentGoals', 'TeamShots', 'OpponentShots', 'TeamFouls', 'OpponentFouls','TeamShotsonTarget', 'OpponentShotsonTarget', 'TeamCorners', 'OpponentCorners', 'TeamYellowCards', 'OpponentYellowCards','TeamRedCards','OpponentRedCards']
     pred_cols = []
+    fifa_cols = [('AttackRatingFIFA', 'DefenseRatingFIFA'),
+     ('AttackRatingFIFA', 'MidfieldRatingFIFA'),
+      ('MidfieldRatingFIFA', 'DefenseRatingFIFA')]
+    fifa_cols1 = ['AttackRatingFIFA', 'MidfieldRatingFIFA', 'DefenseRatingFIFA']
     
     df = get_elo_data(df)
+    df = add_fifa(df)
     if config.XG:
         df = add_xg(df)
-    print(df['TeamShots'].tail())
+    
+    
+
     df, new_cols = calculate_totals(df, total_cols)
     df, new_cols = create_rolling(df, new_cols)
     pred_cols.extend(new_cols)
     df, new_cols = create_rolling(df, ind_cols)
-    print(df['TeamShots'].tail())
     pred_cols.extend(new_cols)
 
     df, dif_cols = calculate_difs(df, total_cols1, rolling=True)
-
     pred_cols.extend(dif_cols)
+    df, dif_cols = calculate_difs(df, fifa_cols1, rolling=False)
+    pred_cols.extend(dif_cols)
+
+    df, dif_cols = fifa_difs(df, fifa_cols)
+    pred_cols.extend(dif_cols)
+    print(pred_cols)
     return df, pred_cols
 
 def prep_data(rolling, date):
@@ -244,16 +284,21 @@ def prep_data(rolling, date):
     
     sched = sched.sort_values('Date').drop_duplicates(['Date', 'Team'])
     print(sched.head(10)[['Date','Team', 'Opponent']])
-    
+    sched = add_fifa(sched)
     if config.XG:
         sched = add_xg(sched)
     sched = add_ou(sched)
     print(sched.head(10))
     sched = home_away(sched)
+    fifa_cols = [('AttackRatingFIFA', 'DefenseRatingFIFA'),
+     ('AttackRatingFIFA', 'MidfieldRatingFIFA'),
+      ('MidfieldRatingFIFA', 'DefenseRatingFIFA')]
+    fifa_cols1 = ['AttackRatingFIFA', 'MidfieldRatingFIFA', 'DefenseRatingFIFA']
     
 
     sched, _ = calculate_totals(sched, ['ELO'])
-    sched, _ = calculate_difs(sched, ['ELO'], rolling=False)
+    sched, _ = calculate_difs(sched, ['ELO'] + fifa_cols1, rolling=False)
+    sched, _ = fifa_difs(sched, fifa_cols)
     
     sched = sched.sort_values('Date')
     #sched, _ = self.create_rolling(sched, ['TotalELO'])

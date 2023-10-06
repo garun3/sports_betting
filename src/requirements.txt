@@ -1,0 +1,10 @@
+soccerdata
+pandas
+numpy
+cache_pandas 
+sklearn
+xgboost
+understatapi
+requests
+flatten_json
+scikit-learn

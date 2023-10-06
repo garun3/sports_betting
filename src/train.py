@@ -24,7 +24,7 @@ def random_forest_win(data, predictors, X_train, X_test, y_train, y_test, call_t
         model = RandomForestClassifier(random_state=1)#n_estimators=50, min_samples_split=7, random_state=1) 
     else: 
         params = {'colsample_bytree': 0.5, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 5, 'reg_lambda': 0, 'subsample': 0.8}
-        model = xgb.XGBClassifier(**params)#, objective='binary:logistic')
+        model = xgb.XGBClassifier(random_state=1)#**params)#, objective='binary:logistic')
 
     #model = ExtraTreesClassifier(bootstrap=True, criterion="entropy", max_features=0.8, min_samples_leaf=17, min_samples_split=5, n_estimators=100)
     params = {'colsample_bytree': 0.5, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 5, 'reg_lambda': 0, 'subsample': 0.8}
@@ -54,6 +54,8 @@ def random_forest_win(data, predictors, X_train, X_test, y_train, y_test, call_t
 
     print(target_col)
     print(precision, accuracy, precision1, accuracy1) 
+    preds = model.predict_proba(X_test)
+    #preds = list(map(tuple, preds))
     #test = new_df.loc[(new_df['Date'] >= '2018-08') & (new_df['Date'] < date)]
 
 
@@ -88,7 +90,9 @@ def train(date, pred_type, predictors):
     #if pred_type == 'WinTarget':
     #    new_df = new.dropna(subset=['TeamWinOdds'])
     #else:
-    new_df = new.dropna(subset=['O2.5', 'TeamWinOdds'])
+    new_df = new.dropna(subset=['O2.5', 'TeamWinOdds'] + list(new.filter(like='FIFA').columns))
+    #new_df = new.dropna()
+    print(new_df.shape, new_df.dropna().shape)
 
     #new_df = new_df.dropna()
     #print(new_df.shape)
@@ -123,14 +127,29 @@ def train(date, pred_type, predictors):
     table, prec, acc, model, combined, preds = random_forest_win(df_rolling, predictors, X_train, X_test, y_train, y_test, 'predict', pred_type, 'RF')
 
     test = new_df.loc[(new_df['Date'] >= '2018-08') & (new_df['Date'] < date)]
-
+    '''
     test['preds'] = preds
     test['actual'] = y_test
     table = test.sort_index()[['GameID','Date','Team', 'Opponent', 'preds', 'actual']].merge(test[['GameID','Date','Team', 'Opponent', 'preds', 'actual']], left_on=['Date', 'Team'], right_on=['Date', 'Opponent']).drop_duplicates(['GameID_x'])
     table.to_csv(f'{config.PATH}/../Testing/{config.LEAGUE}/{config.LEAGUE}_{pred_type}.csv')
+    '''
+    cols = []
+    for i in range(preds.shape[1]):
+        new_col = f'class_{i}'
+        test[f'class_{i}'] = preds[:,i]
+        cols.append(new_col)
+    #test['under_prod'] = preds[0]
+    #test['over_prod'] = preds[0]
+    test['actual'] = y_test
+    table = test.sort_index()[['GameID','Date','Team', 'Opponent', 'actual'] + cols].merge(test[['GameID','Date','Team', 'Opponent', 'actual'] + cols], left_on=['Date', 'Team'], right_on=['Date', 'Opponent']).drop_duplicates(['GameID_x'])
+    table.to_csv(f'{config.PATH}/../Testing/{config.LEAGUE}/{config.LEAGUE}_{pred_type}.csv')
 
 
-    preds = model.predict(X_pred_scaled)  
+    preds1 = model.predict(X_pred_scaled)  
+    preds = model.predict_proba(X_pred_scaled)  
+    preds = list(map(tuple, preds))
+    print(preds1, preds)
+    print(model.classes_)
     pred['preds'] = preds
     table = pred.sort_index()[['GameID','Date','Team', 'Opponent', 'preds']].merge(pred[['GameID','Date','Team', 'Opponent', 'preds']], left_on=['Date', 'Team'], right_on=['Date', 'Opponent']).drop_duplicates(['GameID_x'])
     table.to_csv(f'{config.PATH}/../Predictions/{config.LEAGUE}/{config.LEAGUE}_{pred_type}.csv')
@@ -150,6 +169,8 @@ def predict(predictors, pred_type):
         new_df = new.dropna(subset=['TeamWinOdds'])
     else:
         new_df = new.dropna(subset=['O2.5'])
+    
+    
     #pred = pred[predictors]
     #print(dict(pred.isna().sum()), pred.shape, pred.dropna().shape, predictors)
     pred = new.loc[(new_df['Date'] >= date)]
@@ -179,14 +200,18 @@ if __name__ == "__main__":
     #predictors = ['VenueCode', 'OpponentCode', 'ELODif', 'Day'] + dif_cols
     if config.XG:
         predictors = ['TotalShotsRolling', 'TeamGoalsRolling', 'TeamFoulsRolling', 'GoalsRolling_Dif', 'ShotsonTargetRolling_Dif', 'OpponentShotsonTargetRolling', 'TotalELORolling', 'xGRolling_Dif', 'ShotsRolling_Dif', 'YellowCardsRolling_Dif', 'TeamRedCardsRolling', 'TotalRedCardsRolling', 'OpponentYellowCardsRolling', 'ELODif', 'TotalFoulsRolling', 'TeamShotsonTargetRolling', 'OpponentCornersRolling', 'TotalCornersRolling', 'FoulsRolling_Dif', 'OpponentGoalsRolling', 'RedCardsRolling_Dif', 'TotalGoalsRolling', 'TeamShotsRolling', 'CornersRolling_Dif', 'TeamCornersRolling', 'OpponentCode', 'TotalYellowCardsRolling', 'VenueCode', 'OpponentRedCardsRolling', 'OpponentShotsRolling', 'TeamYellowCardsRolling', 'TotalShotsonTargetRolling', 'DayCode', 'OpponentFoulsRolling']
+        preds_ = predictors + ['TotalxGRolling', 'TeamxGRolling', 'OpponentxGRolling'] 
     else:
         predictors = ['TotalShotsRolling', 'TeamGoalsRolling', 'TeamFoulsRolling', 'GoalsRolling_Dif', 'ShotsonTargetRolling_Dif', 'OpponentShotsonTargetRolling', 'TotalELORolling', 'ShotsRolling_Dif', 'YellowCardsRolling_Dif', 'TeamRedCardsRolling', 'TotalRedCardsRolling', 'OpponentYellowCardsRolling', 'ELODif', 'TotalFoulsRolling', 'TeamShotsonTargetRolling', 'OpponentCornersRolling', 'TotalCornersRolling', 'FoulsRolling_Dif', 'OpponentGoalsRolling', 'RedCardsRolling_Dif', 'TotalGoalsRolling', 'TeamShotsRolling', 'CornersRolling_Dif', 'TeamCornersRolling', 'OpponentCode', 'TotalYellowCardsRolling', 'VenueCode', 'OpponentRedCardsRolling', 'OpponentShotsRolling', 'TeamYellowCardsRolling', 'TotalShotsonTargetRolling', 'DayCode', 'OpponentFoulsRolling']
 
     #predictors = ['VenueCode', 'OpponentCode', 'DayCode'] 
-    preds_ = predictors + ['TotalxGRolling', 'TeamxGRolling', 'OpponentxGRolling'] + ['TeamELO', 'OpponentELO']
+    preds_ = predictors + ['TeamELO', 'OpponentELO']
     odds = ['TeamWinOdds', 'OpponentWinOdds', 'DrawOdds','O2.5', 'U2.5']
-    preds_ = preds_ + odds
+    print(preds_, df_rolling.filter(like='FIFA').columns.T)
+    preds_ = preds_ + odds + list(df_rolling.filter(like='FIFA').columns)
     targets = ['WinLoseTarget', 'OU1.5Target', 'OU2.5Target', 
+    'OU3.5Target', 'WinTarget', 'DrawTarget', 'LossTarget']
+    targets = ['OU1.5Target', 'OU2.5Target', 
     'OU3.5Target', 'WinTarget', 'DrawTarget', 'LossTarget']
     #targets = ['OU2.5Target']
     #targets = ['WinLoseTarget', 'Target', 'WinTarget', 'DrawTarget', 'LossTarget']
