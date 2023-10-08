@@ -147,11 +147,16 @@ def train(date, pred_type, predictors):
 
     preds1 = model.predict(X_pred_scaled)  
     preds = model.predict_proba(X_pred_scaled)  
-    preds = list(map(tuple, preds))
+    #preds = list(map(tuple, preds))
+    cols = []
+    for i in range(preds.shape[1]):
+        new_col = f'class_{i}'
+        pred[f'class_{i}'] = preds[:,i]
+        cols.append(new_col)
     print(preds1, preds)
     print(model.classes_)
-    pred['preds'] = preds
-    table = pred.sort_index()[['GameID','Date','Team', 'Opponent', 'preds']].merge(pred[['GameID','Date','Team', 'Opponent', 'preds']], left_on=['Date', 'Team'], right_on=['Date', 'Opponent']).drop_duplicates(['GameID_x'])
+    #pred['preds'] = preds
+    table = pred.sort_index()[['GameID','Date','Team', 'Opponent'] + cols].merge(pred[['GameID','Date','Team', 'Opponent']+ cols], left_on=['Date', 'Team'], right_on=['Date', 'Opponent']).drop_duplicates(['GameID_x'])
     table.to_csv(f'{config.PATH}/../Predictions/{config.LEAGUE}/{config.LEAGUE}_{pred_type}.csv')
     filename = f'{config.PATH}/../models/{config.LEAGUE}/{pred_type}_model.sav'
     pickle.dump(model, open(filename, 'wb'))

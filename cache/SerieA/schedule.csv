@@ -1,381 +1,381 @@
-,week,day,Date,time,HomeTeam,home_xg,score,away_xg,AwayTeam,attendance,venue,Referee,match_report,notes,game_id,BbAv>2.5,BbAv<2.5,BbAvH,BbAvD,BbAvA
-0,1,Sat,2023-08-19,18:30,Empoli,0.7,0–1,0.5,Hellas Verona,,Stadio Carlo Castellani,Luca Massimi,/en/matches/b787871d/Empoli-Hellas-Verona-August-19-2023-Serie-A,,b787871d,,,,,
-1,1,Sat,2023-08-19,18:30,Frosinone,0.9,1–3,1.5,Napoli,,Stadio Benito Stirpe,Matteo Marcenaro,/en/matches/305afcf5/Frosinone-Napoli-August-19-2023-Serie-A,,305afcf5,,,,,
-2,1,Sat,2023-08-19,20:45,Genoa,0.2,1–4,1.0,Fiorentina,,Stadio Comunale Luigi Ferraris,Giovanni Ayroldi,/en/matches/8260e428/Genoa-Fiorentina-August-19-2023-Serie-A,,8260e428,,,,,
-3,1,Sat,2023-08-19,20:45,Inter,2.7,2–0,0.8,Monza,,Stadio Giuseppe Meazza,Andrea Colombo,/en/matches/254420f7/Internazionale-Monza-August-19-2023-Serie-A,,254420f7,,,,,
-4,1,Sun,2023-08-20,20:45,Lecce,1.4,2–1,1.6,Lazio,,Stadio Comunale Via Del Mare,Federico Dionisi,/en/matches/3e38d727/Lecce-Lazio-August-20-2023-Serie-A,,3e38d727,,,,,
-5,1,Sun,2023-08-20,18:30,Roma,1.9,2–2,0.1,Salernitana,,Stadio Olimpico,Ermanno Feliciani,/en/matches/9191f715/Roma-Salernitana-August-20-2023-Serie-A,,9191f715,,,,,
-6,1,Sun,2023-08-20,18:30,Sassuolo,0.4,0–2,1.3,Atalanta,,Mapei Stadium - Città del Tricolore,Matteo Marchetti,/en/matches/32dc37db/Sassuolo-Atalanta-August-20-2023-Serie-A,,32dc37db,,,,,
-7,1,Sun,2023-08-20,20:45,Udinese,1.0,0–3,1.8,Juventus,,Dacia Arena,Antonio Rapuano,/en/matches/8b6e8a62/Udinese-Juventus-August-20-2023-Serie-A,,8b6e8a62,,,,,
-8,1,Mon,2023-08-21,20:45,Bologna,1.0,0–2,0.9,Milan,,Stadio Renato Dall'Ara,Luca Pairetto,/en/matches/93dccf6e/Bologna-Milan-August-21-2023-Serie-A,,93dccf6e,,,,,
-9,1,Mon,2023-08-21,18:30,Torino,1.0,0–0,0.4,Cagliari,,Stadio Olimpico di Torino,Francesco Cosso,/en/matches/fdc03e7f/Torino-Cagliari-August-21-2023-Serie-A,,fdc03e7f,,,,,
-10,2,Sat,2023-08-26,18:30,Frosinone,0.7,2–1,1.6,Atalanta,,Stadio Benito Stirpe,Juan Sacchi,/en/matches/0b355cdd/Frosinone-Atalanta-August-26-2023-Serie-A,,0b355cdd,,,,,
-11,2,Sat,2023-08-26,20:45,Hellas Verona,0.7,2–1,1.5,Roma,,Stadio Marc'Antonio Bentegodi,Daniele Doveri,/en/matches/3c6a9d3d/Hellas-Verona-Roma-August-26-2023-Serie-A,,3c6a9d3d,,,,,
-12,2,Sat,2023-08-26,20:45,Milan,3.0,4–1,0.5,Torino,,Stadio Giuseppe Meazza,Maurizio Mariani,/en/matches/4cc2731e/Milan-Torino-August-26-2023-Serie-A,,4cc2731e,,,,,
-13,2,Sat,2023-08-26,18:30,Monza,2.0,2–0,1.0,Empoli,,U-Power Stadium,Gianluca Aureliano,/en/matches/3d880bc3/Monza-Empoli-August-26-2023-Serie-A,,3d880bc3,,,,,
-14,2,Sun,2023-08-27,18:30,Fiorentina,1.3,2–2,0.3,Lecce,,Stadio Artemio Franchi,Maria Sole Ferrieri Caputi,/en/matches/d179c57a/Fiorentina-Lecce-August-27-2023-Serie-A,,d179c57a,,,,,
-15,2,Sun,2023-08-27,18:30,Juventus,0.8,1–1,0.5,Bologna,,Allianz Stadium,Marco Di Bello,/en/matches/6992283e/Juventus-Bologna-August-27-2023-Serie-A,,6992283e,,,,,
-16,2,Sun,2023-08-27,20:45,Lazio,1.4,0–1,0.6,Genoa,,Stadio Olimpico,Livio Marinelli,/en/matches/e7878318/Lazio-Genoa-August-27-2023-Serie-A,,e7878318,,,,,
-17,2,Sun,2023-08-27,20:45,Napoli,3.5,2–0,0.2,Sassuolo,,Stadio Diego Armando Maradona,Antonio Giua,/en/matches/4401df22/Napoli-Sassuolo-August-27-2023-Serie-A,,4401df22,,,,,
-18,2,Mon,2023-08-28,20:45,Cagliari,0.6,0–2,0.9,Inter,,Unipol Domus,Michael Fabbri,/en/matches/631e94b3/Cagliari-Internazionale-August-28-2023-Serie-A,,631e94b3,,,,,
-19,2,Mon,2023-08-28,18:30,Salernitana,0.5,1–1,0.8,Udinese,,Stadio Arechi,Davide Massa,/en/matches/767c80b3/Salernitana-Udinese-August-28-2023-Serie-A,,767c80b3,,,,,
-20,3,Fri,2023-09-01,20:45,Roma,0.7,1–2,1.5,Milan,,Stadio Olimpico,Antonio Rapuano,/en/matches/03e9b7f3/Roma-Milan-September-1-2023-Serie-A,,03e9b7f3,,,,,
-21,3,Fri,2023-09-01,18:30,Sassuolo,1.7,3–1,0.6,Hellas Verona,,Mapei Stadium - Città del Tricolore,Marco Piccinini,/en/matches/ebe46174/Sassuolo-Hellas-Verona-September-1-2023-Serie-A,,ebe46174,,,,,
-22,3,Sat,2023-09-02,20:45,Atalanta,1.3,3–0,0.4,Monza,,Gewiss Stadium,Matteo Marcenaro,/en/matches/6e72c38b/Atalanta-Monza-September-2-2023-Serie-A,,6e72c38b,,,,,
-23,3,Sat,2023-09-02,18:30,Bologna,2.3,2–1,0.5,Cagliari,,Stadio Renato Dall'Ara,Daniele Orsato,/en/matches/1b8aeae3/Bologna-Cagliari-September-2-2023-Serie-A,,1b8aeae3,,,,,
-24,3,Sat,2023-09-02,20:45,Napoli,1.3,1–2,0.6,Lazio,,Stadio Diego Armando Maradona,Andrea Colombo,/en/matches/2c2145a0/Napoli-Lazio-September-2-2023-Serie-A,,2c2145a0,,,,,
-25,3,Sat,2023-09-02,18:30,Udinese,1.5,0–0,1.8,Frosinone,,Dacia Arena,Marco Guida,/en/matches/6a639449/Udinese-Frosinone-September-2-2023-Serie-A,,6a639449,,,,,
-26,3,Sun,2023-09-03,20:45,Empoli,0.3,0–2,2.7,Juventus,,Stadio Carlo Castellani,Giovanni Ayroldi,/en/matches/b14694a6/Empoli-Juventus-September-3-2023-Serie-A,,b14694a6,,,,,
-27,3,Sun,2023-09-03,18:30,Inter,3.7,4–0,0.4,Fiorentina,,Stadio Giuseppe Meazza,Matteo Marchetti,/en/matches/c59bb445/Internazionale-Fiorentina-September-3-2023-Serie-A,,c59bb445,,,,,
-28,3,Sun,2023-09-03,20:45,Lecce,1.7,2–0,1.1,Salernitana,,Stadio Comunale Via Del Mare,Luca Massimi,/en/matches/79dc2417/Lecce-Salernitana-September-3-2023-Serie-A,,79dc2417,,,,,
-29,3,Sun,2023-09-03,18:30,Torino,0.4,1–0,0.2,Genoa,,Stadio Olimpico di Torino,Daniele Chiffi,/en/matches/83d4ffcd/Torino-Genoa-September-3-2023-Serie-A,,83d4ffcd,,,,,
-30,4,Sat,2023-09-16,20:45,Genoa,1.2,2–2,0.9,Napoli,,Stadio Comunale Luigi Ferraris,Michael Fabbri,/en/matches/528f1128/Genoa-Napoli-September-16-2023-Serie-A,,528f1128,,,,,
-31,4,Sat,2023-09-16,18:00,Inter,2.6,5–1,1.1,Milan,,Stadio Giuseppe Meazza,Simone Sozza,/en/matches/10a39d69/Derby-della-Madonnina-Internazionale-Milan-September-16-2023-Serie-A,,10a39d69,,,,,
-32,4,Sat,2023-09-16,15:00,Juventus,2.2,3–1,0.6,Lazio,,Allianz Stadium,Fabio Maresca,/en/matches/b3226234/Juventus-Lazio-September-16-2023-Serie-A,,b3226234,,,,,
-33,4,Sun,2023-09-17,12:30,Cagliari,1.6,0–0,0.7,Udinese,,Unipol Domus,Daniele Doveri,/en/matches/3ac89aa7/Cagliari-Udinese-September-17-2023-Serie-A,,3ac89aa7,,,,,
-34,4,Sun,2023-09-17,18:00,Fiorentina,1.1,3–2,0.7,Atalanta,,Stadio Artemio Franchi,Luca Pairetto,/en/matches/2a18afe9/Fiorentina-Atalanta-September-17-2023-Serie-A,,2a18afe9,,,,,
-35,4,Sun,2023-09-17,15:00,Frosinone,2.8,4–2,1.3,Sassuolo,,Stadio Benito Stirpe,Alessandro Prontera,/en/matches/f3fd4b8a/Frosinone-Sassuolo-September-17-2023-Serie-A,,f3fd4b8a,,,,,
-36,4,Sun,2023-09-17,15:00,Monza,2.2,1–1,0.9,Lecce,,U-Power Stadium,Livio Marinelli,/en/matches/3cf257a0/Monza-Lecce-September-17-2023-Serie-A,,3cf257a0,,,,,
-37,4,Sun,2023-09-17,20:45,Roma,2.4,7–0,0.2,Empoli,,Stadio Olimpico,Juan Sacchi,/en/matches/f164bc78/Roma-Empoli-September-17-2023-Serie-A,,f164bc78,,,,,
-38,4,Mon,2023-09-18,20:45,Hellas Verona,0.4,0–0,0.6,Bologna,,Stadio Marc'Antonio Bentegodi,Federico La Penna,/en/matches/2e114c4b/Hellas-Verona-Bologna-September-18-2023-Serie-A,,2e114c4b,,,,,
-39,4,Mon,2023-09-18,18:30,Salernitana,0.7,0–3,1.8,Torino,,Stadio Arechi,Antonio Giua,/en/matches/a9334418/Salernitana-Torino-September-18-2023-Serie-A,,a9334418,,,,,
-40,5,Fri,2023-09-22,20:45,Lecce,0.9,1–0,0.3,Genoa,27000,Stadio Comunale Via Del Mare,Antonio Rapuano,/en/matches/c66e200a/Lecce-Genoa-September-22-2023-Serie-A,,c66e200a,,,,,
-41,5,Fri,2023-09-22,18:30,Salernitana,1.1,1–1,0.7,Frosinone,,Stadio Arechi,Marco Piccinini,/en/matches/da7586b5/Salernitana-Frosinone-September-22-2023-Serie-A,,da7586b5,,,,,
-42,5,Sat,2023-09-23,20:45,Lazio,1.0,1–1,1.2,Monza,,Stadio Olimpico,Rosario Abisso,/en/matches/5778b5c6/Lazio-Monza-September-23-2023-Serie-A,,5778b5c6,,,,,
-43,5,Sat,2023-09-23,15:00,Milan,0.9,1–0,0.6,Hellas Verona,,Stadio Giuseppe Meazza,Fabio Maresca,/en/matches/bbc5eb68/Milan-Hellas-Verona-September-23-2023-Serie-A,,bbc5eb68,,,,,
-44,5,Sat,2023-09-23,18:00,Sassuolo,0.8,4–2,0.7,Juventus,,Mapei Stadium - Città del Tricolore,Andrea Colombo,/en/matches/14cf8fd1/Sassuolo-Juventus-September-23-2023-Serie-A,,14cf8fd1,,,,,
-45,5,Sun,2023-09-24,15:00,Atalanta,1.7,2–0,0.8,Cagliari,,Gewiss Stadium,Ermanno Feliciani,/en/matches/915c6bb6/Atalanta-Cagliari-September-24-2023-Serie-A,,915c6bb6,,,,,
-46,5,Sun,2023-09-24,18:00,Bologna,0.2,0–0,2.1,Napoli,,Stadio Renato Dall'Ara,Giovanni Ayroldi,/en/matches/17137b70/Bologna-Napoli-September-24-2023-Serie-A,,17137b70,,,,,
-47,5,Sun,2023-09-24,12:30,Empoli,0.3,0–1,1.6,Inter,,Stadio Carlo Castellani,Matteo Marcenaro,/en/matches/8d6212de/Empoli-Internazionale-September-24-2023-Serie-A,,8d6212de,,,,,
-48,5,Sun,2023-09-24,20:45,Torino,0.9,1–1,1.4,Roma,,Stadio Olimpico di Torino,Marco Guida,/en/matches/fdd625ef/Torino-Roma-September-24-2023-Serie-A,,fdd625ef,,,,,
-49,5,Sun,2023-09-24,15:00,Udinese,2.2,0–2,0.5,Fiorentina,,Dacia Arena,Daniele Chiffi,/en/matches/a7ffc8e0/Udinese-Fiorentina-September-24-2023-Serie-A,,a7ffc8e0,,,,,
-50,6,Tue,2023-09-26,20:45,Juventus,1.4,1–0,0.1,Lecce,,Allianz Stadium,Antonio Giua,/en/matches/eb1af48a/Juventus-Lecce-September-26-2023-Serie-A,,eb1af48a,,,,,
-51,6,Wed,2023-09-27,18:30,Cagliari,,,,Milan,,Unipol Domus,,,,,,,,,
-52,6,Wed,2023-09-27,18:30,Empoli,,,,Salernitana,,Stadio Carlo Castellani,,,,,,,,,
-53,6,Wed,2023-09-27,18:30,Hellas Verona,,,,Atalanta,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-54,6,Wed,2023-09-27,20:45,Inter,,,,Sassuolo,,Stadio Giuseppe Meazza,,,,,,,,,
-55,6,Wed,2023-09-27,20:45,Lazio,,,,Torino,,Stadio Olimpico,,,,,,,,,
-56,6,Wed,2023-09-27,20:45,Napoli,,,,Udinese,,Stadio Diego Armando Maradona,,,,,,,,,
-57,6,Thu,2023-09-28,18:30,Frosinone,,,,Fiorentina,,Stadio Benito Stirpe,,,,,,,,,
-58,6,Thu,2023-09-28,20:45,Genoa,,,,Roma,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-59,6,Thu,2023-09-28,18:30,Monza,,,,Bologna,,U-Power Stadium,,,,,,,,,
-60,7,Sat,2023-09-30,15:00,Lecce,,,,Napoli,,Stadio Comunale Via Del Mare,,,,,,,,,
-61,7,Sat,2023-09-30,18:00,Milan,,,,Lazio,,Stadio Giuseppe Meazza,,,,,,,,,
-62,7,Sat,2023-09-30,20:45,Salernitana,,,,Inter,,Stadio Arechi,,,,,,,,,
-63,7,Sun,2023-10-01,18:00,Atalanta,,,,Juventus,,Gewiss Stadium,,,,,,,,,
-64,7,Sun,2023-10-01,12:30,Bologna,,,,Empoli,,Stadio Renato Dall'Ara,,,,,,,,,
-65,7,Sun,2023-10-01,20:45,Roma,,,,Frosinone,,Stadio Olimpico,,,,,,,,,
-66,7,Sun,2023-10-01,15:00,Udinese,,,,Genoa,,Dacia Arena,,,,,,,,,
-67,7,Mon,2023-10-02,20:45,Fiorentina,,,,Cagliari,,Stadio Artemio Franchi,,,,,,,,,
-68,7,Mon,2023-10-02,18:30,Sassuolo,,,,Monza,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-69,7,Mon,2023-10-02,18:30,Torino,,,,Hellas Verona,,Stadio Olimpico di Torino,,,,,,,,,
-70,8,Fri,2023-10-06,18:30,Empoli,,,,Udinese,,Stadio Carlo Castellani,,,,,,,,,
-71,8,Fri,2023-10-06,20:45,Lecce,,,,Sassuolo,,Stadio Comunale Via Del Mare,,,,,,,,,
-72,8,Sat,2023-10-07,20:45,Genoa,,,,Milan,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-73,8,Sat,2023-10-07,15:00,Inter,,,,Bologna,,Stadio Giuseppe Meazza,,,,,,,,,
-74,8,Sat,2023-10-07,18:00,Juventus,,,,Torino,,Allianz Stadium,,,,,,,,,
-75,8,Sun,2023-10-08,18:00,Cagliari,,,,Roma,,Unipol Domus,,,,,,,,,
-76,8,Sun,2023-10-08,15:00,Frosinone,,,,Hellas Verona,,Stadio Benito Stirpe,,,,,,,,,
-77,8,Sun,2023-10-08,15:00,Lazio,,,,Atalanta,,Stadio Olimpico,,,,,,,,,
-78,8,Sun,2023-10-08,12:30,Monza,,,,Salernitana,,U-Power Stadium,,,,,,,,,
-79,8,Sun,2023-10-08,20:45,Napoli,,,,Fiorentina,,Stadio Diego Armando Maradona,,,,,,,,,
-80,9,Sat,2023-10-21,15:00,Hellas Verona,,,,Napoli,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-81,9,Sat,2023-10-21,20:45,Sassuolo,,,,Lazio,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-82,9,Sat,2023-10-21,18:00,Torino,,,,Inter,,Stadio Olimpico di Torino,,,,,,,,,
-83,9,Sun,2023-10-22,18:00,Atalanta,,,,Genoa,,Gewiss Stadium,,,,,,,,,
-84,9,Sun,2023-10-22,15:00,Bologna,,,,Frosinone,,Stadio Renato Dall'Ara,,,,,,,,,
-85,9,Sun,2023-10-22,20:45,Milan,,,,Juventus,,Stadio Giuseppe Meazza,,,,,,,,,
-86,9,Sun,2023-10-22,12:30,Roma,,,,Monza,,Stadio Olimpico,,,,,,,,,
-87,9,Sun,2023-10-22,15:00,Salernitana,,,,Cagliari,,Stadio Arechi,,,,,,,,,
-88,9,Mon,2023-10-23,20:45,Fiorentina,,,,Empoli,,Stadio Artemio Franchi,,,,,,,,,
-89,9,Mon,2023-10-23,18:30,Udinese,,,,Lecce,,Dacia Arena,,,,,,,,,
-90,10,Fri,2023-10-27,20:45,Genoa,,,,Salernitana,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-91,10,Sat,2023-10-28,20:45,Juventus,,,,Hellas Verona,,Allianz Stadium,,,,,,,,,
-92,10,Sat,2023-10-28,18:00,Lecce,,,,Torino,,Stadio Comunale Via Del Mare,,,,,,,,,
-93,10,Sat,2023-10-28,15:00,Sassuolo,,,,Bologna,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-94,10,Sun,2023-10-29,12:30,Cagliari,,,,Frosinone,,Unipol Domus,,,,,,,,,
-95,10,Sun,2023-10-29,18:00,Inter,,,,Roma,,Stadio Giuseppe Meazza,,,,,,,,,
-96,10,Sun,2023-10-29,15:00,Monza,,,,Udinese,,U-Power Stadium,,,,,,,,,
-97,10,Sun,2023-10-29,20:45,Napoli,,,,Milan,,Stadio Diego Armando Maradona,,,,,,,,,
-98,10,Mon,2023-10-30,18:30,Empoli,,,,Atalanta,,Stadio Carlo Castellani,,,,,,,,,
-99,10,Mon,2023-10-30,20:45,Lazio,,,,Fiorentina,,Stadio Olimpico,,,,,,,,,
-100,11,Fri,2023-11-03,20:45,Bologna,,,,Lazio,,Stadio Renato Dall'Ara,,,,,,,,,
-101,11,Sat,2023-11-04,18:00,Atalanta,,,,Inter,,Gewiss Stadium,,,,,,,,,
-102,11,Sat,2023-11-04,20:45,Milan,,,,Udinese,,Stadio Giuseppe Meazza,,,,,,,,,
-103,11,Sat,2023-11-04,15:00,Salernitana,,,,Napoli,,Stadio Arechi,,,,,,,,,
-104,11,Sun,2023-11-05,15:00,Cagliari,,,,Genoa,,Unipol Domus,,,,,,,,,
-105,11,Sun,2023-11-05,20:45,Fiorentina,,,,Juventus,,Stadio Artemio Franchi,,,,,,,,,
-106,11,Sun,2023-11-05,12:30,Hellas Verona,,,,Monza,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-107,11,Sun,2023-11-05,18:00,Roma,,,,Lecce,,Stadio Olimpico,,,,,,,,,
-108,11,Mon,2023-11-06,18:30,Frosinone,,,,Empoli,,Stadio Benito Stirpe,,,,,,,,,
-109,11,Mon,2023-11-06,20:45,Torino,,,,Sassuolo,,Stadio Olimpico di Torino,,,,,,,,,
-110,12,Fri,2023-11-10,20:45,Genoa,,,,Hellas Verona,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-111,12,Fri,2023-11-10,18:30,Sassuolo,,,,Salernitana,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-112,12,Sat,2023-11-11,18:00,Juventus,,,,Cagliari,,Allianz Stadium,,,,,,,,,
-113,12,Sat,2023-11-11,15:00,Lecce,,,,Milan,,Stadio Comunale Via Del Mare,,,,,,,,,
-114,12,Sat,2023-11-11,20:45,Monza,,,,Torino,,U-Power Stadium,,,,,,,,,
-115,12,Sun,2023-11-12,15:00,Fiorentina,,,,Bologna,,Stadio Artemio Franchi,,,,,,,,,
-116,12,Sun,2023-11-12,20:45,Inter,,,,Frosinone,,Stadio Giuseppe Meazza,,,,,,,,,
-117,12,Sun,2023-11-12,18:00,Lazio,,,,Roma,,Stadio Olimpico,,,,,,,,,
-118,12,Sun,2023-11-12,12:30,Napoli,,,,Empoli,,Stadio Diego Armando Maradona,,,,,,,,,
-119,12,Sun,2023-11-12,15:00,Udinese,,,,Atalanta,,Dacia Arena,,,,,,,,,
-120,13,Sat,2023-11-25,18:00,Atalanta,,,,Napoli,,Gewiss Stadium,,,,,,,,,
-121,13,Sat,2023-11-25,20:45,Milan,,,,Fiorentina,,Stadio Giuseppe Meazza,,,,,,,,,
-122,13,Sat,2023-11-25,15:00,Salernitana,,,,Lazio,,Stadio Arechi,,,,,,,,,
-123,13,Sun,2023-11-26,12:30,Cagliari,,,,Monza,,Unipol Domus,,,,,,,,,
-124,13,Sun,2023-11-26,15:00,Empoli,,,,Sassuolo,,Stadio Carlo Castellani,,,,,,,,,
-125,13,Sun,2023-11-26,15:00,Frosinone,,,,Genoa,,Stadio Benito Stirpe,,,,,,,,,
-126,13,Sun,2023-11-26,20:45,Juventus,,,,Inter,,Allianz Stadium,,,,,,,,,
-127,13,Sun,2023-11-26,18:00,Roma,,,,Udinese,,Stadio Olimpico,,,,,,,,,
-128,13,Mon,2023-11-27,20:45,Bologna,,,,Torino,,Stadio Renato Dall'Ara,,,,,,,,,
-129,13,Mon,2023-11-27,18:30,Hellas Verona,,,,Lecce,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-130,14,Fri,2023-12-01,20:45,Monza,,,,Juventus,,U-Power Stadium,,,,,,,,,
-131,14,Sat,2023-12-02,15:00,Genoa,,,,Empoli,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-132,14,Sat,2023-12-02,18:00,Lazio,,,,Cagliari,,Stadio Olimpico,,,,,,,,,
-133,14,Sat,2023-12-02,20:45,Milan,,,,Frosinone,,Stadio Giuseppe Meazza,,,,,,,,,
-134,14,Sun,2023-12-03,15:00,Fiorentina,,,,Salernitana,,Stadio Artemio Franchi,,,,,,,,,
-135,14,Sun,2023-12-03,12:30,Lecce,,,,Bologna,,Stadio Comunale Via Del Mare,,,,,,,,,
-136,14,Sun,2023-12-03,20:45,Napoli,,,,Inter,,Stadio Diego Armando Maradona,,,,,,,,,
-137,14,Sun,2023-12-03,18:00,Sassuolo,,,,Roma,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-138,14,Sun,2023-12-03,15:00,Udinese,,,,Hellas Verona,,Dacia Arena,,,,,,,,,
-139,14,Mon,2023-12-04,20:45,Torino,,,,Atalanta,,Stadio Olimpico di Torino,,,,,,,,,
-140,15,Fri,2023-12-08,20:45,Juventus,,,,Napoli,,Allianz Stadium,,,,,,,,,
-141,15,Sat,2023-12-09,18:00,Atalanta,,,,Milan,,Gewiss Stadium,,,,,,,,,
-142,15,Sat,2023-12-09,15:00,Hellas Verona,,,,Lazio,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-143,15,Sat,2023-12-09,20:45,Inter,,,,Udinese,,Stadio Giuseppe Meazza,,,,,,,,,
-144,15,Sun,2023-12-10,12:30,Frosinone,,,,Torino,,Stadio Benito Stirpe,,,,,,,,,
-145,15,Sun,2023-12-10,15:00,Monza,,,,Genoa,,U-Power Stadium,,,,,,,,,
-146,15,Sun,2023-12-10,20:45,Roma,,,,Fiorentina,,Stadio Olimpico,,,,,,,,,
-147,15,Sun,2023-12-10,18:00,Salernitana,,,,Bologna,,Stadio Arechi,,,,,,,,,
-148,15,Mon,2023-12-11,20:45,Cagliari,,,,Sassuolo,,Unipol Domus,,,,,,,,,
-149,15,Mon,2023-12-11,18:30,Empoli,,,,Lecce,,Stadio Carlo Castellani,,,,,,,,,
-150,16,Fri,2023-12-15,20:45,Genoa,,,,Juventus,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-151,16,Sat,2023-12-16,15:00,Lecce,,,,Frosinone,,Stadio Comunale Via Del Mare,,,,,,,,,
-152,16,Sat,2023-12-16,18:00,Napoli,,,,Cagliari,,Stadio Diego Armando Maradona,,,,,,,,,
-153,16,Sat,2023-12-16,20:45,Torino,,,,Empoli,,Stadio Olimpico di Torino,,,,,,,,,
-154,16,Sun,2023-12-17,18:00,Bologna,,,,Roma,,Stadio Renato Dall'Ara,,,,,,,,,
-155,16,Sun,2023-12-17,15:00,Fiorentina,,,,Hellas Verona,,Stadio Artemio Franchi,,,,,,,,,
-156,16,Sun,2023-12-17,20:45,Lazio,,,,Inter,,Stadio Olimpico,,,,,,,,,
-157,16,Sun,2023-12-17,12:30,Milan,,,,Monza,,Stadio Giuseppe Meazza,,,,,,,,,
-158,16,Sun,2023-12-17,15:00,Udinese,,,,Sassuolo,,Dacia Arena,,,,,,,,,
-159,16,Mon,2023-12-18,20:45,Atalanta,,,,Salernitana,,Gewiss Stadium,,,,,,,,,
-160,17,Fri,2023-12-22,18:30,Empoli,,,,Lazio,,Stadio Carlo Castellani,,,,,,,,,
-161,17,Fri,2023-12-22,20:45,Monza,,,,Fiorentina,,U-Power Stadium,,,,,,,,,
-162,17,Fri,2023-12-22,20:45,Salernitana,,,,Milan,,Stadio Arechi,,,,,,,,,
-163,17,Fri,2023-12-22,18:30,Sassuolo,,,,Genoa,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-164,17,Sat,2023-12-23,15:00,Bologna,,,,Atalanta,,Stadio Renato Dall'Ara,,,,,,,,,
-165,17,Sat,2023-12-23,12:30,Frosinone,,,,Juventus,,Stadio Benito Stirpe,,,,,,,,,
-166,17,Sat,2023-12-23,18:00,Hellas Verona,,,,Cagliari,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-167,17,Sat,2023-12-23,18:00,Inter,,,,Lecce,,Stadio Giuseppe Meazza,,,,,,,,,
-168,17,Sat,2023-12-23,20:45,Roma,,,,Napoli,,Stadio Olimpico,,,,,,,,,
-169,17,Sat,2023-12-23,15:00,Torino,,,,Udinese,,Stadio Olimpico di Torino,,,,,,,,,
-170,18,Fri,2023-12-29,18:30,Fiorentina,,,,Torino,,Stadio Artemio Franchi,,,,,,,,,
-171,18,Fri,2023-12-29,20:45,Genoa,,,,Inter,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-172,18,Fri,2023-12-29,20:45,Lazio,,,,Frosinone,,Stadio Olimpico,,,,,,,,,
-173,18,Fri,2023-12-29,18:30,Napoli,,,,Monza,,Stadio Diego Armando Maradona,,,,,,,,,
-174,18,Sat,2023-12-30,12:30,Atalanta,,,,Lecce,,Gewiss Stadium,,,,,,,,,
-175,18,Sat,2023-12-30,15:00,Cagliari,,,,Empoli,,Unipol Domus,,,,,,,,,
-176,18,Sat,2023-12-30,18:00,Hellas Verona,,,,Salernitana,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-177,18,Sat,2023-12-30,20:45,Juventus,,,,Roma,,Allianz Stadium,,,,,,,,,
-178,18,Sat,2023-12-30,18:00,Milan,,,,Sassuolo,,Stadio Giuseppe Meazza,,,,,,,,,
-179,18,Sat,2023-12-30,15:00,Udinese,,,,Bologna,,Dacia Arena,,,,,,,,,
-180,19,Sat,2024-01-06,20:45,Bologna,,,,Genoa,,Stadio Renato Dall'Ara,,,,,,,,,
-181,19,Sat,2024-01-06,18:00,Empoli,,,,Milan,,Stadio Carlo Castellani,,,,,,,,,
-182,19,Sat,2024-01-06,15:00,Lecce,,,,Cagliari,,Stadio Comunale Via Del Mare,,,,,,,,,
-183,19,Sun,2024-01-07,15:00,Frosinone,,,,Monza,,Stadio Benito Stirpe,,,,,,,,,
-184,19,Sun,2024-01-07,18:00,Roma,,,,Atalanta,,Stadio Olimpico,,,,,,,,,
-185,19,Sun,2024-01-07,20:45,Salernitana,,,,Juventus,,Stadio Arechi,,,,,,,,,
-186,20,Sun,2024-01-14,,Atalanta,,,,Frosinone,,Gewiss Stadium,,,,,,,,,
-187,20,Sun,2024-01-14,,Cagliari,,,,Bologna,,Unipol Domus,,,,,,,,,
-188,20,Sun,2024-01-14,,Fiorentina,,,,Udinese,,Stadio Artemio Franchi,,,,,,,,,
-189,20,Sun,2024-01-14,,Genoa,,,,Torino,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-190,20,Sun,2024-01-14,,Hellas Verona,,,,Empoli,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-191,20,Sun,2024-01-14,,Juventus,,,,Sassuolo,,Allianz Stadium,,,,,,,,,
-192,20,Sun,2024-01-14,,Lazio,,,,Lecce,,Stadio Olimpico,,,,,,,,,
-193,20,Sun,2024-01-14,,Milan,,,,Roma,,Stadio Giuseppe Meazza,,,,,,,,,
-194,20,Sun,2024-01-14,,Monza,,,,Inter,,U-Power Stadium,,,,,,,,,
-195,20,Sun,2024-01-14,,Napoli,,,,Salernitana,,Stadio Diego Armando Maradona,,,,,,,,,
-196,21,Sun,2024-01-21,,Bologna,,,,Fiorentina,,Stadio Renato Dall'Ara,,,,,,,,,
-197,21,Sun,2024-01-21,,Empoli,,,,Monza,,Stadio Carlo Castellani,,,,,,,,,
-198,21,Sun,2024-01-21,,Frosinone,,,,Cagliari,,Stadio Benito Stirpe,,,,,,,,,
-199,21,Sun,2024-01-21,,Inter,,,,Atalanta,,Stadio Giuseppe Meazza,,,,,,,,,
-200,21,Sun,2024-01-21,,Lecce,,,,Juventus,,Stadio Comunale Via Del Mare,,,,,,,,,
-201,21,Sun,2024-01-21,,Roma,,,,Hellas Verona,,Stadio Olimpico,,,,,,,,,
-202,21,Sun,2024-01-21,,Salernitana,,,,Genoa,,Stadio Arechi,,,,,,,,,
-203,21,Sun,2024-01-21,,Sassuolo,,,,Napoli,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-204,21,Sun,2024-01-21,,Torino,,,,Lazio,,Stadio Olimpico di Torino,,,,,,,,,
-205,21,Sun,2024-01-21,,Udinese,,,,Milan,,Dacia Arena,,,,,,,,,
-206,19,Wed,2024-01-24,,Inter,,,,Hellas Verona,,Stadio Giuseppe Meazza,,,,,,,,,
-207,19,Wed,2024-01-24,,Sassuolo,,,,Fiorentina,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-208,19,Wed,2024-01-24,,Torino,,,,Napoli,,Stadio Olimpico di Torino,,,,,,,,,
-209,19,Wed,2024-01-24,,Udinese,,,,Lazio,,Dacia Arena,,,,,,,,,
-210,22,Sun,2024-01-28,,Atalanta,,,,Udinese,,Gewiss Stadium,,,,,,,,,
-211,22,Sun,2024-01-28,,Cagliari,,,,Torino,,Unipol Domus,,,,,,,,,
-212,22,Sun,2024-01-28,,Fiorentina,,,,Inter,,Stadio Artemio Franchi,,,,,,,,,
-213,22,Sun,2024-01-28,,Genoa,,,,Lecce,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-214,22,Sun,2024-01-28,,Hellas Verona,,,,Frosinone,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-215,22,Sun,2024-01-28,,Juventus,,,,Empoli,,Allianz Stadium,,,,,,,,,
-216,22,Sun,2024-01-28,,Lazio,,,,Napoli,,Stadio Olimpico,,,,,,,,,
-217,22,Sun,2024-01-28,,Milan,,,,Bologna,,Stadio Giuseppe Meazza,,,,,,,,,
-218,22,Sun,2024-01-28,,Monza,,,,Sassuolo,,U-Power Stadium,,,,,,,,,
-219,22,Sun,2024-01-28,,Salernitana,,,,Roma,,Stadio Arechi,,,,,,,,,
-220,23,Sun,2024-02-04,,Atalanta,,,,Lazio,,Gewiss Stadium,,,,,,,,,
-221,23,Sun,2024-02-04,,Bologna,,,,Sassuolo,,Stadio Renato Dall'Ara,,,,,,,,,
-222,23,Sun,2024-02-04,,Empoli,,,,Genoa,,Stadio Carlo Castellani,,,,,,,,,
-223,23,Sun,2024-02-04,,Frosinone,,,,Milan,,Stadio Benito Stirpe,,,,,,,,,
-224,23,Sun,2024-02-04,,Inter,,,,Juventus,,Stadio Giuseppe Meazza,,,,,,,,,
-225,23,Sun,2024-02-04,,Lecce,,,,Fiorentina,,Stadio Comunale Via Del Mare,,,,,,,,,
-226,23,Sun,2024-02-04,,Napoli,,,,Hellas Verona,,Stadio Diego Armando Maradona,,,,,,,,,
-227,23,Sun,2024-02-04,,Roma,,,,Cagliari,,Stadio Olimpico,,,,,,,,,
-228,23,Sun,2024-02-04,,Torino,,,,Salernitana,,Stadio Olimpico di Torino,,,,,,,,,
-229,23,Sun,2024-02-04,,Udinese,,,,Monza,,Dacia Arena,,,,,,,,,
-230,24,Sun,2024-02-11,,Bologna,,,,Lecce,,Stadio Renato Dall'Ara,,,,,,,,,
-231,24,Sun,2024-02-11,,Cagliari,,,,Lazio,,Unipol Domus,,,,,,,,,
-232,24,Sun,2024-02-11,,Fiorentina,,,,Frosinone,,Stadio Artemio Franchi,,,,,,,,,
-233,24,Sun,2024-02-11,,Genoa,,,,Atalanta,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-234,24,Sun,2024-02-11,,Juventus,,,,Udinese,,Allianz Stadium,,,,,,,,,
-235,24,Sun,2024-02-11,,Milan,,,,Napoli,,Stadio Giuseppe Meazza,,,,,,,,,
-236,24,Sun,2024-02-11,,Monza,,,,Hellas Verona,,U-Power Stadium,,,,,,,,,
-237,24,Sun,2024-02-11,,Roma,,,,Inter,,Stadio Olimpico,,,,,,,,,
-238,24,Sun,2024-02-11,,Salernitana,,,,Empoli,,Stadio Arechi,,,,,,,,,
-239,24,Sun,2024-02-11,,Sassuolo,,,,Torino,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-240,25,Sun,2024-02-18,,Atalanta,,,,Sassuolo,,Gewiss Stadium,,,,,,,,,
-241,25,Sun,2024-02-18,,Empoli,,,,Fiorentina,,Stadio Carlo Castellani,,,,,,,,,
-242,25,Sun,2024-02-18,,Frosinone,,,,Roma,,Stadio Benito Stirpe,,,,,,,,,
-243,25,Sun,2024-02-18,,Hellas Verona,,,,Juventus,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-244,25,Sun,2024-02-18,,Inter,,,,Salernitana,,Stadio Giuseppe Meazza,,,,,,,,,
-245,25,Sun,2024-02-18,,Lazio,,,,Bologna,,Stadio Olimpico,,,,,,,,,
-246,25,Sun,2024-02-18,,Monza,,,,Milan,,U-Power Stadium,,,,,,,,,
-247,25,Sun,2024-02-18,,Napoli,,,,Genoa,,Stadio Diego Armando Maradona,,,,,,,,,
-248,25,Sun,2024-02-18,,Torino,,,,Lecce,,Stadio Olimpico di Torino,,,,,,,,,
-249,25,Sun,2024-02-18,,Udinese,,,,Cagliari,,Dacia Arena,,,,,,,,,
-250,26,Sun,2024-02-25,,Bologna,,,,Hellas Verona,,Stadio Renato Dall'Ara,,,,,,,,,
-251,26,Sun,2024-02-25,,Cagliari,,,,Napoli,,Unipol Domus,,,,,,,,,
-252,26,Sun,2024-02-25,,Fiorentina,,,,Lazio,,Stadio Artemio Franchi,,,,,,,,,
-253,26,Sun,2024-02-25,,Genoa,,,,Udinese,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-254,26,Sun,2024-02-25,,Juventus,,,,Frosinone,,Allianz Stadium,,,,,,,,,
-255,26,Sun,2024-02-25,,Lecce,,,,Inter,,Stadio Comunale Via Del Mare,,,,,,,,,
-256,26,Sun,2024-02-25,,Milan,,,,Atalanta,,Stadio Giuseppe Meazza,,,,,,,,,
-257,26,Sun,2024-02-25,,Roma,,,,Torino,,Stadio Olimpico,,,,,,,,,
-258,26,Sun,2024-02-25,,Salernitana,,,,Monza,,Stadio Arechi,,,,,,,,,
-259,26,Sun,2024-02-25,,Sassuolo,,,,Empoli,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-260,27,Sun,2024-03-03,,Atalanta,,,,Bologna,,Gewiss Stadium,,,,,,,,,
-261,27,Sun,2024-03-03,,Empoli,,,,Cagliari,,Stadio Carlo Castellani,,,,,,,,,
-262,27,Sun,2024-03-03,,Frosinone,,,,Lecce,,Stadio Benito Stirpe,,,,,,,,,
-263,27,Sun,2024-03-03,,Hellas Verona,,,,Sassuolo,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-264,27,Sun,2024-03-03,,Inter,,,,Genoa,,Stadio Giuseppe Meazza,,,,,,,,,
-265,27,Sun,2024-03-03,,Lazio,,,,Milan,,Stadio Olimpico,,,,,,,,,
-266,27,Sun,2024-03-03,,Monza,,,,Roma,,U-Power Stadium,,,,,,,,,
-267,27,Sun,2024-03-03,,Napoli,,,,Juventus,,Stadio Diego Armando Maradona,,,,,,,,,
-268,27,Sun,2024-03-03,,Torino,,,,Fiorentina,,Stadio Olimpico di Torino,,,,,,,,,
-269,27,Sun,2024-03-03,,Udinese,,,,Salernitana,,Dacia Arena,,,,,,,,,
-270,28,Sun,2024-03-10,,Bologna,,,,Inter,,Stadio Renato Dall'Ara,,,,,,,,,
-271,28,Sun,2024-03-10,,Cagliari,,,,Salernitana,,Unipol Domus,,,,,,,,,
-272,28,Sun,2024-03-10,,Fiorentina,,,,Roma,,Stadio Artemio Franchi,,,,,,,,,
-273,28,Sun,2024-03-10,,Genoa,,,,Monza,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-274,28,Sun,2024-03-10,,Juventus,,,,Atalanta,,Allianz Stadium,,,,,,,,,
-275,28,Sun,2024-03-10,,Lazio,,,,Udinese,,Stadio Olimpico,,,,,,,,,
-276,28,Sun,2024-03-10,,Lecce,,,,Hellas Verona,,Stadio Comunale Via Del Mare,,,,,,,,,
-277,28,Sun,2024-03-10,,Milan,,,,Empoli,,Stadio Giuseppe Meazza,,,,,,,,,
-278,28,Sun,2024-03-10,,Napoli,,,,Torino,,Stadio Diego Armando Maradona,,,,,,,,,
-279,28,Sun,2024-03-10,,Sassuolo,,,,Frosinone,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-280,29,Sun,2024-03-17,,Atalanta,,,,Fiorentina,,Gewiss Stadium,,,,,,,,,
-281,29,Sun,2024-03-17,,Empoli,,,,Bologna,,Stadio Carlo Castellani,,,,,,,,,
-282,29,Sun,2024-03-17,,Frosinone,,,,Lazio,,Stadio Benito Stirpe,,,,,,,,,
-283,29,Sun,2024-03-17,,Hellas Verona,,,,Milan,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-284,29,Sun,2024-03-17,,Inter,,,,Napoli,,Stadio Giuseppe Meazza,,,,,,,,,
-285,29,Sun,2024-03-17,,Juventus,,,,Genoa,,Allianz Stadium,,,,,,,,,
-286,29,Sun,2024-03-17,,Monza,,,,Cagliari,,U-Power Stadium,,,,,,,,,
-287,29,Sun,2024-03-17,,Roma,,,,Sassuolo,,Stadio Olimpico,,,,,,,,,
-288,29,Sun,2024-03-17,,Salernitana,,,,Lecce,,Stadio Arechi,,,,,,,,,
-289,29,Sun,2024-03-17,,Udinese,,,,Torino,,Dacia Arena,,,,,,,,,
-290,30,Sat,2024-03-30,,Bologna,,,,Salernitana,,Stadio Renato Dall'Ara,,,,,,,,,
-291,30,Sat,2024-03-30,,Cagliari,,,,Hellas Verona,,Unipol Domus,,,,,,,,,
-292,30,Sat,2024-03-30,,Fiorentina,,,,Milan,,Stadio Artemio Franchi,,,,,,,,,
-293,30,Sat,2024-03-30,,Genoa,,,,Frosinone,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-294,30,Sat,2024-03-30,,Inter,,,,Empoli,,Stadio Giuseppe Meazza,,,,,,,,,
-295,30,Sat,2024-03-30,,Lazio,,,,Juventus,,Stadio Olimpico,,,,,,,,,
-296,30,Sat,2024-03-30,,Lecce,,,,Roma,,Stadio Comunale Via Del Mare,,,,,,,,,
-297,30,Sat,2024-03-30,,Napoli,,,,Atalanta,,Stadio Diego Armando Maradona,,,,,,,,,
-298,30,Sat,2024-03-30,,Sassuolo,,,,Udinese,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-299,30,Sat,2024-03-30,,Torino,,,,Monza,,Stadio Olimpico di Torino,,,,,,,,,
-300,31,Sun,2024-04-07,,Cagliari,,,,Atalanta,,Unipol Domus,,,,,,,,,
-301,31,Sun,2024-04-07,,Empoli,,,,Torino,,Stadio Carlo Castellani,,,,,,,,,
-302,31,Sun,2024-04-07,,Frosinone,,,,Bologna,,Stadio Benito Stirpe,,,,,,,,,
-303,31,Sun,2024-04-07,,Hellas Verona,,,,Genoa,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-304,31,Sun,2024-04-07,,Juventus,,,,Fiorentina,,Allianz Stadium,,,,,,,,,
-305,31,Sun,2024-04-07,,Milan,,,,Lecce,,Stadio Giuseppe Meazza,,,,,,,,,
-306,31,Sun,2024-04-07,,Monza,,,,Napoli,,U-Power Stadium,,,,,,,,,
-307,31,Sun,2024-04-07,,Roma,,,,Lazio,,Stadio Olimpico,,,,,,,,,
-308,31,Sun,2024-04-07,,Salernitana,,,,Sassuolo,,Stadio Arechi,,,,,,,,,
-309,31,Sun,2024-04-07,,Udinese,,,,Inter,,Dacia Arena,,,,,,,,,
-310,32,Sun,2024-04-14,,Atalanta,,,,Hellas Verona,,Gewiss Stadium,,,,,,,,,
-311,32,Sun,2024-04-14,,Bologna,,,,Monza,,Stadio Renato Dall'Ara,,,,,,,,,
-312,32,Sun,2024-04-14,,Fiorentina,,,,Genoa,,Stadio Artemio Franchi,,,,,,,,,
-313,32,Sun,2024-04-14,,Inter,,,,Cagliari,,Stadio Giuseppe Meazza,,,,,,,,,
-314,32,Sun,2024-04-14,,Lazio,,,,Salernitana,,Stadio Olimpico,,,,,,,,,
-315,32,Sun,2024-04-14,,Lecce,,,,Empoli,,Stadio Comunale Via Del Mare,,,,,,,,,
-316,32,Sun,2024-04-14,,Napoli,,,,Frosinone,,Stadio Diego Armando Maradona,,,,,,,,,
-317,32,Sun,2024-04-14,,Sassuolo,,,,Milan,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-318,32,Sun,2024-04-14,,Torino,,,,Juventus,,Stadio Olimpico di Torino,,,,,,,,,
-319,32,Sun,2024-04-14,,Udinese,,,,Roma,,Dacia Arena,,,,,,,,,
-320,33,Sun,2024-04-21,,Cagliari,,,,Juventus,,Unipol Domus,,,,,,,,,
-321,33,Sun,2024-04-21,,Empoli,,,,Napoli,,Stadio Carlo Castellani,,,,,,,,,
-322,33,Sun,2024-04-21,,Genoa,,,,Lazio,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-323,33,Sun,2024-04-21,,Hellas Verona,,,,Udinese,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-324,33,Sun,2024-04-21,,Milan,,,,Inter,,Stadio Giuseppe Meazza,,,,,,,,,
-325,33,Sun,2024-04-21,,Monza,,,,Atalanta,,U-Power Stadium,,,,,,,,,
-326,33,Sun,2024-04-21,,Roma,,,,Bologna,,Stadio Olimpico,,,,,,,,,
-327,33,Sun,2024-04-21,,Salernitana,,,,Fiorentina,,Stadio Arechi,,,,,,,,,
-328,33,Sun,2024-04-21,,Sassuolo,,,,Lecce,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-329,33,Sun,2024-04-21,,Torino,,,,Frosinone,,Stadio Olimpico di Torino,,,,,,,,,
-330,34,Sun,2024-04-28,,Atalanta,,,,Empoli,,Gewiss Stadium,,,,,,,,,
-331,34,Sun,2024-04-28,,Bologna,,,,Udinese,,Stadio Renato Dall'Ara,,,,,,,,,
-332,34,Sun,2024-04-28,,Fiorentina,,,,Sassuolo,,Stadio Artemio Franchi,,,,,,,,,
-333,34,Sun,2024-04-28,,Frosinone,,,,Salernitana,,Stadio Benito Stirpe,,,,,,,,,
-334,34,Sun,2024-04-28,,Genoa,,,,Cagliari,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-335,34,Sun,2024-04-28,,Inter,,,,Torino,,Stadio Giuseppe Meazza,,,,,,,,,
-336,34,Sun,2024-04-28,,Juventus,,,,Milan,,Allianz Stadium,,,,,,,,,
-337,34,Sun,2024-04-28,,Lazio,,,,Hellas Verona,,Stadio Olimpico,,,,,,,,,
-338,34,Sun,2024-04-28,,Lecce,,,,Monza,,Stadio Comunale Via Del Mare,,,,,,,,,
-339,34,Sun,2024-04-28,,Napoli,,,,Roma,,Stadio Diego Armando Maradona,,,,,,,,,
-340,35,Sun,2024-05-05,,Cagliari,,,,Lecce,,Unipol Domus,,,,,,,,,
-341,35,Sun,2024-05-05,,Empoli,,,,Frosinone,,Stadio Carlo Castellani,,,,,,,,,
-342,35,Sun,2024-05-05,,Hellas Verona,,,,Fiorentina,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-343,35,Sun,2024-05-05,,Milan,,,,Genoa,,Stadio Giuseppe Meazza,,,,,,,,,
-344,35,Sun,2024-05-05,,Monza,,,,Lazio,,U-Power Stadium,,,,,,,,,
-345,35,Sun,2024-05-05,,Roma,,,,Juventus,,Stadio Olimpico,,,,,,,,,
-346,35,Sun,2024-05-05,,Salernitana,,,,Atalanta,,Stadio Arechi,,,,,,,,,
-347,35,Sun,2024-05-05,,Sassuolo,,,,Inter,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-348,35,Sun,2024-05-05,,Torino,,,,Bologna,,Stadio Olimpico di Torino,,,,,,,,,
-349,35,Sun,2024-05-05,,Udinese,,,,Napoli,,Dacia Arena,,,,,,,,,
-350,36,Sun,2024-05-12,,Atalanta,,,,Roma,,Gewiss Stadium,,,,,,,,,
-351,36,Sun,2024-05-12,,Fiorentina,,,,Monza,,Stadio Artemio Franchi,,,,,,,,,
-352,36,Sun,2024-05-12,,Frosinone,,,,Inter,,Stadio Benito Stirpe,,,,,,,,,
-353,36,Sun,2024-05-12,,Genoa,,,,Sassuolo,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-354,36,Sun,2024-05-12,,Hellas Verona,,,,Torino,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-355,36,Sun,2024-05-12,,Juventus,,,,Salernitana,,Allianz Stadium,,,,,,,,,
-356,36,Sun,2024-05-12,,Lazio,,,,Empoli,,Stadio Olimpico,,,,,,,,,
-357,36,Sun,2024-05-12,,Lecce,,,,Udinese,,Stadio Comunale Via Del Mare,,,,,,,,,
-358,36,Sun,2024-05-12,,Milan,,,,Cagliari,,Stadio Giuseppe Meazza,,,,,,,,,
-359,36,Sun,2024-05-12,,Napoli,,,,Bologna,,Stadio Diego Armando Maradona,,,,,,,,,
-360,37,Sun,2024-05-19,,Bologna,,,,Juventus,,Stadio Renato Dall'Ara,,,,,,,,,
-361,37,Sun,2024-05-19,,Fiorentina,,,,Napoli,,Stadio Artemio Franchi,,,,,,,,,
-362,37,Sun,2024-05-19,,Inter,,,,Lazio,,Stadio Giuseppe Meazza,,,,,,,,,
-363,37,Sun,2024-05-19,,Lecce,,,,Atalanta,,Stadio Comunale Via Del Mare,,,,,,,,,
-364,37,Sun,2024-05-19,,Monza,,,,Frosinone,,U-Power Stadium,,,,,,,,,
-365,37,Sun,2024-05-19,,Roma,,,,Genoa,,Stadio Olimpico,,,,,,,,,
-366,37,Sun,2024-05-19,,Salernitana,,,,Hellas Verona,,Stadio Arechi,,,,,,,,,
-367,37,Sun,2024-05-19,,Sassuolo,,,,Cagliari,,Mapei Stadium - Città del Tricolore,,,,,,,,,
-368,37,Sun,2024-05-19,,Torino,,,,Milan,,Stadio Olimpico di Torino,,,,,,,,,
-369,37,Sun,2024-05-19,,Udinese,,,,Empoli,,Dacia Arena,,,,,,,,,
-370,38,Sun,2024-05-26,,Atalanta,,,,Torino,,Gewiss Stadium,,,,,,,,,
-371,38,Sun,2024-05-26,,Cagliari,,,,Fiorentina,,Unipol Domus,,,,,,,,,
-372,38,Sun,2024-05-26,,Empoli,,,,Roma,,Stadio Carlo Castellani,,,,,,,,,
-373,38,Sun,2024-05-26,,Frosinone,,,,Udinese,,Stadio Benito Stirpe,,,,,,,,,
-374,38,Sun,2024-05-26,,Genoa,,,,Bologna,,Stadio Comunale Luigi Ferraris,,,,,,,,,
-375,38,Sun,2024-05-26,,Hellas Verona,,,,Inter,,Stadio Marc'Antonio Bentegodi,,,,,,,,,
-376,38,Sun,2024-05-26,,Juventus,,,,Monza,,Allianz Stadium,,,,,,,,,
-377,38,Sun,2024-05-26,,Lazio,,,,Sassuolo,,Stadio Olimpico,,,,,,,,,
-378,38,Sun,2024-05-26,,Milan,,,,Salernitana,,Stadio Giuseppe Meazza,,,,,,,,,
-379,38,Sun,2024-05-26,,Napoli,,,,Lecce,,Stadio Diego Armando Maradona,,,,,,,,,
+,week,day,Date,time,HomeTeam,home_xg,score,away_xg,AwayTeam,attendance,venue,Referee,match_report,notes,game_id,BbAv>2.5,BbAv<2.5,BbAvH,BbAvD,BbAvA,Venue
+0,1,Sat,2023-08-19,18:30,Empoli,0.7,0–1,0.5,Hellas Verona,,Stadio Carlo Castellani,Luca Massimi,/en/matches/b787871d/Empoli-Hellas-Verona-August-19-2023-Serie-A,,b787871d,,,,,,Home
+1,1,Sat,2023-08-19,18:30,Frosinone,0.9,1–3,1.5,Napoli,,Stadio Benito Stirpe,Matteo Marcenaro,/en/matches/305afcf5/Frosinone-Napoli-August-19-2023-Serie-A,,305afcf5,,,,,,Home
+2,1,Sat,2023-08-19,20:45,Genoa,0.2,1–4,1.0,Fiorentina,,Stadio Comunale Luigi Ferraris,Giovanni Ayroldi,/en/matches/8260e428/Genoa-Fiorentina-August-19-2023-Serie-A,,8260e428,,,,,,Home
+3,1,Sat,2023-08-19,20:45,Inter,2.7,2–0,0.8,Monza,,Stadio Giuseppe Meazza,Andrea Colombo,/en/matches/254420f7/Internazionale-Monza-August-19-2023-Serie-A,,254420f7,,,,,,Home
+4,1,Sun,2023-08-20,20:45,Lecce,1.4,2–1,1.6,Lazio,,Stadio Comunale Via Del Mare,Federico Dionisi,/en/matches/3e38d727/Lecce-Lazio-August-20-2023-Serie-A,,3e38d727,,,,,,Home
+5,1,Sun,2023-08-20,18:30,Roma,1.9,2–2,0.1,Salernitana,,Stadio Olimpico,Ermanno Feliciani,/en/matches/9191f715/Roma-Salernitana-August-20-2023-Serie-A,,9191f715,,,,,,Home
+6,1,Sun,2023-08-20,18:30,Sassuolo,0.4,0–2,1.3,Atalanta,,Mapei Stadium - Città del Tricolore,Matteo Marchetti,/en/matches/32dc37db/Sassuolo-Atalanta-August-20-2023-Serie-A,,32dc37db,,,,,,Home
+7,1,Sun,2023-08-20,20:45,Udinese,1.0,0–3,1.8,Juventus,,Dacia Arena,Antonio Rapuano,/en/matches/8b6e8a62/Udinese-Juventus-August-20-2023-Serie-A,,8b6e8a62,,,,,,Home
+8,1,Mon,2023-08-21,20:45,Bologna,1.0,0–2,0.9,Milan,,Stadio Renato Dall'Ara,Luca Pairetto,/en/matches/93dccf6e/Bologna-Milan-August-21-2023-Serie-A,,93dccf6e,,,,,,Home
+9,1,Mon,2023-08-21,18:30,Torino,1.0,0–0,0.4,Cagliari,,Stadio Olimpico di Torino,Francesco Cosso,/en/matches/fdc03e7f/Torino-Cagliari-August-21-2023-Serie-A,,fdc03e7f,,,,,,Home
+10,2,Sat,2023-08-26,18:30,Frosinone,0.7,2–1,1.6,Atalanta,,Stadio Benito Stirpe,Juan Sacchi,/en/matches/0b355cdd/Frosinone-Atalanta-August-26-2023-Serie-A,,0b355cdd,,,,,,Home
+11,2,Sat,2023-08-26,20:45,Hellas Verona,0.7,2–1,1.5,Roma,,Stadio Marc'Antonio Bentegodi,Daniele Doveri,/en/matches/3c6a9d3d/Hellas-Verona-Roma-August-26-2023-Serie-A,,3c6a9d3d,,,,,,Home
+12,2,Sat,2023-08-26,20:45,Milan,3.0,4–1,0.5,Torino,,Stadio Giuseppe Meazza,Maurizio Mariani,/en/matches/4cc2731e/Milan-Torino-August-26-2023-Serie-A,,4cc2731e,,,,,,Home
+13,2,Sat,2023-08-26,18:30,Monza,2.0,2–0,1.0,Empoli,,U-Power Stadium,Gianluca Aureliano,/en/matches/3d880bc3/Monza-Empoli-August-26-2023-Serie-A,,3d880bc3,,,,,,Home
+14,2,Sun,2023-08-27,18:30,Fiorentina,1.3,2–2,0.3,Lecce,,Stadio Artemio Franchi,Maria Sole Ferrieri Caputi,/en/matches/d179c57a/Fiorentina-Lecce-August-27-2023-Serie-A,,d179c57a,,,,,,Home
+15,2,Sun,2023-08-27,18:30,Juventus,0.8,1–1,0.5,Bologna,,Allianz Stadium,Marco Di Bello,/en/matches/6992283e/Juventus-Bologna-August-27-2023-Serie-A,,6992283e,,,,,,Home
+16,2,Sun,2023-08-27,20:45,Lazio,1.4,0–1,0.6,Genoa,,Stadio Olimpico,Livio Marinelli,/en/matches/e7878318/Lazio-Genoa-August-27-2023-Serie-A,,e7878318,,,,,,Home
+17,2,Sun,2023-08-27,20:45,Napoli,3.5,2–0,0.2,Sassuolo,,Stadio Diego Armando Maradona,Antonio Giua,/en/matches/4401df22/Napoli-Sassuolo-August-27-2023-Serie-A,,4401df22,,,,,,Home
+18,2,Mon,2023-08-28,20:45,Cagliari,0.6,0–2,0.9,Inter,,Unipol Domus,Michael Fabbri,/en/matches/631e94b3/Cagliari-Internazionale-August-28-2023-Serie-A,,631e94b3,,,,,,Home
+19,2,Mon,2023-08-28,18:30,Salernitana,0.5,1–1,0.8,Udinese,,Stadio Arechi,Davide Massa,/en/matches/767c80b3/Salernitana-Udinese-August-28-2023-Serie-A,,767c80b3,,,,,,Home
+20,3,Fri,2023-09-01,20:45,Roma,0.7,1–2,1.5,Milan,,Stadio Olimpico,Antonio Rapuano,/en/matches/03e9b7f3/Roma-Milan-September-1-2023-Serie-A,,03e9b7f3,,,,,,Home
+21,3,Fri,2023-09-01,18:30,Sassuolo,1.7,3–1,0.6,Hellas Verona,,Mapei Stadium - Città del Tricolore,Marco Piccinini,/en/matches/ebe46174/Sassuolo-Hellas-Verona-September-1-2023-Serie-A,,ebe46174,,,,,,Home
+22,3,Sat,2023-09-02,20:45,Atalanta,1.3,3–0,0.4,Monza,,Gewiss Stadium,Matteo Marcenaro,/en/matches/6e72c38b/Atalanta-Monza-September-2-2023-Serie-A,,6e72c38b,,,,,,Home
+23,3,Sat,2023-09-02,18:30,Bologna,2.3,2–1,0.5,Cagliari,,Stadio Renato Dall'Ara,Daniele Orsato,/en/matches/1b8aeae3/Bologna-Cagliari-September-2-2023-Serie-A,,1b8aeae3,,,,,,Home
+24,3,Sat,2023-09-02,20:45,Napoli,1.3,1–2,0.6,Lazio,,Stadio Diego Armando Maradona,Andrea Colombo,/en/matches/2c2145a0/Napoli-Lazio-September-2-2023-Serie-A,,2c2145a0,,,,,,Home
+25,3,Sat,2023-09-02,18:30,Udinese,1.5,0–0,1.8,Frosinone,,Dacia Arena,Marco Guida,/en/matches/6a639449/Udinese-Frosinone-September-2-2023-Serie-A,,6a639449,,,,,,Home
+26,3,Sun,2023-09-03,20:45,Empoli,0.3,0–2,2.7,Juventus,,Stadio Carlo Castellani,Giovanni Ayroldi,/en/matches/b14694a6/Empoli-Juventus-September-3-2023-Serie-A,,b14694a6,,,,,,Home
+27,3,Sun,2023-09-03,18:30,Inter,3.7,4–0,0.4,Fiorentina,,Stadio Giuseppe Meazza,Matteo Marchetti,/en/matches/c59bb445/Internazionale-Fiorentina-September-3-2023-Serie-A,,c59bb445,,,,,,Home
+28,3,Sun,2023-09-03,20:45,Lecce,1.7,2–0,1.1,Salernitana,,Stadio Comunale Via Del Mare,Luca Massimi,/en/matches/79dc2417/Lecce-Salernitana-September-3-2023-Serie-A,,79dc2417,,,,,,Home
+29,3,Sun,2023-09-03,18:30,Torino,0.4,1–0,0.2,Genoa,,Stadio Olimpico di Torino,Daniele Chiffi,/en/matches/83d4ffcd/Torino-Genoa-September-3-2023-Serie-A,,83d4ffcd,,,,,,Home
+30,4,Sat,2023-09-16,20:45,Genoa,1.2,2–2,0.9,Napoli,,Stadio Comunale Luigi Ferraris,Michael Fabbri,/en/matches/528f1128/Genoa-Napoli-September-16-2023-Serie-A,,528f1128,,,,,,Home
+31,4,Sat,2023-09-16,18:00,Inter,2.6,5–1,1.1,Milan,,Stadio Giuseppe Meazza,Simone Sozza,/en/matches/10a39d69/Derby-della-Madonnina-Internazionale-Milan-September-16-2023-Serie-A,,10a39d69,,,,,,Home
+32,4,Sat,2023-09-16,15:00,Juventus,2.2,3–1,0.6,Lazio,,Allianz Stadium,Fabio Maresca,/en/matches/b3226234/Juventus-Lazio-September-16-2023-Serie-A,,b3226234,,,,,,Home
+33,4,Sun,2023-09-17,12:30,Cagliari,1.6,0–0,0.7,Udinese,,Unipol Domus,Daniele Doveri,/en/matches/3ac89aa7/Cagliari-Udinese-September-17-2023-Serie-A,,3ac89aa7,,,,,,Home
+34,4,Sun,2023-09-17,18:00,Fiorentina,1.1,3–2,0.7,Atalanta,,Stadio Artemio Franchi,Luca Pairetto,/en/matches/2a18afe9/Fiorentina-Atalanta-September-17-2023-Serie-A,,2a18afe9,,,,,,Home
+35,4,Sun,2023-09-17,15:00,Frosinone,2.8,4–2,1.3,Sassuolo,,Stadio Benito Stirpe,Alessandro Prontera,/en/matches/f3fd4b8a/Frosinone-Sassuolo-September-17-2023-Serie-A,,f3fd4b8a,,,,,,Home
+36,4,Sun,2023-09-17,15:00,Monza,2.2,1–1,0.9,Lecce,,U-Power Stadium,Livio Marinelli,/en/matches/3cf257a0/Monza-Lecce-September-17-2023-Serie-A,,3cf257a0,,,,,,Home
+37,4,Sun,2023-09-17,20:45,Roma,2.4,7–0,0.2,Empoli,,Stadio Olimpico,Juan Sacchi,/en/matches/f164bc78/Roma-Empoli-September-17-2023-Serie-A,,f164bc78,,,,,,Home
+38,4,Mon,2023-09-18,20:45,Hellas Verona,0.4,0–0,0.6,Bologna,,Stadio Marc'Antonio Bentegodi,Federico La Penna,/en/matches/2e114c4b/Hellas-Verona-Bologna-September-18-2023-Serie-A,,2e114c4b,,,,,,Home
+39,4,Mon,2023-09-18,18:30,Salernitana,0.7,0–3,1.8,Torino,,Stadio Arechi,Antonio Giua,/en/matches/a9334418/Salernitana-Torino-September-18-2023-Serie-A,,a9334418,,,,,,Home
+40,5,Fri,2023-09-22,20:45,Lecce,0.9,1–0,0.3,Genoa,27000,Stadio Comunale Via Del Mare,Antonio Rapuano,/en/matches/c66e200a/Lecce-Genoa-September-22-2023-Serie-A,,c66e200a,,,,,,Home
+41,5,Fri,2023-09-22,18:30,Salernitana,1.1,1–1,0.7,Frosinone,,Stadio Arechi,Marco Piccinini,/en/matches/da7586b5/Salernitana-Frosinone-September-22-2023-Serie-A,,da7586b5,,,,,,Home
+42,5,Sat,2023-09-23,20:45,Lazio,1.0,1–1,1.2,Monza,,Stadio Olimpico,Rosario Abisso,/en/matches/5778b5c6/Lazio-Monza-September-23-2023-Serie-A,,5778b5c6,,,,,,Home
+43,5,Sat,2023-09-23,15:00,Milan,0.9,1–0,0.6,Hellas Verona,,Stadio Giuseppe Meazza,Fabio Maresca,/en/matches/bbc5eb68/Milan-Hellas-Verona-September-23-2023-Serie-A,,bbc5eb68,,,,,,Home
+44,5,Sat,2023-09-23,18:00,Sassuolo,0.8,4–2,0.7,Juventus,,Mapei Stadium - Città del Tricolore,Andrea Colombo,/en/matches/14cf8fd1/Sassuolo-Juventus-September-23-2023-Serie-A,,14cf8fd1,,,,,,Home
+45,5,Sun,2023-09-24,15:00,Atalanta,1.7,2–0,0.8,Cagliari,,Gewiss Stadium,Ermanno Feliciani,/en/matches/915c6bb6/Atalanta-Cagliari-September-24-2023-Serie-A,,915c6bb6,,,,,,Home
+46,5,Sun,2023-09-24,18:00,Bologna,0.2,0–0,2.1,Napoli,,Stadio Renato Dall'Ara,Giovanni Ayroldi,/en/matches/17137b70/Bologna-Napoli-September-24-2023-Serie-A,,17137b70,,,,,,Home
+47,5,Sun,2023-09-24,12:30,Empoli,0.3,0–1,1.6,Inter,,Stadio Carlo Castellani,Matteo Marcenaro,/en/matches/8d6212de/Empoli-Internazionale-September-24-2023-Serie-A,,8d6212de,,,,,,Home
+48,5,Sun,2023-09-24,20:45,Torino,0.9,1–1,1.4,Roma,,Stadio Olimpico di Torino,Marco Guida,/en/matches/fdd625ef/Torino-Roma-September-24-2023-Serie-A,,fdd625ef,,,,,,Home
+49,5,Sun,2023-09-24,15:00,Udinese,2.2,0–2,0.5,Fiorentina,,Dacia Arena,Daniele Chiffi,/en/matches/a7ffc8e0/Udinese-Fiorentina-September-24-2023-Serie-A,,a7ffc8e0,,,,,,Home
+50,6,Tue,2023-09-26,20:45,Juventus,1.4,1–0,0.1,Lecce,,Allianz Stadium,Antonio Giua,/en/matches/eb1af48a/Juventus-Lecce-September-26-2023-Serie-A,,eb1af48a,,,,,,Home
+51,6,Wed,2023-09-27,18:30,Cagliari,0.9,1–3,2.1,Milan,,Unipol Domus,Federico La Penna,/en/matches/520c6833/Cagliari-Milan-September-27-2023-Serie-A,,520c6833,,,,,,Home
+52,6,Wed,2023-09-27,18:30,Empoli,3.2,1–0,0.6,Salernitana,,Stadio Carlo Castellani,Antonio Rapuano,/en/matches/46a8983c/Empoli-Salernitana-September-27-2023-Serie-A,,46a8983c,,,,,,Home
+53,6,Wed,2023-09-27,18:30,Hellas Verona,0.5,0–1,1.2,Atalanta,,Stadio Marc'Antonio Bentegodi,Federico Dionisi,/en/matches/3e492e66/Hellas-Verona-Atalanta-September-27-2023-Serie-A,,3e492e66,,,,,,Home
+54,6,Wed,2023-09-27,20:45,Inter,0.9,1–2,1.0,Sassuolo,,Stadio Giuseppe Meazza,Luca Massimi,/en/matches/e70ac4b1/Internazionale-Sassuolo-September-27-2023-Serie-A,,e70ac4b1,,,,,,Home
+55,6,Wed,2023-09-27,20:45,Lazio,0.9,2–0,0.3,Torino,,Stadio Olimpico,Michael Fabbri,/en/matches/69d105e3/Lazio-Torino-September-27-2023-Serie-A,,69d105e3,,,,,,Home
+56,6,Wed,2023-09-27,20:45,Napoli,3.3,4–1,0.7,Udinese,,Stadio Diego Armando Maradona,Gianluca Manganiello,/en/matches/464aa9ae/Napoli-Udinese-September-27-2023-Serie-A,,464aa9ae,,,,,,Home
+57,6,Thu,2023-09-28,18:30,Frosinone,0.7,1–1,1.4,Fiorentina,,Stadio Benito Stirpe,Francesco Fourneau,/en/matches/c8e4b03a/Frosinone-Fiorentina-September-28-2023-Serie-A,,c8e4b03a,,,,,,Home
+58,6,Thu,2023-09-28,20:45,Genoa,1.1,4–1,1.4,Roma,,Stadio Comunale Luigi Ferraris,Daniele Orsato,/en/matches/44c33847/Genoa-Roma-September-28-2023-Serie-A,,44c33847,,,,,,Home
+59,6,Thu,2023-09-28,18:30,Monza,0.7,0–0,0.7,Bologna,,U-Power Stadium,Ivan Pezzuto,/en/matches/9a8e6c44/Monza-Bologna-September-28-2023-Serie-A,,9a8e6c44,,,,,,Home
+60,7,Sat,2023-09-30,15:00,Lecce,0.5,0–4,2.5,Napoli,,Stadio Comunale Via Del Mare,Luca Pairetto,/en/matches/4c10f199/Lecce-Napoli-September-30-2023-Serie-A,,4c10f199,,,,,,Home
+61,7,Sat,2023-09-30,18:00,Milan,2.2,2–0,0.5,Lazio,,Stadio Giuseppe Meazza,Davide Massa,/en/matches/a315e1cc/Milan-Lazio-September-30-2023-Serie-A,,a315e1cc,,,,,,Home
+62,7,Sat,2023-09-30,20:45,Salernitana,0.6,0–4,2.3,Inter,,Stadio Arechi,Rosario Abisso,/en/matches/276d542d/Salernitana-Internazionale-September-30-2023-Serie-A,,276d542d,,,,,,Home
+63,7,Sun,2023-10-01,18:00,Atalanta,1.2,0–0,0.2,Juventus,,Gewiss Stadium,Daniele Chiffi,/en/matches/13a50e02/Atalanta-Juventus-October-1-2023-Serie-A,,13a50e02,,,,,,Home
+64,7,Sun,2023-10-01,12:30,Bologna,2.4,3–0,0.9,Empoli,,Stadio Renato Dall'Ara,Fabio Maresca,/en/matches/8f129029/Bologna-Empoli-October-1-2023-Serie-A,,8f129029,,,,,,Home
+65,7,Sun,2023-10-01,20:45,Roma,0.6,2–0,0.9,Frosinone,,Stadio Olimpico,Matteo Marchetti,/en/matches/0133f321/Roma-Frosinone-October-1-2023-Serie-A,,0133f321,,,,,,Home
+66,7,Sun,2023-10-01,15:00,Udinese,1.3,2–2,0.8,Genoa,,Dacia Arena,Maurizio Mariani,/en/matches/507d7e86/Udinese-Genoa-October-1-2023-Serie-A,,507d7e86,,,,,,Home
+67,7,Mon,2023-10-02,20:45,Fiorentina,1.2,3–0,0.8,Cagliari,,Stadio Artemio Franchi,Marco Di Bello,/en/matches/7dd8d98a/Fiorentina-Cagliari-October-2-2023-Serie-A,,7dd8d98a,,,,,,Home
+68,7,Mon,2023-10-02,18:30,Sassuolo,1.4,0–1,1.5,Monza,,Mapei Stadium - Città del Tricolore,Luca Zufferli,/en/matches/13b84a7a/Sassuolo-Monza-October-2-2023-Serie-A,,13b84a7a,,,,,,Home
+69,7,Mon,2023-10-02,18:30,Torino,0.6,0–0,0.3,Hellas Verona,,Stadio Olimpico di Torino,Ermanno Feliciani,/en/matches/ea8ff4b0/Torino-Hellas-Verona-October-2-2023-Serie-A,,ea8ff4b0,,,,,,Home
+70,8,Fri,2023-10-06,18:30,Empoli,1.3,0–0,0.7,Udinese,,Stadio Carlo Castellani,Michael Fabbri,/en/matches/2397e099/Empoli-Udinese-October-6-2023-Serie-A,,2397e099,,,,,,Home
+71,8,Fri,2023-10-06,20:45,Lecce,1.7,1–1,1.5,Sassuolo,,Stadio Comunale Via Del Mare,Juan Sacchi,/en/matches/26509ebd/Lecce-Sassuolo-October-6-2023-Serie-A,,26509ebd,,,,,,Home
+72,8,Sat,2023-10-07,20:45,Genoa,,,,Milan,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+73,8,Sat,2023-10-07,15:00,Inter,,,,Bologna,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+74,8,Sat,2023-10-07,18:00,Juventus,,,,Torino,,Allianz Stadium,,,,,,,,,,Home
+75,8,Sun,2023-10-08,18:00,Cagliari,,,,Roma,,Unipol Domus,,,,,,,,,,Home
+76,8,Sun,2023-10-08,15:00,Frosinone,,,,Hellas Verona,,Stadio Benito Stirpe,,,,,,,,,,Home
+77,8,Sun,2023-10-08,15:00,Lazio,,,,Atalanta,,Stadio Olimpico,,,,,,,,,,Home
+78,8,Sun,2023-10-08,12:30,Monza,,,,Salernitana,,U-Power Stadium,,,,,,,,,,Home
+79,8,Sun,2023-10-08,20:45,Napoli,,,,Fiorentina,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+80,9,Sat,2023-10-21,15:00,Hellas Verona,,,,Napoli,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+81,9,Sat,2023-10-21,20:45,Sassuolo,,,,Lazio,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+82,9,Sat,2023-10-21,18:00,Torino,,,,Inter,,Stadio Olimpico di Torino,,,,,,,,,,Home
+83,9,Sun,2023-10-22,18:00,Atalanta,,,,Genoa,,Gewiss Stadium,,,,,,,,,,Home
+84,9,Sun,2023-10-22,15:00,Bologna,,,,Frosinone,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+85,9,Sun,2023-10-22,20:45,Milan,,,,Juventus,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+86,9,Sun,2023-10-22,12:30,Roma,,,,Monza,,Stadio Olimpico,,,,,,,,,,Home
+87,9,Sun,2023-10-22,15:00,Salernitana,,,,Cagliari,,Stadio Arechi,,,,,,,,,,Home
+88,9,Mon,2023-10-23,20:45,Fiorentina,,,,Empoli,,Stadio Artemio Franchi,,,,,,,,,,Home
+89,9,Mon,2023-10-23,18:30,Udinese,,,,Lecce,,Dacia Arena,,,,,,,,,,Home
+90,10,Fri,2023-10-27,20:45,Genoa,,,,Salernitana,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+91,10,Sat,2023-10-28,20:45,Juventus,,,,Hellas Verona,,Allianz Stadium,,,,,,,,,,Home
+92,10,Sat,2023-10-28,18:00,Lecce,,,,Torino,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+93,10,Sat,2023-10-28,15:00,Sassuolo,,,,Bologna,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+94,10,Sun,2023-10-29,12:30,Cagliari,,,,Frosinone,,Unipol Domus,,,,,,,,,,Home
+95,10,Sun,2023-10-29,18:00,Inter,,,,Roma,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+96,10,Sun,2023-10-29,15:00,Monza,,,,Udinese,,U-Power Stadium,,,,,,,,,,Home
+97,10,Sun,2023-10-29,20:45,Napoli,,,,Milan,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+98,10,Mon,2023-10-30,18:30,Empoli,,,,Atalanta,,Stadio Carlo Castellani,,,,,,,,,,Home
+99,10,Mon,2023-10-30,20:45,Lazio,,,,Fiorentina,,Stadio Olimpico,,,,,,,,,,Home
+100,11,Fri,2023-11-03,20:45,Bologna,,,,Lazio,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+101,11,Sat,2023-11-04,18:00,Atalanta,,,,Inter,,Gewiss Stadium,,,,,,,,,,Home
+102,11,Sat,2023-11-04,20:45,Milan,,,,Udinese,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+103,11,Sat,2023-11-04,15:00,Salernitana,,,,Napoli,,Stadio Arechi,,,,,,,,,,Home
+104,11,Sun,2023-11-05,15:00,Cagliari,,,,Genoa,,Unipol Domus,,,,,,,,,,Home
+105,11,Sun,2023-11-05,20:45,Fiorentina,,,,Juventus,,Stadio Artemio Franchi,,,,,,,,,,Home
+106,11,Sun,2023-11-05,12:30,Hellas Verona,,,,Monza,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+107,11,Sun,2023-11-05,18:00,Roma,,,,Lecce,,Stadio Olimpico,,,,,,,,,,Home
+108,11,Mon,2023-11-06,18:30,Frosinone,,,,Empoli,,Stadio Benito Stirpe,,,,,,,,,,Home
+109,11,Mon,2023-11-06,20:45,Torino,,,,Sassuolo,,Stadio Olimpico di Torino,,,,,,,,,,Home
+110,12,Fri,2023-11-10,20:45,Genoa,,,,Hellas Verona,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+111,12,Fri,2023-11-10,18:30,Sassuolo,,,,Salernitana,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+112,12,Sat,2023-11-11,18:00,Juventus,,,,Cagliari,,Allianz Stadium,,,,,,,,,,Home
+113,12,Sat,2023-11-11,15:00,Lecce,,,,Milan,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+114,12,Sat,2023-11-11,20:45,Monza,,,,Torino,,U-Power Stadium,,,,,,,,,,Home
+115,12,Sun,2023-11-12,15:00,Fiorentina,,,,Bologna,,Stadio Artemio Franchi,,,,,,,,,,Home
+116,12,Sun,2023-11-12,20:45,Inter,,,,Frosinone,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+117,12,Sun,2023-11-12,18:00,Lazio,,,,Roma,,Stadio Olimpico,,,,,,,,,,Home
+118,12,Sun,2023-11-12,12:30,Napoli,,,,Empoli,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+119,12,Sun,2023-11-12,15:00,Udinese,,,,Atalanta,,Dacia Arena,,,,,,,,,,Home
+120,13,Sat,2023-11-25,18:00,Atalanta,,,,Napoli,,Gewiss Stadium,,,,,,,,,,Home
+121,13,Sat,2023-11-25,20:45,Milan,,,,Fiorentina,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+122,13,Sat,2023-11-25,15:00,Salernitana,,,,Lazio,,Stadio Arechi,,,,,,,,,,Home
+123,13,Sun,2023-11-26,12:30,Cagliari,,,,Monza,,Unipol Domus,,,,,,,,,,Home
+124,13,Sun,2023-11-26,15:00,Empoli,,,,Sassuolo,,Stadio Carlo Castellani,,,,,,,,,,Home
+125,13,Sun,2023-11-26,15:00,Frosinone,,,,Genoa,,Stadio Benito Stirpe,,,,,,,,,,Home
+126,13,Sun,2023-11-26,20:45,Juventus,,,,Inter,,Allianz Stadium,,,,,,,,,,Home
+127,13,Sun,2023-11-26,18:00,Roma,,,,Udinese,,Stadio Olimpico,,,,,,,,,,Home
+128,13,Mon,2023-11-27,20:45,Bologna,,,,Torino,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+129,13,Mon,2023-11-27,18:30,Hellas Verona,,,,Lecce,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+130,14,Fri,2023-12-01,20:45,Monza,,,,Juventus,,U-Power Stadium,,,,,,,,,,Home
+131,14,Sat,2023-12-02,15:00,Genoa,,,,Empoli,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+132,14,Sat,2023-12-02,18:00,Lazio,,,,Cagliari,,Stadio Olimpico,,,,,,,,,,Home
+133,14,Sat,2023-12-02,20:45,Milan,,,,Frosinone,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+134,14,Sun,2023-12-03,15:00,Fiorentina,,,,Salernitana,,Stadio Artemio Franchi,,,,,,,,,,Home
+135,14,Sun,2023-12-03,12:30,Lecce,,,,Bologna,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+136,14,Sun,2023-12-03,20:45,Napoli,,,,Inter,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+137,14,Sun,2023-12-03,18:00,Sassuolo,,,,Roma,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+138,14,Sun,2023-12-03,15:00,Udinese,,,,Hellas Verona,,Dacia Arena,,,,,,,,,,Home
+139,14,Mon,2023-12-04,20:45,Torino,,,,Atalanta,,Stadio Olimpico di Torino,,,,,,,,,,Home
+140,15,Fri,2023-12-08,20:45,Juventus,,,,Napoli,,Allianz Stadium,,,,,,,,,,Home
+141,15,Sat,2023-12-09,18:00,Atalanta,,,,Milan,,Gewiss Stadium,,,,,,,,,,Home
+142,15,Sat,2023-12-09,15:00,Hellas Verona,,,,Lazio,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+143,15,Sat,2023-12-09,20:45,Inter,,,,Udinese,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+144,15,Sun,2023-12-10,12:30,Frosinone,,,,Torino,,Stadio Benito Stirpe,,,,,,,,,,Home
+145,15,Sun,2023-12-10,15:00,Monza,,,,Genoa,,U-Power Stadium,,,,,,,,,,Home
+146,15,Sun,2023-12-10,20:45,Roma,,,,Fiorentina,,Stadio Olimpico,,,,,,,,,,Home
+147,15,Sun,2023-12-10,18:00,Salernitana,,,,Bologna,,Stadio Arechi,,,,,,,,,,Home
+148,15,Mon,2023-12-11,20:45,Cagliari,,,,Sassuolo,,Unipol Domus,,,,,,,,,,Home
+149,15,Mon,2023-12-11,18:30,Empoli,,,,Lecce,,Stadio Carlo Castellani,,,,,,,,,,Home
+150,16,Fri,2023-12-15,20:45,Genoa,,,,Juventus,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+151,16,Sat,2023-12-16,15:00,Lecce,,,,Frosinone,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+152,16,Sat,2023-12-16,18:00,Napoli,,,,Cagliari,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+153,16,Sat,2023-12-16,20:45,Torino,,,,Empoli,,Stadio Olimpico di Torino,,,,,,,,,,Home
+154,16,Sun,2023-12-17,18:00,Bologna,,,,Roma,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+155,16,Sun,2023-12-17,15:00,Fiorentina,,,,Hellas Verona,,Stadio Artemio Franchi,,,,,,,,,,Home
+156,16,Sun,2023-12-17,20:45,Lazio,,,,Inter,,Stadio Olimpico,,,,,,,,,,Home
+157,16,Sun,2023-12-17,12:30,Milan,,,,Monza,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+158,16,Sun,2023-12-17,15:00,Udinese,,,,Sassuolo,,Dacia Arena,,,,,,,,,,Home
+159,16,Mon,2023-12-18,20:45,Atalanta,,,,Salernitana,,Gewiss Stadium,,,,,,,,,,Home
+160,17,Fri,2023-12-22,18:30,Empoli,,,,Lazio,,Stadio Carlo Castellani,,,,,,,,,,Home
+161,17,Fri,2023-12-22,20:45,Monza,,,,Fiorentina,,U-Power Stadium,,,,,,,,,,Home
+162,17,Fri,2023-12-22,20:45,Salernitana,,,,Milan,,Stadio Arechi,,,,,,,,,,Home
+163,17,Fri,2023-12-22,18:30,Sassuolo,,,,Genoa,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+164,17,Sat,2023-12-23,15:00,Bologna,,,,Atalanta,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+165,17,Sat,2023-12-23,12:30,Frosinone,,,,Juventus,,Stadio Benito Stirpe,,,,,,,,,,Home
+166,17,Sat,2023-12-23,18:00,Hellas Verona,,,,Cagliari,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+167,17,Sat,2023-12-23,18:00,Inter,,,,Lecce,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+168,17,Sat,2023-12-23,20:45,Roma,,,,Napoli,,Stadio Olimpico,,,,,,,,,,Home
+169,17,Sat,2023-12-23,15:00,Torino,,,,Udinese,,Stadio Olimpico di Torino,,,,,,,,,,Home
+170,18,Fri,2023-12-29,18:30,Fiorentina,,,,Torino,,Stadio Artemio Franchi,,,,,,,,,,Home
+171,18,Fri,2023-12-29,20:45,Genoa,,,,Inter,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+172,18,Fri,2023-12-29,20:45,Lazio,,,,Frosinone,,Stadio Olimpico,,,,,,,,,,Home
+173,18,Fri,2023-12-29,18:30,Napoli,,,,Monza,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+174,18,Sat,2023-12-30,12:30,Atalanta,,,,Lecce,,Gewiss Stadium,,,,,,,,,,Home
+175,18,Sat,2023-12-30,15:00,Cagliari,,,,Empoli,,Unipol Domus,,,,,,,,,,Home
+176,18,Sat,2023-12-30,18:00,Hellas Verona,,,,Salernitana,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+177,18,Sat,2023-12-30,20:45,Juventus,,,,Roma,,Allianz Stadium,,,,,,,,,,Home
+178,18,Sat,2023-12-30,18:00,Milan,,,,Sassuolo,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+179,18,Sat,2023-12-30,15:00,Udinese,,,,Bologna,,Dacia Arena,,,,,,,,,,Home
+180,19,Sat,2024-01-06,20:45,Bologna,,,,Genoa,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+181,19,Sat,2024-01-06,18:00,Empoli,,,,Milan,,Stadio Carlo Castellani,,,,,,,,,,Home
+182,19,Sat,2024-01-06,15:00,Lecce,,,,Cagliari,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+183,19,Sun,2024-01-07,15:00,Frosinone,,,,Monza,,Stadio Benito Stirpe,,,,,,,,,,Home
+184,19,Sun,2024-01-07,18:00,Roma,,,,Atalanta,,Stadio Olimpico,,,,,,,,,,Home
+185,19,Sun,2024-01-07,20:45,Salernitana,,,,Juventus,,Stadio Arechi,,,,,,,,,,Home
+186,20,Sun,2024-01-14,,Atalanta,,,,Frosinone,,Gewiss Stadium,,,,,,,,,,Home
+187,20,Sun,2024-01-14,,Cagliari,,,,Bologna,,Unipol Domus,,,,,,,,,,Home
+188,20,Sun,2024-01-14,,Fiorentina,,,,Udinese,,Stadio Artemio Franchi,,,,,,,,,,Home
+189,20,Sun,2024-01-14,,Genoa,,,,Torino,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+190,20,Sun,2024-01-14,,Hellas Verona,,,,Empoli,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+191,20,Sun,2024-01-14,,Juventus,,,,Sassuolo,,Allianz Stadium,,,,,,,,,,Home
+192,20,Sun,2024-01-14,,Lazio,,,,Lecce,,Stadio Olimpico,,,,,,,,,,Home
+193,20,Sun,2024-01-14,,Milan,,,,Roma,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+194,20,Sun,2024-01-14,,Monza,,,,Inter,,U-Power Stadium,,,,,,,,,,Home
+195,20,Sun,2024-01-14,,Napoli,,,,Salernitana,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+196,21,Sun,2024-01-21,,Bologna,,,,Fiorentina,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+197,21,Sun,2024-01-21,,Empoli,,,,Monza,,Stadio Carlo Castellani,,,,,,,,,,Home
+198,21,Sun,2024-01-21,,Frosinone,,,,Cagliari,,Stadio Benito Stirpe,,,,,,,,,,Home
+199,21,Sun,2024-01-21,,Inter,,,,Atalanta,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+200,21,Sun,2024-01-21,,Lecce,,,,Juventus,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+201,21,Sun,2024-01-21,,Roma,,,,Hellas Verona,,Stadio Olimpico,,,,,,,,,,Home
+202,21,Sun,2024-01-21,,Salernitana,,,,Genoa,,Stadio Arechi,,,,,,,,,,Home
+203,21,Sun,2024-01-21,,Sassuolo,,,,Napoli,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+204,21,Sun,2024-01-21,,Torino,,,,Lazio,,Stadio Olimpico di Torino,,,,,,,,,,Home
+205,21,Sun,2024-01-21,,Udinese,,,,Milan,,Dacia Arena,,,,,,,,,,Home
+206,19,Wed,2024-01-24,,Inter,,,,Hellas Verona,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+207,19,Wed,2024-01-24,,Sassuolo,,,,Fiorentina,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+208,19,Wed,2024-01-24,,Torino,,,,Napoli,,Stadio Olimpico di Torino,,,,,,,,,,Home
+209,19,Wed,2024-01-24,,Udinese,,,,Lazio,,Dacia Arena,,,,,,,,,,Home
+210,22,Sun,2024-01-28,,Atalanta,,,,Udinese,,Gewiss Stadium,,,,,,,,,,Home
+211,22,Sun,2024-01-28,,Cagliari,,,,Torino,,Unipol Domus,,,,,,,,,,Home
+212,22,Sun,2024-01-28,,Fiorentina,,,,Inter,,Stadio Artemio Franchi,,,,,,,,,,Home
+213,22,Sun,2024-01-28,,Genoa,,,,Lecce,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+214,22,Sun,2024-01-28,,Hellas Verona,,,,Frosinone,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+215,22,Sun,2024-01-28,,Juventus,,,,Empoli,,Allianz Stadium,,,,,,,,,,Home
+216,22,Sun,2024-01-28,,Lazio,,,,Napoli,,Stadio Olimpico,,,,,,,,,,Home
+217,22,Sun,2024-01-28,,Milan,,,,Bologna,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+218,22,Sun,2024-01-28,,Monza,,,,Sassuolo,,U-Power Stadium,,,,,,,,,,Home
+219,22,Sun,2024-01-28,,Salernitana,,,,Roma,,Stadio Arechi,,,,,,,,,,Home
+220,23,Sun,2024-02-04,,Atalanta,,,,Lazio,,Gewiss Stadium,,,,,,,,,,Home
+221,23,Sun,2024-02-04,,Bologna,,,,Sassuolo,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+222,23,Sun,2024-02-04,,Empoli,,,,Genoa,,Stadio Carlo Castellani,,,,,,,,,,Home
+223,23,Sun,2024-02-04,,Frosinone,,,,Milan,,Stadio Benito Stirpe,,,,,,,,,,Home
+224,23,Sun,2024-02-04,,Inter,,,,Juventus,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+225,23,Sun,2024-02-04,,Lecce,,,,Fiorentina,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+226,23,Sun,2024-02-04,,Napoli,,,,Hellas Verona,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+227,23,Sun,2024-02-04,,Roma,,,,Cagliari,,Stadio Olimpico,,,,,,,,,,Home
+228,23,Sun,2024-02-04,,Torino,,,,Salernitana,,Stadio Olimpico di Torino,,,,,,,,,,Home
+229,23,Sun,2024-02-04,,Udinese,,,,Monza,,Dacia Arena,,,,,,,,,,Home
+230,24,Sun,2024-02-11,,Bologna,,,,Lecce,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+231,24,Sun,2024-02-11,,Cagliari,,,,Lazio,,Unipol Domus,,,,,,,,,,Home
+232,24,Sun,2024-02-11,,Fiorentina,,,,Frosinone,,Stadio Artemio Franchi,,,,,,,,,,Home
+233,24,Sun,2024-02-11,,Genoa,,,,Atalanta,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+234,24,Sun,2024-02-11,,Juventus,,,,Udinese,,Allianz Stadium,,,,,,,,,,Home
+235,24,Sun,2024-02-11,,Milan,,,,Napoli,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+236,24,Sun,2024-02-11,,Monza,,,,Hellas Verona,,U-Power Stadium,,,,,,,,,,Home
+237,24,Sun,2024-02-11,,Roma,,,,Inter,,Stadio Olimpico,,,,,,,,,,Home
+238,24,Sun,2024-02-11,,Salernitana,,,,Empoli,,Stadio Arechi,,,,,,,,,,Home
+239,24,Sun,2024-02-11,,Sassuolo,,,,Torino,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+240,25,Sun,2024-02-18,,Atalanta,,,,Sassuolo,,Gewiss Stadium,,,,,,,,,,Home
+241,25,Sun,2024-02-18,,Empoli,,,,Fiorentina,,Stadio Carlo Castellani,,,,,,,,,,Home
+242,25,Sun,2024-02-18,,Frosinone,,,,Roma,,Stadio Benito Stirpe,,,,,,,,,,Home
+243,25,Sun,2024-02-18,,Hellas Verona,,,,Juventus,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+244,25,Sun,2024-02-18,,Inter,,,,Salernitana,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+245,25,Sun,2024-02-18,,Lazio,,,,Bologna,,Stadio Olimpico,,,,,,,,,,Home
+246,25,Sun,2024-02-18,,Monza,,,,Milan,,U-Power Stadium,,,,,,,,,,Home
+247,25,Sun,2024-02-18,,Napoli,,,,Genoa,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+248,25,Sun,2024-02-18,,Torino,,,,Lecce,,Stadio Olimpico di Torino,,,,,,,,,,Home
+249,25,Sun,2024-02-18,,Udinese,,,,Cagliari,,Dacia Arena,,,,,,,,,,Home
+250,26,Sun,2024-02-25,,Bologna,,,,Hellas Verona,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+251,26,Sun,2024-02-25,,Cagliari,,,,Napoli,,Unipol Domus,,,,,,,,,,Home
+252,26,Sun,2024-02-25,,Fiorentina,,,,Lazio,,Stadio Artemio Franchi,,,,,,,,,,Home
+253,26,Sun,2024-02-25,,Genoa,,,,Udinese,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+254,26,Sun,2024-02-25,,Juventus,,,,Frosinone,,Allianz Stadium,,,,,,,,,,Home
+255,26,Sun,2024-02-25,,Lecce,,,,Inter,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+256,26,Sun,2024-02-25,,Milan,,,,Atalanta,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+257,26,Sun,2024-02-25,,Roma,,,,Torino,,Stadio Olimpico,,,,,,,,,,Home
+258,26,Sun,2024-02-25,,Salernitana,,,,Monza,,Stadio Arechi,,,,,,,,,,Home
+259,26,Sun,2024-02-25,,Sassuolo,,,,Empoli,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+260,27,Sun,2024-03-03,,Atalanta,,,,Bologna,,Gewiss Stadium,,,,,,,,,,Home
+261,27,Sun,2024-03-03,,Empoli,,,,Cagliari,,Stadio Carlo Castellani,,,,,,,,,,Home
+262,27,Sun,2024-03-03,,Frosinone,,,,Lecce,,Stadio Benito Stirpe,,,,,,,,,,Home
+263,27,Sun,2024-03-03,,Hellas Verona,,,,Sassuolo,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+264,27,Sun,2024-03-03,,Inter,,,,Genoa,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+265,27,Sun,2024-03-03,,Lazio,,,,Milan,,Stadio Olimpico,,,,,,,,,,Home
+266,27,Sun,2024-03-03,,Monza,,,,Roma,,U-Power Stadium,,,,,,,,,,Home
+267,27,Sun,2024-03-03,,Napoli,,,,Juventus,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+268,27,Sun,2024-03-03,,Torino,,,,Fiorentina,,Stadio Olimpico di Torino,,,,,,,,,,Home
+269,27,Sun,2024-03-03,,Udinese,,,,Salernitana,,Dacia Arena,,,,,,,,,,Home
+270,28,Sun,2024-03-10,,Bologna,,,,Inter,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+271,28,Sun,2024-03-10,,Cagliari,,,,Salernitana,,Unipol Domus,,,,,,,,,,Home
+272,28,Sun,2024-03-10,,Fiorentina,,,,Roma,,Stadio Artemio Franchi,,,,,,,,,,Home
+273,28,Sun,2024-03-10,,Genoa,,,,Monza,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+274,28,Sun,2024-03-10,,Juventus,,,,Atalanta,,Allianz Stadium,,,,,,,,,,Home
+275,28,Sun,2024-03-10,,Lazio,,,,Udinese,,Stadio Olimpico,,,,,,,,,,Home
+276,28,Sun,2024-03-10,,Lecce,,,,Hellas Verona,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+277,28,Sun,2024-03-10,,Milan,,,,Empoli,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+278,28,Sun,2024-03-10,,Napoli,,,,Torino,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+279,28,Sun,2024-03-10,,Sassuolo,,,,Frosinone,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+280,29,Sun,2024-03-17,,Atalanta,,,,Fiorentina,,Gewiss Stadium,,,,,,,,,,Home
+281,29,Sun,2024-03-17,,Empoli,,,,Bologna,,Stadio Carlo Castellani,,,,,,,,,,Home
+282,29,Sun,2024-03-17,,Frosinone,,,,Lazio,,Stadio Benito Stirpe,,,,,,,,,,Home
+283,29,Sun,2024-03-17,,Hellas Verona,,,,Milan,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+284,29,Sun,2024-03-17,,Inter,,,,Napoli,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+285,29,Sun,2024-03-17,,Juventus,,,,Genoa,,Allianz Stadium,,,,,,,,,,Home
+286,29,Sun,2024-03-17,,Monza,,,,Cagliari,,U-Power Stadium,,,,,,,,,,Home
+287,29,Sun,2024-03-17,,Roma,,,,Sassuolo,,Stadio Olimpico,,,,,,,,,,Home
+288,29,Sun,2024-03-17,,Salernitana,,,,Lecce,,Stadio Arechi,,,,,,,,,,Home
+289,29,Sun,2024-03-17,,Udinese,,,,Torino,,Dacia Arena,,,,,,,,,,Home
+290,30,Sat,2024-03-30,,Bologna,,,,Salernitana,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+291,30,Sat,2024-03-30,,Cagliari,,,,Hellas Verona,,Unipol Domus,,,,,,,,,,Home
+292,30,Sat,2024-03-30,,Fiorentina,,,,Milan,,Stadio Artemio Franchi,,,,,,,,,,Home
+293,30,Sat,2024-03-30,,Genoa,,,,Frosinone,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+294,30,Sat,2024-03-30,,Inter,,,,Empoli,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+295,30,Sat,2024-03-30,,Lazio,,,,Juventus,,Stadio Olimpico,,,,,,,,,,Home
+296,30,Sat,2024-03-30,,Lecce,,,,Roma,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+297,30,Sat,2024-03-30,,Napoli,,,,Atalanta,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+298,30,Sat,2024-03-30,,Sassuolo,,,,Udinese,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+299,30,Sat,2024-03-30,,Torino,,,,Monza,,Stadio Olimpico di Torino,,,,,,,,,,Home
+300,31,Sun,2024-04-07,,Cagliari,,,,Atalanta,,Unipol Domus,,,,,,,,,,Home
+301,31,Sun,2024-04-07,,Empoli,,,,Torino,,Stadio Carlo Castellani,,,,,,,,,,Home
+302,31,Sun,2024-04-07,,Frosinone,,,,Bologna,,Stadio Benito Stirpe,,,,,,,,,,Home
+303,31,Sun,2024-04-07,,Hellas Verona,,,,Genoa,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+304,31,Sun,2024-04-07,,Juventus,,,,Fiorentina,,Allianz Stadium,,,,,,,,,,Home
+305,31,Sun,2024-04-07,,Milan,,,,Lecce,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+306,31,Sun,2024-04-07,,Monza,,,,Napoli,,U-Power Stadium,,,,,,,,,,Home
+307,31,Sun,2024-04-07,,Roma,,,,Lazio,,Stadio Olimpico,,,,,,,,,,Home
+308,31,Sun,2024-04-07,,Salernitana,,,,Sassuolo,,Stadio Arechi,,,,,,,,,,Home
+309,31,Sun,2024-04-07,,Udinese,,,,Inter,,Dacia Arena,,,,,,,,,,Home
+310,32,Sun,2024-04-14,,Atalanta,,,,Hellas Verona,,Gewiss Stadium,,,,,,,,,,Home
+311,32,Sun,2024-04-14,,Bologna,,,,Monza,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+312,32,Sun,2024-04-14,,Fiorentina,,,,Genoa,,Stadio Artemio Franchi,,,,,,,,,,Home
+313,32,Sun,2024-04-14,,Inter,,,,Cagliari,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+314,32,Sun,2024-04-14,,Lazio,,,,Salernitana,,Stadio Olimpico,,,,,,,,,,Home
+315,32,Sun,2024-04-14,,Lecce,,,,Empoli,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+316,32,Sun,2024-04-14,,Napoli,,,,Frosinone,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+317,32,Sun,2024-04-14,,Sassuolo,,,,Milan,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+318,32,Sun,2024-04-14,,Torino,,,,Juventus,,Stadio Olimpico di Torino,,,,,,,,,,Home
+319,32,Sun,2024-04-14,,Udinese,,,,Roma,,Dacia Arena,,,,,,,,,,Home
+320,33,Sun,2024-04-21,,Cagliari,,,,Juventus,,Unipol Domus,,,,,,,,,,Home
+321,33,Sun,2024-04-21,,Empoli,,,,Napoli,,Stadio Carlo Castellani,,,,,,,,,,Home
+322,33,Sun,2024-04-21,,Genoa,,,,Lazio,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+323,33,Sun,2024-04-21,,Hellas Verona,,,,Udinese,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+324,33,Sun,2024-04-21,,Milan,,,,Inter,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+325,33,Sun,2024-04-21,,Monza,,,,Atalanta,,U-Power Stadium,,,,,,,,,,Home
+326,33,Sun,2024-04-21,,Roma,,,,Bologna,,Stadio Olimpico,,,,,,,,,,Home
+327,33,Sun,2024-04-21,,Salernitana,,,,Fiorentina,,Stadio Arechi,,,,,,,,,,Home
+328,33,Sun,2024-04-21,,Sassuolo,,,,Lecce,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+329,33,Sun,2024-04-21,,Torino,,,,Frosinone,,Stadio Olimpico di Torino,,,,,,,,,,Home
+330,34,Sun,2024-04-28,,Atalanta,,,,Empoli,,Gewiss Stadium,,,,,,,,,,Home
+331,34,Sun,2024-04-28,,Bologna,,,,Udinese,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+332,34,Sun,2024-04-28,,Fiorentina,,,,Sassuolo,,Stadio Artemio Franchi,,,,,,,,,,Home
+333,34,Sun,2024-04-28,,Frosinone,,,,Salernitana,,Stadio Benito Stirpe,,,,,,,,,,Home
+334,34,Sun,2024-04-28,,Genoa,,,,Cagliari,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+335,34,Sun,2024-04-28,,Inter,,,,Torino,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+336,34,Sun,2024-04-28,,Juventus,,,,Milan,,Allianz Stadium,,,,,,,,,,Home
+337,34,Sun,2024-04-28,,Lazio,,,,Hellas Verona,,Stadio Olimpico,,,,,,,,,,Home
+338,34,Sun,2024-04-28,,Lecce,,,,Monza,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+339,34,Sun,2024-04-28,,Napoli,,,,Roma,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+340,35,Sun,2024-05-05,,Cagliari,,,,Lecce,,Unipol Domus,,,,,,,,,,Home
+341,35,Sun,2024-05-05,,Empoli,,,,Frosinone,,Stadio Carlo Castellani,,,,,,,,,,Home
+342,35,Sun,2024-05-05,,Hellas Verona,,,,Fiorentina,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+343,35,Sun,2024-05-05,,Milan,,,,Genoa,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+344,35,Sun,2024-05-05,,Monza,,,,Lazio,,U-Power Stadium,,,,,,,,,,Home
+345,35,Sun,2024-05-05,,Roma,,,,Juventus,,Stadio Olimpico,,,,,,,,,,Home
+346,35,Sun,2024-05-05,,Salernitana,,,,Atalanta,,Stadio Arechi,,,,,,,,,,Home
+347,35,Sun,2024-05-05,,Sassuolo,,,,Inter,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+348,35,Sun,2024-05-05,,Torino,,,,Bologna,,Stadio Olimpico di Torino,,,,,,,,,,Home
+349,35,Sun,2024-05-05,,Udinese,,,,Napoli,,Dacia Arena,,,,,,,,,,Home
+350,36,Sun,2024-05-12,,Atalanta,,,,Roma,,Gewiss Stadium,,,,,,,,,,Home
+351,36,Sun,2024-05-12,,Fiorentina,,,,Monza,,Stadio Artemio Franchi,,,,,,,,,,Home
+352,36,Sun,2024-05-12,,Frosinone,,,,Inter,,Stadio Benito Stirpe,,,,,,,,,,Home
+353,36,Sun,2024-05-12,,Genoa,,,,Sassuolo,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+354,36,Sun,2024-05-12,,Hellas Verona,,,,Torino,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+355,36,Sun,2024-05-12,,Juventus,,,,Salernitana,,Allianz Stadium,,,,,,,,,,Home
+356,36,Sun,2024-05-12,,Lazio,,,,Empoli,,Stadio Olimpico,,,,,,,,,,Home
+357,36,Sun,2024-05-12,,Lecce,,,,Udinese,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+358,36,Sun,2024-05-12,,Milan,,,,Cagliari,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+359,36,Sun,2024-05-12,,Napoli,,,,Bologna,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+360,37,Sun,2024-05-19,,Bologna,,,,Juventus,,Stadio Renato Dall'Ara,,,,,,,,,,Home
+361,37,Sun,2024-05-19,,Fiorentina,,,,Napoli,,Stadio Artemio Franchi,,,,,,,,,,Home
+362,37,Sun,2024-05-19,,Inter,,,,Lazio,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+363,37,Sun,2024-05-19,,Lecce,,,,Atalanta,,Stadio Comunale Via Del Mare,,,,,,,,,,Home
+364,37,Sun,2024-05-19,,Monza,,,,Frosinone,,U-Power Stadium,,,,,,,,,,Home
+365,37,Sun,2024-05-19,,Roma,,,,Genoa,,Stadio Olimpico,,,,,,,,,,Home
+366,37,Sun,2024-05-19,,Salernitana,,,,Hellas Verona,,Stadio Arechi,,,,,,,,,,Home
+367,37,Sun,2024-05-19,,Sassuolo,,,,Cagliari,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
+368,37,Sun,2024-05-19,,Torino,,,,Milan,,Stadio Olimpico di Torino,,,,,,,,,,Home
+369,37,Sun,2024-05-19,,Udinese,,,,Empoli,,Dacia Arena,,,,,,,,,,Home
+370,38,Sun,2024-05-26,,Atalanta,,,,Torino,,Gewiss Stadium,,,,,,,,,,Home
+371,38,Sun,2024-05-26,,Cagliari,,,,Fiorentina,,Unipol Domus,,,,,,,,,,Home
+372,38,Sun,2024-05-26,,Empoli,,,,Roma,,Stadio Carlo Castellani,,,,,,,,,,Home
+373,38,Sun,2024-05-26,,Frosinone,,,,Udinese,,Stadio Benito Stirpe,,,,,,,,,,Home
+374,38,Sun,2024-05-26,,Genoa,,,,Bologna,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
+375,38,Sun,2024-05-26,,Hellas Verona,,,,Inter,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
+376,38,Sun,2024-05-26,,Juventus,,,,Monza,,Allianz Stadium,,,,,,,,,,Home
+377,38,Sun,2024-05-26,,Lazio,,,,Sassuolo,,Stadio Olimpico,,,,,,,,,,Home
+378,38,Sun,2024-05-26,,Milan,,,,Salernitana,,Stadio Giuseppe Meazza,,,,,,,,,,Home
+379,38,Sun,2024-05-26,,Napoli,,,,Lecce,,Stadio Diego Armando Maradona,,,,,,,,,,Home

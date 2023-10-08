@@ -113,11 +113,11 @@ def rolling_averages(group, cols, new_cols):
     group = group.sort_values(by='Date')
     rolling_stats = group[cols].rolling(3, min_periods=2, closed='left').mean()
     group[new_cols] = rolling_stats
+    print(dict(group.isna().sum()))
     group = group.dropna(subset=new_cols)
     return group
 
 def create_rolling(merged_df, cols):
-    
     new_cols = [f'{c}Rolling' for c in cols]
     df_rolling = merged_df.groupby('Team').apply(lambda x: rolling_averages(x, cols, new_cols))
 
@@ -145,10 +145,10 @@ def fifa_difs(df, cols):
 
 def add_xg(df):
     path = f'{config.PATH}/{config.CACHE_PATH}/xG.csv'
-    print(path)
+    #print(path)
     xG = pd.read_csv(path)
     xG = home_away(xG)
-    print(xG['Team'].unique(), df['Team'].unique())
+    #print(xG['Team'].unique(), df['Team'].unique())
     '''
     print teams with different names
     '''
@@ -239,7 +239,7 @@ def create_stats(df):
 
     df, dif_cols = fifa_difs(df, fifa_cols)
     pred_cols.extend(dif_cols)
-    print(pred_cols)
+    #print(pred_cols)
     return df, pred_cols
 
 def prep_data(rolling, date):
@@ -288,7 +288,7 @@ def prep_data(rolling, date):
     if config.XG:
         sched = add_xg(sched)
     sched = add_ou(sched)
-    print(sched.head(10))
+    print(sched.head(10)['Team'])
     sched = home_away(sched)
     fifa_cols = [('AttackRatingFIFA', 'DefenseRatingFIFA'),
      ('AttackRatingFIFA', 'MidfieldRatingFIFA'),
@@ -303,7 +303,7 @@ def prep_data(rolling, date):
     sched = sched.sort_values('Date')
     #sched, _ = self.create_rolling(sched, ['TotalELO'])
     #return sched
-    print(sched['Date'].unique())
+    print(sched.head(10)['Team'])
     #return sched
     #print(sched, 'team')
     #print(sched,' hey')
@@ -328,11 +328,17 @@ def prep_data(rolling, date):
     #return new
     #new = self.create_predictors(new)
     new, new_cols = calculate_totals(new, total_cols)
+    print(new.head(10)['Team'], '1')
     new, new_cols = create_rolling(new, new_cols)
+    print(new.head(10)['Team'], '2')
+    print(new.to_csv('test1.csv'))
     new, new_cols = create_rolling(new, ind_cols)
+    print(new.to_csv('test.csv'))
+    print(new.head(10)['Team'], '3')
     new, dif_cols = calculate_difs(new, total_cols1)
+    print(new.head(10)['Team'], '4')
     new = create_predictors(new)
-
+    print(new.head(10)['Team'], '5')
     #numeric_cols = ['Shots', 'ShotsonTarget', 'Fouls', 'Corners', 'YellowCards', 'RedCards']
     #cols = ['Goals','Shots', 'ShotsonTarget', 'Corners']
     #dif_cols = 

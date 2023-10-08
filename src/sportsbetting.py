@@ -1,6 +1,6 @@
 import soccerdata as sd
 
-fifa = sd.SoFIFA(leagues='ITA-Serie A', versions='all')
+fifa = sd.SoFIFA(leagues='GER-Bundesliga', versions='all')
 #fifa.read_teams()
 #print(fifa.read_versions(max_age=1))
 
