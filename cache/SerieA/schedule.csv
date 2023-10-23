@@ -71,14 +71,14 @@
 69,7,Mon,2023-10-02,18:30,Torino,0.6,0–0,0.3,Hellas Verona,,Stadio Olimpico di Torino,Ermanno Feliciani,/en/matches/ea8ff4b0/Torino-Hellas-Verona-October-2-2023-Serie-A,,ea8ff4b0,,,,,,Home
 70,8,Fri,2023-10-06,18:30,Empoli,1.3,0–0,0.7,Udinese,,Stadio Carlo Castellani,Michael Fabbri,/en/matches/2397e099/Empoli-Udinese-October-6-2023-Serie-A,,2397e099,,,,,,Home
 71,8,Fri,2023-10-06,20:45,Lecce,1.7,1–1,1.5,Sassuolo,,Stadio Comunale Via Del Mare,Juan Sacchi,/en/matches/26509ebd/Lecce-Sassuolo-October-6-2023-Serie-A,,26509ebd,,,,,,Home
-72,8,Sat,2023-10-07,20:45,Genoa,,,,Milan,,Stadio Comunale Luigi Ferraris,,,,,,,,,,Home
-73,8,Sat,2023-10-07,15:00,Inter,,,,Bologna,,Stadio Giuseppe Meazza,,,,,,,,,,Home
-74,8,Sat,2023-10-07,18:00,Juventus,,,,Torino,,Allianz Stadium,,,,,,,,,,Home
-75,8,Sun,2023-10-08,18:00,Cagliari,,,,Roma,,Unipol Domus,,,,,,,,,,Home
-76,8,Sun,2023-10-08,15:00,Frosinone,,,,Hellas Verona,,Stadio Benito Stirpe,,,,,,,,,,Home
-77,8,Sun,2023-10-08,15:00,Lazio,,,,Atalanta,,Stadio Olimpico,,,,,,,,,,Home
-78,8,Sun,2023-10-08,12:30,Monza,,,,Salernitana,,U-Power Stadium,,,,,,,,,,Home
-79,8,Sun,2023-10-08,20:45,Napoli,,,,Fiorentina,,Stadio Diego Armando Maradona,,,,,,,,,,Home
+72,8,Sat,2023-10-07,20:45,Genoa,0.5,0–1,0.6,Milan,,Stadio Comunale Luigi Ferraris,Marco Piccinini,/en/matches/3bd415eb/Genoa-Milan-October-7-2023-Serie-A,,3bd415eb,,,,,,Home
+73,8,Sat,2023-10-07,15:00,Inter,0.7,2–2,1.3,Bologna,,Stadio Giuseppe Meazza,Marco Guida,/en/matches/b46d0026/Internazionale-Bologna-October-7-2023-Serie-A,,b46d0026,,,,,,Home
+74,8,Sat,2023-10-07,18:00,Juventus,1.9,2–0,0.6,Torino,,Allianz Stadium,Davide Massa,/en/matches/1d1f902c/Juventus-Torino-October-7-2023-Serie-A,,1d1f902c,,,,,,Home
+75,8,Sun,2023-10-08,18:00,Cagliari,1.7,1–4,2.6,Roma,,Unipol Domus,Simone Sozza,/en/matches/604ceaa0/Cagliari-Roma-October-8-2023-Serie-A,,604ceaa0,,,,,,Home
+76,8,Sun,2023-10-08,15:00,Frosinone,1.8,2–1,0.8,Hellas Verona,,Stadio Benito Stirpe,Maria Sole Ferrieri Caputi,/en/matches/ea945c75/Frosinone-Hellas-Verona-October-8-2023-Serie-A,,ea945c75,,,,,,Home
+77,8,Sun,2023-10-08,15:00,Lazio,1.6,3–2,1.0,Atalanta,,Stadio Olimpico,Daniele Orsato,/en/matches/c0603b97/Lazio-Atalanta-October-8-2023-Serie-A,,c0603b97,,,,,,Home
+78,8,Sun,2023-10-08,12:30,Monza,2.8,3–0,0.6,Salernitana,,U-Power Stadium,Luca Massimi,/en/matches/d0fdea52/Monza-Salernitana-October-8-2023-Serie-A,,d0fdea52,,,,,,Home
+79,8,Sun,2023-10-08,20:45,Napoli,1.8,1–3,2.1,Fiorentina,,Stadio Diego Armando Maradona,Federico La Penna,/en/matches/2cc7a7ed/Napoli-Fiorentina-October-8-2023-Serie-A,,2cc7a7ed,,,,,,Home
 80,9,Sat,2023-10-21,15:00,Hellas Verona,,,,Napoli,,Stadio Marc'Antonio Bentegodi,,,,,,,,,,Home
 81,9,Sat,2023-10-21,20:45,Sassuolo,,,,Lazio,,Mapei Stadium - Città del Tricolore,,,,,,,,,,Home
 82,9,Sat,2023-10-21,18:00,Torino,,,,Inter,,Stadio Olimpico di Torino,,,,,,,,,,Home

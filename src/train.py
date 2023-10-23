@@ -15,7 +15,7 @@ from sklearn.preprocessing import StandardScaler
 
 import config
 from process import prep_data
-from utils import split_data
+from utils import split_data, remove_collinear_features
 
 
 
@@ -37,7 +37,7 @@ def random_forest_win(data, predictors, X_train, X_test, y_train, y_test, call_t
     #    return preds, model
     #combined = pd.DataFrame(dict(actual=test['Target'], prediction=preds), index = test.index)
     #print(test.groupby('GameID').filter(lambda x: x['prediction'].sum()==1))
-    precision = precision_score(y_test, preds, average='micro')
+    precision = precision_score(y_test, preds)
     accuracy = accuracy_score(y_test, preds)
     combined = pd.DataFrame(dict(actual=y_test, prediction=preds), index = y_test.index)
     c1 = combined.merge(data[['Date', 'Team', 'Opponent', 'TeamGoals', 'OpponentGoals','GameID', 'Venue']], left_index=True, right_index=True)
@@ -49,7 +49,7 @@ def random_forest_win(data, predictors, X_train, X_test, y_train, y_test, call_t
     #table.to_csv(f'{config.PATH}/../Testing/{config.LEAGUE}/{config.LEAGUE}_{target_col}.csv')
 
     table = table[table['prediction_x'] == table['prediction_y']]#.filter(lambda x: x['prediction_x'] != x['prediction_y'])
-    precision1 = precision_score(table['actual'], table['prediction_x'], average='micro')
+    precision1 = precision_score(table['actual'], table['prediction_x'])
     accuracy1 = accuracy_score(table['actual'], table['prediction_x'])
 
     print(target_col)
@@ -100,6 +100,17 @@ def train(date, pred_type, predictors):
     #new_df['TotalGoals'] = new_df['TotalGoals'].astype('int')
     #new['TotalGoals'] = new['TotalGoals'].astype('int')
     X_train, y_train, X_test, y_test, X_pred, pred = split_data(new_df, [], predictors, pred_type)
+    # drop collinear features
+    #X_train, drop_cols = remove_collinear_features(X_train, 0.9)
+    #X_test = X_test.drop(columns=drop_cols)
+    #y_train = y_train.drop(columns=drop_cols)
+    #y_test = y_test.drop(columns=drop_cols)
+    #X_pred = X_pred.drop(columns=drop_cols)
+
+    #s = set(drop_cols)
+    #predictors = [x for x in predictors if x not in s]
+    #predictors = predictors - drop_cols
+
 
     scaling=StandardScaler()
     X_train_scaled=scaling.fit_transform(X_train)
@@ -107,14 +118,15 @@ def train(date, pred_type, predictors):
     X_pred_scaled = scaling.transform(X_pred)
     y_train = np.array(y_train)
 
-    pca = PCA(0.95, random_state=1)
+    pca = PCA(0.85, random_state=1)
     pca.fit(X_train_scaled)
     X_train_scaled_pca = pca.transform(X_train_scaled)
     X_test_scaled_pca = pca.transform(X_test_scaled)
     X_pred_scaled_pca = pca.transform(X_pred_scaled)
 
-    X_train = X_train_scaled
-    X_test = X_test_scaled
+    #X_train = X_train_scaled
+    #X_test = X_test_scaled
+    #X_pred = X_pred_scaled
     #print(X_pred_scaled_pca)
 
     #train = new_df[new_df['Date'] < '2018-09-18']
@@ -145,16 +157,14 @@ def train(date, pred_type, predictors):
     table.to_csv(f'{config.PATH}/../Testing/{config.LEAGUE}/{config.LEAGUE}_{pred_type}.csv')
 
 
-    preds1 = model.predict(X_pred_scaled)  
-    preds = model.predict_proba(X_pred_scaled)  
+    preds1 = model.predict(X_pred)  
+    preds = model.predict_proba(X_pred)  
     #preds = list(map(tuple, preds))
     cols = []
     for i in range(preds.shape[1]):
         new_col = f'class_{i}'
         pred[f'class_{i}'] = preds[:,i]
         cols.append(new_col)
-    print(preds1, preds)
-    print(model.classes_)
     #pred['preds'] = preds
     table = pred.sort_index()[['GameID','Date','Team', 'Opponent'] + cols].merge(pred[['GameID','Date','Team', 'Opponent']+ cols], left_on=['Date', 'Team'], right_on=['Date', 'Opponent']).drop_duplicates(['GameID_x'])
     table.to_csv(f'{config.PATH}/../Predictions/{config.LEAGUE}/{config.LEAGUE}_{pred_type}.csv')
@@ -164,6 +174,7 @@ def train(date, pred_type, predictors):
     #preds = model.predict(pred[predictors])
     #c1 = preds.merge(test[['Date', 'Team', 'Opponent', 'TotalGoals', 'GameID']], left_index=True, right_index=True)   
     return table
+
 
 def predict(predictors, pred_type):
     new = pd.read_csv(f'{config.PATH}/{config.CACHE_PATH}/new.csv')
@@ -212,7 +223,7 @@ if __name__ == "__main__":
     #predictors = ['VenueCode', 'OpponentCode', 'DayCode'] 
     preds_ = predictors + ['TeamELO', 'OpponentELO']
     odds = ['TeamWinOdds', 'OpponentWinOdds', 'DrawOdds','O2.5', 'U2.5']
-    print(preds_, df_rolling.filter(like='FIFA').columns.T)
+    #print(preds_, df_rolling.filter(like='FIFA').columns.T)
     preds_ = preds_ + odds + list(df_rolling.filter(like='FIFA').columns)
     targets = ['WinLoseTarget', 'OU1.5Target', 'OU2.5Target', 
     'OU3.5Target', 'WinTarget', 'DrawTarget', 'LossTarget']
@@ -222,10 +233,4 @@ if __name__ == "__main__":
     #targets = ['WinLoseTarget', 'Target', 'WinTarget', 'DrawTarget', 'LossTarget']
 
     for target in targets:
-        #print(target)
         combined = train(date, target, preds_)
-            #preds, c = func.predict(predictors)
-         
-        #c['preds'] = preds
-        #table = c.sort_index()[['GameID','Date','Team', 'Opponent', 'preds']].merge(c[['GameID','Date','Team', 'Opponent', 'preds']], left_on=['Date', 'Team'], right_on=['Date', 'Opponent']).drop_duplicates(['GameID_x'])
-        #table.to_csv(f'Predictions/{league}/{league}_{target}.csv')

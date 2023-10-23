@@ -1,17 +1,22 @@
 ,Date,HomeTeam,AwayTeam,O2.5,U2.5,HomeTeamWinOdds,AwayTeamWinOdds,DrawOdds
-0,2023-10-07,Genoa,AC Milan,2.25,1.6,4.2,1.91,3.4
-1,2023-10-08,Monza,Salernitana,1.8,1.91,1.67,4.8,3.9
-2,2023-10-08,Lazio,Atalanta BC,1.85,1.85,2.8,2.5,3.25
-3,2023-10-08,Frosinone,Hellas Verona FC,2.0,1.73,2.3,3.1,3.3
-4,2023-10-08,Cagliari,AS Roma,2.2,1.62,4.6,1.8,3.5
-5,2023-10-08,Napoli,Fiorentina,1.6,2.25,1.57,5.5,4.2
-6,2023-10-21,Hellas Verona FC,Napoli,1.73,2.0,6.0,1.5,4.33
-7,2023-10-21,Torino,Inter Milan,1.85,1.85,4.2,1.83,3.7
-8,2023-10-21,Sassuolo,Lazio,1.62,2.2,2.7,2.4,3.7
-9,2023-10-22,AS Roma,Monza,1.91,1.8,1.62,5.5,3.8
-10,2023-10-22,Bologna,Frosinone,1.85,1.85,1.6,5.5,4.0
-11,2023-10-22,Salernitana,Cagliari,2.1,1.67,2.4,2.88,3.4
-12,2023-10-22,Atalanta BC,Genoa,1.8,1.91,1.53,6.0,4.2
-13,2023-10-22,AC Milan,Juventus,2.1,1.67,2.2,3.3,3.3
-14,2023-10-23,Udinese,Lecce,2.05,1.7,2.1,3.4,3.4
-15,2023-10-23,Fiorentina,Empoli,1.67,2.1,1.44,6.5,4.75
+0,2023-10-21,Hellas Verona FC,Napoli,1.73,2.0,5.5,1.6,3.9
+1,2023-10-21,Torino,Inter Milan,1.85,1.85,4.6,1.75,3.7
+2,2023-10-21,Sassuolo,Lazio,1.6,2.25,2.5,2.6,3.7
+3,2023-10-22,AS Roma,Monza,1.85,1.85,1.67,5.0,3.8
+4,2023-10-22,Bologna,Frosinone,1.8,1.91,1.7,4.8,3.8
+5,2023-10-22,Salernitana,Cagliari,2.05,1.7,2.3,3.1,3.3
+6,2023-10-22,Atalanta BC,Genoa,1.85,1.85,1.53,6.5,4.0
+7,2023-10-22,AC Milan,Juventus,2.05,1.7,2.15,3.3,3.4
+8,2023-10-23,Udinese,Lecce,2.0,1.73,2.15,3.4,3.3
+9,2023-10-23,Fiorentina,Empoli,1.62,2.2,1.4,7.5,4.75
+10,2023-10-27,Genoa,Salernitana,2.05,1.7,1.8,4.33,3.7
+11,2023-10-28,Sassuolo,Bologna,1.7,2.05,2.38,2.8,3.5
+12,2023-10-28,Lecce,Torino,2.38,1.53,2.88,2.5,3.2
+13,2023-10-28,Juventus,Hellas Verona FC,1.8,1.91,1.4,8.0,4.6
+14,2023-10-29,Cagliari,Frosinone,1.85,1.85,2.3,2.9,3.6
+15,2023-10-29,Monza,Udinese,1.8,1.91,2.15,3.25,3.5
+16,2023-10-29,Inter Milan,AS Roma,1.85,1.85,1.65,5.0,4.0
+17,2023-10-29,Napoli,AC Milan,1.91,1.8,2.15,3.3,3.4
+18,2023-10-30,Empoli,Atalanta BC,1.67,2.1,4.5,1.67,4.2
+19,2023-10-30,Lazio,Fiorentina,1.91,1.8,2.4,2.88,3.4
+20,2023-11-03,Bologna,Lazio,,,,,

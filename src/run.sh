@@ -17,4 +17,4 @@ sed -i '' "s/\($TARGET_KEY *= *\).*/\1$REPLACEMENT_VALUE/" $CONFIG_FILE
 python gather_data.py
 python process.py
 python train.py
-#python predict.py
+python predict.py

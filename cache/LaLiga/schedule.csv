@@ -78,16 +78,16 @@
 76,8,Sun,2023-10-01,21:00,Atlético Madrid,2.7,3–2,0.8,Cádiz,53421,Estadio Cívitas Metropolitano,Javier Villanueva,/en/matches/0f112739/Atletico-Madrid-Cadiz-October-1-2023-La-Liga,,0f112739,,,,,,Home
 77,8,Sun,2023-10-01,21:00,Betis,1.6,3–0,0.7,Valencia,50163,Estadio Benito Villamarín,Ricardo de Burgos,/en/matches/5668709c/Real-Betis-Valencia-October-1-2023-La-Liga,,5668709c,,,,,,Home
 78,8,Mon,2023-10-02,20:00,Las Palmas,1.7,2–1,1.5,Celta Vigo,22472,Estadio de Gran Canaria,Alberola Rojas,/en/matches/b5b5ee07/Las-Palmas-Celta-Vigo-October-2-2023-La-Liga,,b5b5ee07,,,,,,Home
-79,9,Fri,2023-10-06,21:00,Athletic Club,,,,Almería,,San Mamés,,,,,,,,,,Home
-80,9,Sat,2023-10-07,14:00,Cádiz,,,,Girona,,Estadio Nuevo Mirandilla,,,,,,,,,,Home
-81,9,Sat,2023-10-07,18:30,Mallorca,,,,Valencia,,Iberostar Estadi,,,,,,,,,,Home
-82,9,Sat,2023-10-07,16:15,Real Madrid,,,,Osasuna,,Estadio Santiago Bernabéu,,,,,,,,,,Home
-83,9,Sat,2023-10-07,21:00,Sevilla,,,,Rayo Vallecano,,Estadio Ramón Sánchez Pizjuán,,,,,,,,,,Home
-84,9,Sun,2023-10-08,18:30,Alavés,,,,Betis,,Estadio de Mendizorroza,,,,,,,,,,Home
-85,9,Sun,2023-10-08,16:15,Atlético Madrid,,,,Real Sociedad,,Estadio Cívitas Metropolitano,,,,,,,,,,Home
-86,9,Sun,2023-10-08,18:30,Celta Vigo,,,,Getafe,,Estadio de Balaídos,,,,,,,,,,Home
-87,9,Sun,2023-10-08,21:00,Granada,,,,Barcelona,,Estadio Nuevo Los Cármenes,,,,,,,,,,Home
-88,9,Sun,2023-10-08,14:00,Villarreal,,,,Las Palmas,,Estadio de la Cerámica,,,,,,,,,,Home
+79,9,Fri,2023-10-06,21:00,Athletic Club,1.9,3–0,0.1,Almería,43677,San Mamés,Víctor García,/en/matches/001383d7/Athletic-Club-Almeria-October-6-2023-La-Liga,,001383d7,,,,,,Home
+80,9,Sat,2023-10-07,14:00,Cádiz,0.4,0–1,1.2,Girona,16438,Estadio Nuevo Mirandilla,Juan Martínez,/en/matches/2459c550/Cadiz-Girona-October-7-2023-La-Liga,,2459c550,,,,,,Home
+81,9,Sat,2023-10-07,18:30,Mallorca,0.6,1–1,0.5,Valencia,17659,Iberostar Estadi,Francisco Hernández,/en/matches/65eed22a/Mallorca-Valencia-October-7-2023-La-Liga,,65eed22a,,,,,,Home
+82,9,Sat,2023-10-07,16:15,Real Madrid,3.2,4–0,0.5,Osasuna,70864,Estadio Santiago Bernabéu,Guillermo Cuadra,/en/matches/cf81ed94/Real-Madrid-Osasuna-October-7-2023-La-Liga,,cf81ed94,,,,,,Home
+83,9,Sat,2023-10-07,21:00,Sevilla,1.0,2–2,1.0,Rayo Vallecano,35817,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera,/en/matches/faf557c5/Sevilla-Rayo-Vallecano-October-7-2023-La-Liga,,faf557c5,,,,,,Home
+84,9,Sun,2023-10-08,18:30,Alavés,1.3,1–1,0.9,Betis,18288,Estadio de Mendizorroza,Alejandro Hernández,/en/matches/68a32c10/Alaves-Real-Betis-October-8-2023-La-Liga,,68a32c10,,,,,,Home
+85,9,Sun,2023-10-08,16:15,Atlético Madrid,2.2,2–1,1.2,Real Sociedad,65607,Estadio Cívitas Metropolitano,José Luis Munuera,/en/matches/d0fec34b/Atletico-Madrid-Real-Sociedad-October-8-2023-La-Liga,,d0fec34b,,,,,,Home
+86,9,Sun,2023-10-08,18:30,Celta Vigo,3.1,2–2,0.7,Getafe,17953,Estadio de Balaídos,José Sánchez,/en/matches/deb9ac58/Celta-Vigo-Getafe-October-8-2023-La-Liga,,deb9ac58,,,,,,Home
+87,9,Sun,2023-10-08,21:00,Granada,0.8,2–2,3.0,Barcelona,20354,Estadio Nuevo Los Cármenes,César Soto,/en/matches/e2ce9278/Granada-Barcelona-October-8-2023-La-Liga,,e2ce9278,,,,,,Home
+88,9,Sun,2023-10-08,14:00,Villarreal,1.0,1–2,1.1,Las Palmas,16249,Estadio de la Cerámica,Alejandro Muñíz,/en/matches/539efe2f/Villarreal-Las-Palmas-October-8-2023-La-Liga,,539efe2f,,,,,,Home
 89,10,Fri,2023-10-20,21:00,Osasuna,,,,Granada,,Estadio El Sadar,,,,,,,,,,Home
 90,10,Sat,2023-10-21,21:00,Celta Vigo,,,,Atlético Madrid,,Estadio de Balaídos,,,,,,,,,,Home
 91,10,Sat,2023-10-21,16:15,Getafe,,,,Betis,,Coliseum Alfonso Pérez,,,,,,,,,,Home
@@ -98,36 +98,36 @@
 96,10,Sun,2023-10-22,13:00,Las Palmas,,,,Rayo Vallecano,,Estadio de Gran Canaria,,,,,,,,,,Home
 97,10,Sun,2023-10-22,18:30,Villarreal,,,,Alavés,,Estadio de la Cerámica,,,,,,,,,,Home
 98,10,Mon,2023-10-23,21:00,Valencia,,,,Cádiz,,Estadio de Mestalla,,,,,,,,,,Home
-99,11,Sat,2023-10-28,16:15,Barcelona,,,,Real Madrid,,Estadi Olímpic Lluís Companys,,,,,,,,,,Home
-100,11,Sun,2023-10-29,,Almería,,,,Las Palmas,,Power Horse Stadium,,,,,,,,,,Home
-101,11,Sun,2023-10-29,,Athletic Club,,,,Valencia,,San Mamés,,,,,,,,,,Home
-102,11,Sun,2023-10-29,,Atlético Madrid,,,,Alavés,,Estadio Cívitas Metropolitano,,,,,,,,,,Home
-103,11,Sun,2023-10-29,,Betis,,,,Osasuna,,Estadio Benito Villamarín,,,,,,,,,,Home
-104,11,Sun,2023-10-29,,Cádiz,,,,Sevilla,,Estadio Nuevo Mirandilla,,,,,,,,,,Home
-105,11,Sun,2023-10-29,,Girona,,,,Celta Vigo,,Estadi Municipal de Montilivi,,,,,,,,,,Home
-106,11,Sun,2023-10-29,,Granada,,,,Villarreal,,Estadio Nuevo Los Cármenes,,,,,,,,,,Home
-107,11,Sun,2023-10-29,,Mallorca,,,,Getafe,,Iberostar Estadi,,,,,,,,,,Home
-108,11,Sun,2023-10-29,,Rayo Vallecano,,,,Real Sociedad,,Estadio del Rayo Vallecano,,,,,,,,,,Home
-109,12,Sun,2023-11-05,,Alavés,,,,Almería,,Estadio de Mendizorroza,,,,,,,,,,Home
-110,12,Sun,2023-11-05,,Betis,,,,Mallorca,,Estadio Benito Villamarín,,,,,,,,,,Home
-111,12,Sun,2023-11-05,,Celta Vigo,,,,Sevilla,,Estadio de Balaídos,,,,,,,,,,Home
-112,12,Sun,2023-11-05,,Getafe,,,,Cádiz,,Coliseum Alfonso Pérez,,,,,,,,,,Home
-113,12,Sun,2023-11-05,,Las Palmas,,,,Atlético Madrid,,Estadio de Gran Canaria,,,,,,,,,,Home
-114,12,Sun,2023-11-05,,Osasuna,,,,Girona,,Estadio El Sadar,,,,,,,,,,Home
-115,12,Sun,2023-11-05,,Real Madrid,,,,Rayo Vallecano,,Estadio Santiago Bernabéu,,,,,,,,,,Home
-116,12,Sun,2023-11-05,,Real Sociedad,,,,Barcelona,,Reale Arena,,,,,,,,,,Home
-117,12,Sun,2023-11-05,,Valencia,,,,Granada,,Estadio de Mestalla,,,,,,,,,,Home
-118,12,Sun,2023-11-05,,Villarreal,,,,Athletic Club,,Estadio de la Cerámica,,,,,,,,,,Home
-119,13,Sun,2023-11-12,,Almería,,,,Real Sociedad,,Power Horse Stadium,,,,,,,,,,Home
-120,13,Sun,2023-11-12,,Athletic Club,,,,Celta Vigo,,San Mamés,,,,,,,,,,Home
-121,13,Sun,2023-11-12,,Atlético Madrid,,,,Villarreal,,Estadio Cívitas Metropolitano,,,,,,,,,,Home
-122,13,Sun,2023-11-12,,Barcelona,,,,Alavés,,Estadi Olímpic Lluís Companys,,,,,,,,,,Home
-123,13,Sun,2023-11-12,,Granada,,,,Getafe,,Estadio Nuevo Los Cármenes,,,,,,,,,,Home
-124,13,Sun,2023-11-12,,Mallorca,,,,Cádiz,,Iberostar Estadi,,,,,,,,,,Home
-125,13,Sun,2023-11-12,,Osasuna,,,,Las Palmas,,Estadio El Sadar,,,,,,,,,,Home
-126,13,Sun,2023-11-12,,Rayo Vallecano,,,,Girona,,Estadio del Rayo Vallecano,,,,,,,,,,Home
-127,13,Sun,2023-11-12,,Real Madrid,,,,Valencia,,Estadio Santiago Bernabéu,,,,,,,,,,Home
-128,13,Sun,2023-11-12,,Sevilla,,,,Betis,,Estadio Ramón Sánchez Pizjuán,,,,,,,,,,Home
+99,11,Fri,2023-10-27,21:00,Girona,,,,Celta Vigo,,Estadi Municipal de Montilivi,,,,,,,,,,Home
+100,11,Sat,2023-10-28,14:00,Almería,,,,Las Palmas,,Power Horse Stadium,,,,,,,,,,Home
+101,11,Sat,2023-10-28,16:15,Barcelona,,,,Real Madrid,,Estadi Olímpic Lluís Companys,,,,,,,,,,Home
+102,11,Sat,2023-10-28,21:00,Cádiz,,,,Sevilla,,Estadio Nuevo Mirandilla,,,,,,,,,,Home
+103,11,Sat,2023-10-28,18:30,Mallorca,,,,Getafe,,Iberostar Estadi,,,,,,,,,,Home
+104,11,Sun,2023-10-29,18:30,Athletic Club,,,,Valencia,,San Mamés,,,,,,,,,,Home
+105,11,Sun,2023-10-29,21:00,Atlético Madrid,,,,Alavés,,Estadio Cívitas Metropolitano,,,,,,,,,,Home
+106,11,Sun,2023-10-29,14:00,Betis,,,,Osasuna,,Estadio Benito Villamarín,,,,,,,,,,Home
+107,11,Sun,2023-10-29,16:15,Rayo Vallecano,,,,Real Sociedad,,Estadio del Rayo Vallecano,,,,,,,,,,Home
+108,11,Mon,2023-10-30,21:00,Granada,,,,Villarreal,,Estadio Nuevo Los Cármenes,,,,,,,,,,Home
+109,12,Fri,2023-11-03,20:00,Las Palmas,,,,Atlético Madrid,,Estadio de Gran Canaria,,,,,,,,,,Home
+110,12,Sat,2023-11-04,16:15,Betis,,,,Mallorca,,Estadio Benito Villamarín,,,,,,,,,,Home
+111,12,Sat,2023-11-04,18:30,Celta Vigo,,,,Sevilla,,Estadio de Balaídos,,,,,,,,,,Home
+112,12,Sat,2023-11-04,14:00,Osasuna,,,,Girona,,Estadio El Sadar,,,,,,,,,,Home
+113,12,Sat,2023-11-04,21:00,Real Sociedad,,,,Barcelona,,Reale Arena,,,,,,,,,,Home
+114,12,Sun,2023-11-05,14:00,Alavés,,,,Almería,,Estadio de Mendizorroza,,,,,,,,,,Home
+115,12,Sun,2023-11-05,21:00,Real Madrid,,,,Rayo Vallecano,,Estadio Santiago Bernabéu,,,,,,,,,,Home
+116,12,Sun,2023-11-05,16:15,Valencia,,,,Granada,,Estadio de Mestalla,,,,,,,,,,Home
+117,12,Sun,2023-11-05,18:30,Villarreal,,,,Athletic Club,,Estadio de la Cerámica,,,,,,,,,,Home
+118,12,Mon,2023-11-06,21:00,Getafe,,,,Cádiz,,Coliseum Alfonso Pérez,,,,,,,,,,Home
+119,13,Fri,2023-11-10,21:00,Athletic Club,,,,Celta Vigo,,San Mamés,,,,,,,,,,Home
+120,13,Sat,2023-11-11,16:15,Almería,,,,Real Sociedad,,Power Horse Stadium,,,,,,,,,,Home
+121,13,Sat,2023-11-11,18:30,Granada,,,,Getafe,,Estadio Nuevo Los Cármenes,,,,,,,,,,Home
+122,13,Sat,2023-11-11,18:30,Osasuna,,,,Las Palmas,,Estadio El Sadar,,,,,,,,,,Home
+123,13,Sat,2023-11-11,14:00,Rayo Vallecano,,,,Girona,,Estadio del Rayo Vallecano,,,,,,,,,,Home
+124,13,Sat,2023-11-11,21:00,Real Madrid,,,,Valencia,,Estadio Santiago Bernabéu,,,,,,,,,,Home
+125,13,Sun,2023-11-12,21:00,Atlético Madrid,,,,Villarreal,,Estadio Cívitas Metropolitano,,,,,,,,,,Home
+126,13,Sun,2023-11-12,16:15,Barcelona,,,,Alavés,,Estadi Olímpic Lluís Companys,,,,,,,,,,Home
+127,13,Sun,2023-11-12,14:00,Mallorca,,,,Cádiz,,Iberostar Estadi,,,,,,,,,,Home
+128,13,Sun,2023-11-12,18:30,Sevilla,,,,Betis,,Estadio Ramón Sánchez Pizjuán,,,,,,,,,,Home
 129,14,Sun,2023-11-26,,Alavés,,,,Granada,,Estadio de Mendizorroza,,,,,,,,,,Home
 130,14,Sun,2023-11-26,,Atlético Madrid,,,,Mallorca,,Estadio Cívitas Metropolitano,,,,,,,,,,Home
 131,14,Sun,2023-11-26,,Betis,,,,Las Palmas,,Estadio Benito Villamarín,,,,,,,,,,Home

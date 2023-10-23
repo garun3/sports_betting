@@ -1,21 +1,21 @@
 ,Date,HomeTeam,AwayTeam,O2.5,U2.5,HomeTeamWinOdds,AwayTeamWinOdds,DrawOdds
-0,2023-10-07,Luton,Tottenham Hotspur,1.44,2.62,7.0,1.44,4.75
-1,2023-10-07,Everton,Bournemouth,1.8,1.91,1.91,3.75,3.7
-2,2023-10-07,Manchester United,Brentford,1.62,2.2,1.7,4.5,4.0
-3,2023-10-07,Burnley,Chelsea,1.7,2.05,4.75,1.7,3.8
-4,2023-10-07,Fulham,Sheffield United,1.85,1.85,1.6,5.8,3.9
-5,2023-10-07,Crystal Palace,Nottingham Forest,2.2,1.62,2.15,3.5,3.25
-6,2023-10-08,Wolverhampton Wanderers,Aston Villa,1.73,2.0,3.3,2.1,3.6
-7,2023-10-08,Brighton and Hove Albion,Liverpool,1.33,3.25,3.1,2.0,4.2
-8,2023-10-08,West Ham United,Newcastle United,1.67,2.1,3.3,2.05,3.7
-9,2023-10-08,Arsenal,Manchester City,1.7,2.05,2.75,2.4,3.6
-10,2023-10-21,Liverpool,Everton,1.4,2.75,1.33,8.0,5.5
-11,2023-10-21,Bournemouth,Wolverhampton Wanderers,1.8,1.91,2.38,2.8,3.5
-12,2023-10-21,Brentford,Burnley,1.8,1.91,1.73,4.5,3.8
-13,2023-10-21,Manchester City,Brighton and Hove Albion,1.36,3.0,1.4,6.5,5.5
-14,2023-10-21,Newcastle United,Crystal Palace,1.73,2.0,1.44,7.0,4.4
-15,2023-10-21,Nottingham Forest,Luton,2.0,1.73,1.73,4.75,3.7
-16,2023-10-21,Chelsea,Arsenal,1.8,1.91,3.25,2.1,3.6
-17,2023-10-21,Sheffield United,Manchester United,1.6,2.25,5.8,1.5,4.5
-18,2023-10-22,Aston Villa,West Ham United,1.62,2.2,1.91,3.6,3.8
-19,2023-10-23,Tottenham Hotspur,Fulham,1.57,2.3,1.5,5.8,4.5
+0,2023-10-21,Liverpool,Everton,1.36,3.0,1.33,8.0,5.5
+1,2023-10-21,Bournemouth,Wolverhampton Wanderers,1.73,2.0,2.38,2.8,3.5
+2,2023-10-21,Brentford,Burnley,1.8,1.91,1.73,4.5,3.8
+3,2023-10-21,Manchester City,Brighton and Hove Albion,1.36,3.0,1.4,6.5,5.0
+4,2023-10-21,Newcastle United,Crystal Palace,1.7,2.05,1.44,7.5,4.4
+5,2023-10-21,Nottingham Forest,Luton,1.91,1.8,1.6,5.8,3.8
+6,2023-10-21,Chelsea,Arsenal,1.8,1.91,3.0,2.38,3.25
+7,2023-10-21,Sheffield United,Manchester United,1.57,2.3,7.5,1.4,4.75
+8,2023-10-22,Aston Villa,West Ham United,1.53,2.38,1.91,3.6,3.9
+9,2023-10-23,Tottenham Hotspur,Fulham,1.44,2.62,1.44,6.0,4.75
+10,2023-10-27,Crystal Palace,Tottenham Hotspur,1.73,2.0,3.4,2.0,3.7
+11,2023-10-28,Chelsea,Brentford,1.8,1.91,1.65,5.0,4.0
+12,2023-10-28,Arsenal,Sheffield United,1.4,2.75,1.12,19.0,8.5
+13,2023-10-28,Bournemouth,Burnley,1.8,1.91,2.1,3.3,3.6
+14,2023-10-28,Wolverhampton Wanderers,Newcastle United,1.7,2.05,4.2,1.75,4.0
+15,2023-10-29,West Ham United,Everton,1.73,2.0,1.95,3.5,3.9
+16,2023-10-29,Aston Villa,Luton,1.57,2.3,1.3,9.0,5.5
+17,2023-10-29,Brighton and Hove Albion,Fulham,1.5,2.5,1.5,5.8,4.6
+18,2023-10-29,Liverpool,Nottingham Forest,1.4,2.75,1.25,10.0,6.0
+19,2023-10-29,Manchester United,Manchester City,1.62,2.2,4.2,1.75,4.0

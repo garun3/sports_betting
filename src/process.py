@@ -58,7 +58,7 @@ def home_away(df):
     df = df.sort_values(by='GameID').reset_index(drop=True)
     return df
 
-#@cache_to_csv(config.CACHE_PATH + "processed1.csv", refresh_time=10)#config.REFRESH_TIME)
+@cache_to_csv(config.CACHE_PATH + "processed1.csv", refresh_time=10)#config.REFRESH_TIME)
 def preprocess(total_df):    
     try:
         total_df['Date'] = pd.to_datetime(total_df['Date'], dayfirst=True, format='mixed')
@@ -113,7 +113,6 @@ def rolling_averages(group, cols, new_cols):
     group = group.sort_values(by='Date')
     rolling_stats = group[cols].rolling(3, min_periods=2, closed='left').mean()
     group[new_cols] = rolling_stats
-    print(dict(group.isna().sum()))
     group = group.dropna(subset=new_cols)
     return group
 
@@ -163,7 +162,6 @@ def add_xg(df):
 
 def add_ou(df):
     path = f'{config.PATH}/{config.CACHE_PATH}/current_odds.csv'
-    print(path)
     ou = pd.read_csv(path)
     ou = rename_cols(ou)
     li1 = ou['Team'].unique()
@@ -220,6 +218,7 @@ def create_stats(df):
     fifa_cols1 = ['AttackRatingFIFA', 'MidfieldRatingFIFA', 'DefenseRatingFIFA']
     
     df = get_elo_data(df)
+    print(df['Team'].unique(), 'cols')
     df = add_fifa(df)
     if config.XG:
         df = add_xg(df)
@@ -269,13 +268,13 @@ def prep_data(rolling, date):
     #print(recent_rolling)
     #print(sched.shape, 'hi', recent_rolling.columns, sched.columns)
     #xG = pd.read_csv(f'cache/{league}/xG.csv')
-
+    print(sched['Team'].unique(), 'teams')
     
     #sched = self.add_xg(sched)
     #print(sched.columns, 'columns')
     sched['Date'] = pd.to_datetime(sched['Date'])
     sched = sched.merge(recent_rolling[['Team', 'TeamELO']], on='Team', how='inner')
-    print(sched.head(10)[['Date','Team', 'Opponent']].sort_values('Date'))
+    #print(sched.head(10)[['Date','Team', 'Opponent']].sort_values('Date'))
     #print(sched.columns, 'columns')
     #print(sched.shape)
     sched = sched.merge(recent_rolling[['Opponent', 'OpponentELO']], on='Opponent', how='inner')
@@ -283,12 +282,13 @@ def prep_data(rolling, date):
     #return sched.merge(xG[['Date', 'Team', 'TeamxG', 'OpponentxG']], on=['Date', 'Team'])
     
     sched = sched.sort_values('Date').drop_duplicates(['Date', 'Team'])
-    print(sched.head(10)[['Date','Team', 'Opponent']])
+    #print(sched.head(10)[['Date','Team', 'Opponent']])
     sched = add_fifa(sched)
     if config.XG:
         sched = add_xg(sched)
+    print(sched['Team'].unique(), 'teams')
     sched = add_ou(sched)
-    print(sched.head(10)['Team'])
+    #print(sched.head(10)['Team'])
     sched = home_away(sched)
     fifa_cols = [('AttackRatingFIFA', 'DefenseRatingFIFA'),
      ('AttackRatingFIFA', 'MidfieldRatingFIFA'),
@@ -303,7 +303,7 @@ def prep_data(rolling, date):
     sched = sched.sort_values('Date')
     #sched, _ = self.create_rolling(sched, ['TotalELO'])
     #return sched
-    print(sched.head(10)['Team'])
+    #print(sched.head(10)['Team'])
     #return sched
     #print(sched, 'team')
     #print(sched,' hey')
@@ -318,7 +318,7 @@ def prep_data(rolling, date):
     #return sched[sched.columns.intersection(elo.columns)]
     new = pd.concat([rolling, sched[sched.columns.intersection(rolling.columns)]], axis=0).reset_index(drop=True)
     #return new
-    print(new['Date'].unique())
+    #print(new['Date'].unique())
     #['Date'].unique(),'hi')
     #new['TotalGoals'] = new['TeamGoals'] + new['OpponentGoals']
     new['Date'] = pd.to_datetime(new['Date'], dayfirst=True).dt.date
@@ -328,17 +328,17 @@ def prep_data(rolling, date):
     #return new
     #new = self.create_predictors(new)
     new, new_cols = calculate_totals(new, total_cols)
-    print(new.head(10)['Team'], '1')
+    #print(new.head(10)['Team'], '1')
     new, new_cols = create_rolling(new, new_cols)
-    print(new.head(10)['Team'], '2')
-    print(new.to_csv('test1.csv'))
+    #print(new.head(10)['Team'], '2')
+    #print(new.to_csv('test1.csv'))
     new, new_cols = create_rolling(new, ind_cols)
-    print(new.to_csv('test.csv'))
-    print(new.head(10)['Team'], '3')
+    #print(new.to_csv('test.csv'))
+    #print(new.head(10)['Team'], '3')
     new, dif_cols = calculate_difs(new, total_cols1)
-    print(new.head(10)['Team'], '4')
+    #print(new.head(10)['Team'], '4')
     new = create_predictors(new)
-    print(new.head(10)['Team'], '5')
+    #print(new.head(10)['Team'], '5')
     #numeric_cols = ['Shots', 'ShotsonTarget', 'Fouls', 'Corners', 'YellowCards', 'RedCards']
     #cols = ['Goals','Shots', 'ShotsonTarget', 'Corners']
     #dif_cols = 

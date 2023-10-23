@@ -93,7 +93,7 @@ def get_elo_data(full_df):
             elo_df = pd.concat([elo_df,elo])
         except:
             missing.append(club)
-    print(missing)
+    print(missing, 'missing')
     elo_df = elo_df.reset_index()
     elo_df = elo_df[elo_df['from'] > '2000'] 
     out = add_elo(elo_df, full_df)
@@ -116,7 +116,8 @@ def add_elo(elo_df, full_df):
 def get_understat():
     league_dic = {'PremierLeague': 'EPL',
     'LaLiga': 'La_Liga',
-    'SerieA': 'Serie_A'}
+    'SerieA': 'Serie_A',
+    'Bundesliga': 'Bundesliga'}
     understat = UnderstatClient()
     years = range(2014,2024)
     teams = set()
@@ -171,7 +172,8 @@ def get_current_odds():
 
     league_dic = {'PremierLeague':'soccer_epl',
     'LaLiga':'soccer_spain_la_liga',
-    'SerieA': 'soccer_italy_serie_a'}
+    'SerieA': 'soccer_italy_serie_a',
+    'Bundesliga': 'soccer_germany_bundesliga'}
     SPORT = league_dic[config.LEAGUE]
     odds_response = requests.get(f'https://api.the-odds-api.com/v4/sports/{SPORT}/odds', params={
         'api_key': API_KEY,
@@ -209,8 +211,13 @@ def get_current_odds():
 
 @cache_to_csv(config.CACHE_PATH + "fifa.csv", refresh_time=259200)
 def update_fifa():
+    leagues = {'PremierLeague':'ENG-Premier League',
+ 'LaLiga':'ESP-La Liga',
+ 'Ligue1':'FRA-Ligue 1',
+ 'Bundesliga':'GER-Bundesliga',
+ 'SerieA':'ITA-Serie A'}
     df = pd.read_csv(f'{config.PATH}/{config.CACHE_PATH}/fifa.csv')
-    fifa = sd.SoFIFA(leagues=config.LEAGUE, versions='latest')
+    fifa = sd.SoFIFA(leagues=leagues[config.LEAGUE], versions='latest')
 
     new = fifa.read_team_ratings()
     new_dates = new['update']
